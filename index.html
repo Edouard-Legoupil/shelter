@@ -1,65 +1,333 @@
 <!DOCTYPE html>
-<html>
+<html lang='en'>
+<head>
+<meta charset='utf-8'>
+<meta content='width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0' name='viewport'>
+<meta name="author" content="Edouard Legoupil">
 
-  <head>
-    <meta charset='utf-8' />
-    <meta http-equiv="X-UA-Compatible" content="chrome=1" />
-    <meta name="description" content="Shelter : Shelter Condition Analysis" />
+<meta property="og:title" content="Refugee Shelter Condition in Jordan"/>
+<meta property="og:type" content="article"/>
+<meta property="og:url" content="http://data.unhcr.org/jordan/rrp6"/>
+<meta property="og:image" content="http://data.unhcr.org/jordan/rrp6/thumbnail.jpg"/>
+<meta property="og:site_name" content="2014 Refugee Response in Jordan"/>
+<meta property="og:description" content="2014 Refugee Response in Jordan"/>
 
-    <link rel="stylesheet" type="text/css" media="screen" href="stylesheets/stylesheet.css">
 
-    <title>Shelter</title>
+    <title>Refugee Shelter Condition in Jordan</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- Bootstrap -->
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <link rel="stylesheet" type="text/css" href="css/dc.css"/>
+    <link rel="stylesheet" type="text/css" href="css/3w-dashboard.css"/>
+    <script src="js/jquery.js"></script>
+    <script src="js/data-jo.js"></script>
+  <link href="http://www.unhcr.org/favicon.ico" rel="icon" type="image/x-icon">
   </head>
 
   <body>
 
-    <!-- HEADER -->
-    <div id="header_wrap" class="outer">
-        <header class="inner">
-          <a id="forkme_banner" href="https://github.com/Edouard-Legoupil/shelter">View on GitHub</a>
-
-          <h1 id="project_title">Shelter</h1>
-          <h2 id="project_tagline">Shelter Condition Analysis</h2>
-
-            <section id="downloads">
-              <a class="zip_download_link" href="https://github.com/Edouard-Legoupil/shelter/zipball/master">Download this project as a .zip file</a>
-              <a class="tar_download_link" href="https://github.com/Edouard-Legoupil/shelter/tarball/master">Download this project as a tar.gz file</a>
-            </section>
-        </header>
+    <div class ="col-sm-4 col-md-offset4" id="loading">
+        <h1>Patience: Loading the data... (~a few MB)</h1><small>Does not work on IE8 or older... <a href="https://www.mozilla.org/en-US/firefox/new/"></a>Upgrade your browser if needed</a></a></small>
     </div>
 
-    <!-- MAIN CONTENT -->
-    <div id="main_content_wrap" class="outer">
-      <section id="main_content" class="inner">
-        <h1>
-<a name="visualisation-of-the-shelter-situation-for-refugees-in-jordan" class="anchor" href="#visualisation-of-the-shelter-situation-for-refugees-in-jordan"><span class="octicon octicon-link"></span></a>Visualisation of the Shelter Situation for Refugees In Jordan</h1>
+    <div class="container" id="dashboard">
+        <h1><strong>Shelter Condition of Refugees in Jordan</strong></h1>
+        <div class="col-xs-12">Explore <a href="http://www.unhcr.org/52b170e49.html" target="_blank" >Refugee Shelter Condition </a> in Jordan
+        for Refugee Crisis in Jordan (<i><small><a href="https://www.syrianrefugeeresponse.org" target="_blank" >source</a></small></i>). Click on any of those graphs below to filter and slice the data. More info on Jordan <a href="http://data.unhcr.org/syrianrefugees/country.php?id=107" target="_blank" >here</a>.</div>
 
-<p><a href="http://edouard-legoupil.github.io/homevisit-shelter">http://edouard-legoupil.github.io/homevisit-shelter</a></p>
+            <div class="socialmedia">
+                <table>
+                  <tr>
+                    <td valign="middle" ><a href="http://www.facebook.com/sharer.php?u=http://data.unhcr.org/jordan/shelter" target="_blank"><img src="images/Facebook.png" style="height: 25px; width: 25px"/></a></td>
+                    <td valign="middle"><a href="http://pinterest.com/pin/create/button/?url=http%3A%2F%2Fdata.unhcr.org/jordan/shelter&amp;media=http%3A%2F%2Fdata.unhcr.org/jordan/shelter/thumbnail.png" target="_blank" data-pin-do="buttonBookmark" ><img src="images/Pinterest.png" style="height: 28px; width: 28px"/></a></td>
+                    <td valign="middle"><a href="https://twitter.com/intent/tweet?url=http://data.unhcr.org/jordan/shelter&text=%23Jordan%20@Refugees" target="_blank"><img src="images/Twitter.png" style="height: 25px; width: 25px"/></a></td>
+                    <td valign="middle"><a href="https://plus.google.com/share?&hl=en&url=http://data.unhcr.org/jordan/shelter" target="_blank"><img src="images/Google.png" style="height: 25px; width: 25px"/></a></td>
+                </tr>
+                </table>
+           </div>
 
-<p>A dc.js visualisation.</p>
 
-<p>Good tutorials here: </p>
-
-<p><a href="https://becomingadatascientist.wordpress.com/tag/dc-js/">https://becomingadatascientist.wordpress.com/tag/dc-js/</a>
-<a href="http://www.d3noob.org/2013/07/introduction-to-dcjs.html">http://www.d3noob.org/2013/07/introduction-to-dcjs.html</a>
-<a href="http://blog.rusty.io/2012/09/17/crossfilter-tutorial/">http://blog.rusty.io/2012/09/17/crossfilter-tutorial/</a></p>
-
-<p>and reference here:
-<a href="https://github.com/NickQiZhu/dc.js/wiki">https://github.com/NickQiZhu/dc.js/wiki</a></p>
-
-<p>D3 Tip is from here: <a href="https://github.com/saraquigley/uc-trends/">https://github.com/saraquigley/uc-trends/</a></p>
-      </section>
+    <div class="row">
+        <div id="count-info" class="col-xs-9">
+          <strong><span class="filter-count "></span></strong> selected out of <span class="total-count "></span> records
+        </div>
+        <div class="col-xs-3">
+          <a class="reset btn btn-primary btn-sm" id="reset" href="javascript:dc.filterAll();dc.redrawAll();">Reset All</a>
+        </div>
+        <br >
+    </div>
+    <div class="row">
+        <div class="col-md-4">
+          <div class="row">
+            <div id="size" class="col-xs-6">
+              <h4>Household Size</h4>
+            </div>
+            <div id="crowded" class="col-xs-6">
+              <h4>Crowded</h4>
+            </div>
+          </div>
+          <div class="row">
+            <div id="condition" class="col-xs-6">
+              <h4>Condition of Shelter</h4>
+            </div>
+            <div id="access" class="col-xs-6">
+              <h4>Type of Access</h4>
+              <div class="col-xs-12">By number of household</div>
+           </div>
+          </div>
+        </div>
+        <div id="type" class="col-md-4">
+              <h4>Type of Shelter</h4>
+        </div>
+        <div id="map" class="col-md-4">
+          <h4>Geographic filter:<a href="javascript:governoratesMapShow();">Governorates</a> -or- Regions</h4>
+          <p><small>Some activities are country-wide or for camps only.</small></p>
+        </div>
+        <div id="map2" class="col-md-4">
+          <h4>Geographic filter: Governorates -or- <a href="javascript:regionsMapShow();">Regions</a></h4>
+          <p><small>Some activities are country-wide or for camps only.</small></p>
+        </div>
     </div>
 
-    <!-- FOOTER  -->
-    <div id="footer_wrap" class="outer">
-      <footer class="inner">
-        <p class="copyright">Shelter maintained by <a href="https://github.com/Edouard-Legoupil">Edouard-Legoupil</a></p>
-        <p>Published with <a href="http://pages.github.com">GitHub Pages</a></p>
-      </footer>
+
+
+
+
     </div>
+    <small></samll><a href="https://github.com/edouard-legoupil/3W-Dashboard/" target="_blank" >Credit</a></small>
 
-    
+    <script type="text/javascript" src="js/d3.js"></script>
+    <script type="text/javascript" src="js/crossfilter.js"></script>
+    <script type="text/javascript" src="js/dc.js"></script>
+    <script type="text/javascript" src="js/d3.tip.min.js"></script>
 
+    <script>
+
+        function regionsMapShow(){
+            $('#map2').hide();
+            $('#map').show();
+            map2_chart.filterAll();
+            dc.redrawAll();
+        }
+
+        function governoratesMapShow(){
+            $('#map').hide();
+            $('#map2').show();
+        }
+        $('#dashboard').hide();
+        $('#map').hide();
+        
+        var size_chart = dc.pieChart("#size");
+        var crowded_chart = dc.pieChart("#crowded");
+        var type_chart = dc.rowChart("#type");
+        var condition_chart = dc.rowChart("#condition");
+        var access_chart = dc.rowChart("#access");
+        var map_chart = dc.geoChoroplethChart("#map");
+        var map2_chart = dc.geoChoroplethChart("#map2");
+
+        d3.csv("data/Data-jo-shelter2.csv", function(csv_data){
+
+            var numberFormat = d3.format(",f");
+
+            var cf = crossfilter(csv_data);
+
+            cf.type = cf.dimension(function(d) { return d.TypeOfShelter; });
+            cf.access = cf.dimension(function(d) { return d.TypeOfAccess; });
+            cf.condition = cf.dimension(function(d) { return d.Condition; });
+            cf.crowded = cf.dimension(function(d) { return d.Crowded; });
+            cf.householdsize = cf.dimension(function(d) { return d.HouseholdSize; });
+            cf.household = cf.dimension(function(d) { return d.Household; });
+            cf.rcode = cf.dimension(function(d) { return d.RegionCODE; });
+            cf.gcode = cf.dimension(function(d) { return d.GovCODE; });
+
+            var type = cf.type.group();
+            var access = cf.access.group();
+            var condition = cf.condition.group();
+            var crowded = cf.crowded.group();
+            
+            var rcode = cf.rcode.group();
+            var gcode = cf.gcode.group();
+            var all = cf.groupAll();
+
+            var typeByHousehold = cf.type.group().reduceSum(function (d) { return d.Household; });
+            var accessByHousehold = cf.access.group().reduceSum(function (d) { return d.Household; });
+            var conditionByHousehold = cf.condition.group().reduceSum(function (d) { return d.Household; });
+            var crowdedByHousehold = cf.crowded.group().reduceSum(function (d) { return d.Household; });
+            var householdsizeByHousehold = cf.householdsize.group().reduceSum(function (d) { return d.Household; });
+
+
+            // tooltips for row chart
+            var rowTip = d3.tip()
+                  .attr('class', 'd3-tip')
+                  .offset([-10, 0])
+                  .html(function (d) { return "<span style='color: #f0027f'>" +  d.key + "</span> : "  + numberFormat(d.value) + " Households"; });
+
+            // tooltips for pie chart
+            var pieTip = d3.tip()
+                  .attr('class', 'd3-tip')
+                  .offset([-10, 0])
+                  .html(function (d) { return "<span style='color: #f0027f'>" +  d.data.key + "</span> : "  + numberFormat(d.value) + " Households"; });
+
+            // tooltips for bar chart
+            var barTip = d3.tip()
+                  .attr('class', 'd3-tip')
+                  .offset([-10, 0])
+                  .html(function (d) { return "<span style='color: #f0027f'>" + d.data.key + "</span> : " + numberFormat(d.y) + " Households";});
+
+
+            console.log(all.value());
+
+
+             /* 3W data are sorted per type and color are allocated to types as per standard code in shelter */
+            size_chart.width(180).height(180)
+                .dimension(cf.householdsize)
+                .group(householdsizeByHousehold)
+                .innerRadius(10)
+                .colors(['#c00000', /* cash */
+                        '#31859c', /* education */
+                        '#948a54', /* food */
+                        '#43b305', /* health */
+                        '#026cb6', /* nfi */
+                        '#1f4981', /* protection */
+                        '#ffc000', /* shelter */
+                        '#8064a2', /* wash */
+                        ])
+                .colorDomain([0,7])
+                .renderLabel(true)
+                .colorAccessor(function(d, i){return i%8;});
+                                 
+             crowded_chart.width(120).height(120)
+                .dimension(cf.crowded)
+                .group(crowdedByHousehold)
+                .innerRadius(5)
+                .colors(['#c00000', /* no */
+                        '#31859c', /* yes */
+                        ])
+                .colorDomain([0,1])
+                .renderLabel(true)
+                .colorAccessor(function(d, i){return i%8;});
+                
+                                
+            type_chart.width(400).height(380)
+                .dimension(cf.type)
+                .group(typeByHousehold)
+                .elasticX(true)
+                .xAxis().ticks(4).tickFormat(d3.format("s"));    
+                
+            condition_chart.width(220).height(180)
+                .dimension(cf.condition)
+                .group(conditionByHousehold)
+                .elasticX(true)
+                .xAxis().ticks(4).tickFormat(d3.format("s"));   
+                
+            access_chart.width(220).height(180)
+                .dimension(cf.access)
+                .group(accessByHousehold)
+                .elasticX(true)
+                .data(function(group) {
+                    return group.top(10);
+                })
+                .colors(['#3182bd'])
+                .colorDomain([0,0])
+                .colorAccessor(function(d, i){return 1;})
+                .xAxis().ticks(4).tickFormat(d3.format("s"));
+
+
+            dc.dataCount("#count-info")
+
+        .dimension(cf)
+        .group(all);
+
+             /* Region map with ID rid */
+            d3.json("data/region.geojson", function (regionsJSON) {
+
+                map_chart.width(400).height(300)
+                    .dimension(cf.rcode)
+                    .group(rcode)
+                    .colors(['#AAAAAA', '#CB181D'])
+                    .colorDomain([0, 1])
+                    .colorAccessor(function (d) {
+                        if(d>0){
+                            return 1;
+                        } else {
+                            return 0;
+                        }
+                    })
+                    .overlayGeoJson(regionsJSON.features, "Region", function (d) {
+                        return d.properties.rid;
+                    })
+                    .projection(d3.geo.mercator().center([42,29.9]).scale(3500)) /* Center on Jordan */
+                    .title(function (d) {
+                        return "Geo-Filter: " + rcode2reg[d.key];
+                    });
+
+             /* Governorate map with ID adm1_code */
+                    d3.json("data/admin1.geojson", function (governJSON){
+                        map2_chart.width(400).height(300)
+                            .dimension(cf.gcode)
+                            .group(gcode)
+                            .colors(['#AAAAAA', '#CB181D'])
+                            .colorDomain([0, 1])
+                            .colorAccessor(function (d) {
+                                if(d>0){
+                                    return 1;
+                                } else {
+                                    return 0;
+                                }
+                            })
+                            .overlayGeoJson(governJSON.features, "Governorates", function (d) {
+                                return d.properties.adm1_code;
+                            })
+                            .projection(d3.geo.mercator().center([42,29.9]).scale(3500)) /* Center on Jordan */
+                            .title(function (d) {
+                                return "Geo-Filter: " + gcode2gov[d.key];
+                            });
+
+
+
+                            $('#loading').hide();
+                            $('#dashboard').show();
+                            dc.renderAll();
+
+                            /* Customised infobox */
+                            d3.selectAll("g.row").call(rowTip);
+                            d3.selectAll("g.row").on('mouseover', rowTip.show)
+                                .on('mouseout', rowTip.hide);
+
+                            d3.selectAll(".pie-slice").call(pieTip);
+                            d3.selectAll(".pie-slice").on('mouseover', pieTip.show)
+                                .on('mouseout', pieTip.hide);
+
+                            d3.selectAll("rect.bar").call(barTip);
+                            d3.selectAll("rect.bar").on('mouseover', barTip.show)
+                                .on('mouseout', barTip.hide);
+
+                            d3.selectAll("rect.stack1").call(barTip);
+                            d3.selectAll("rect.stack1").on('mouseover', barTip.show)
+                                .on('mouseout', barTip.hide);
+
+                            d3.selectAll("rect.stack2").call(barTip);
+                            d3.selectAll("rect.stack2").on('mouseover', barTip.show)
+                                .on('mouseout', barTip.hide);
+
+                    });
+                });
+        });
+    </script>
+
+
+    <script src="js/bootstrap.min.js"></script>
+    <!-- Piwik -->
+    <script type="text/javascript">
+    var pkBaseURL = (("https:" == document.location.protocol) ? "https://data.unhcr.org/piwik/" : "http://data.unhcr.org/piwik/");
+    document.write(unescape("%3Cscript src='" + pkBaseURL + "piwik.js' type='text/javascript'%3E%3C/script%3E"));
+    </script><script type="text/javascript">
+    try {
+    var piwikTracker = Piwik.getTracker(pkBaseURL + "piwik.php", 21);
+    piwikTracker.trackPageView();
+    piwikTracker.enableLinkTracking();
+    } catch( err ) {}
+    </script><noscript><p><img src="http://data.unhcr.org/piwik/piwik.php?idsite=21" style="border:0" alt="" /></p></noscript>
+    <!-- End Piwik Tracking Code -->
   </body>
 </html>
