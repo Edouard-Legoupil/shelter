@@ -61,11 +61,13 @@
         <div class="col-md-4">
           <div class="row">
             <div id="size" class="col-xs-6">
-              <h4>Household Size</h4>
+              <h4>Case Size</h4>
+             <p><small>Number of individuals</small></p>
+            
             </div>
             <div id="crowded" class="col-xs-6">
               <h4>Crowdedness</h4>
-             <p><small>A house is considered crowded if there are more than 4 persons per room or that each individual has less than 2m 2 .</small></p>
+             <p><small>A shelter is considered crowded if there are more than 4 persons per room or that each individual has less than 2m 2 .</small></p>
             </div>
           </div>
           <div class="row">
@@ -126,7 +128,7 @@
         var map_chart = dc.geoChoroplethChart("#map");
         var map2_chart = dc.geoChoroplethChart("#map2");
 
-        d3.csv("data/Data-jo-shelter2.csv", function(csv_data){
+        d3.csv("data/Data-jo-shelter3.csv", function(csv_data){
 
             var numberFormat = d3.format(",f");
 
@@ -161,19 +163,19 @@
             var rowTip = d3.tip()
                   .attr('class', 'd3-tip')
                   .offset([-10, 0])
-                  .html(function (d) { return "<span style='color: #f0027f'>" +  d.key + "</span> : "  + numberFormat(d.value) + " Households"; });
+                  .html(function (d) { return "<span style='color: #f0027f'>" +  d.key + "</span> : "  + numberFormat(d.value) + " Cases"; });
 
             // tooltips for pie chart
             var pieTip = d3.tip()
                   .attr('class', 'd3-tip')
                   .offset([-10, 0])
-                  .html(function (d) { return "<span style='color: #f0027f'>" +  d.data.key + "</span> : "  + numberFormat(d.value) + " Households"; });
+                  .html(function (d) { return "<span style='color: #f0027f'>" +  d.data.key + "</span> : "  + numberFormat(d.value) + " Cases"; });
 
             // tooltips for bar chart
             var barTip = d3.tip()
                   .attr('class', 'd3-tip')
                   .offset([-10, 0])
-                  .html(function (d) { return "<span style='color: #f0027f'>" + d.data.key + "</span> : " + numberFormat(d.y) + " Households";});
+                  .html(function (d) { return "<span style='color: #f0027f'>" + d.data.key + "</span> : " + numberFormat(d.y) + " Cases";});
 
 
             console.log(all.value());
@@ -197,12 +199,12 @@
                 .renderLabel(true)
                 .colorAccessor(function(d, i){return i%8;});
                                  
-             crowded_chart.width(120).height(120)
+             crowded_chart.width(80).height(80)
                 .dimension(cf.crowded)
                 .group(crowdedByHousehold)
                 .innerRadius(5)
-                .colors(['#c00000', /* no */
-                        '#31859c', /* yes */
+                .colors(['#31859c', /* yes */
+						'#c00000' /* no */
                         ])
                 .colorDomain([0,1])
                 .renderLabel(true)
@@ -221,16 +223,11 @@
             condition_chart.width(220).height(180)
                 .dimension(cf.condition)
                 .group(conditionByHousehold)
-                .elasticX(true)
-                .data(function(group) {
-                    return group.top(10);
-                })
                 .xAxis().ticks(4).tickFormat(d3.format("s"));   
                 
             access_chart.width(220).height(180)
                 .dimension(cf.access)
                 .group(accessByHousehold)
-                .elasticX(true)
                 .data(function(group) {
                     return group.top(10);
                 })
@@ -324,17 +321,21 @@
 
 
     <script src="js/bootstrap.min.js"></script>
-    <!-- Piwik -->
-    <script type="text/javascript">
-    var pkBaseURL = (("https:" == document.location.protocol) ? "https://data.unhcr.org/piwik/" : "http://data.unhcr.org/piwik/");
-    document.write(unescape("%3Cscript src='" + pkBaseURL + "piwik.js' type='text/javascript'%3E%3C/script%3E"));
-    </script><script type="text/javascript">
-    try {
-    var piwikTracker = Piwik.getTracker(pkBaseURL + "piwik.php", 21);
-    piwikTracker.trackPageView();
-    piwikTracker.enableLinkTracking();
-    } catch( err ) {}
-    </script><noscript><p><img src="http://data.unhcr.org/piwik/piwik.php?idsite=21" style="border:0" alt="" /></p></noscript>
-    <!-- End Piwik Tracking Code -->
+    
+    
+<!-- Piwik -->
+<script type="text/javascript">
+var pkBaseURL = (("https:" == document.location.protocol) ? "https://data.unhcr.org/piwik/" : "http://data.unhcr.org/piwik/");
+document.write(unescape("%3Cscript src='" + pkBaseURL + "piwik.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script type="text/javascript">
+try {
+var piwikTracker = Piwik.getTracker(pkBaseURL + "piwik.php", 22);
+piwikTracker.trackPageView();
+piwikTracker.enableLinkTracking();
+} catch( err ) {}
+</script><noscript><p><img src="http://data.unhcr.org/piwik/piwik.php?idsite=22" style="border:0" alt="" /></p></noscript>
+<!-- End Piwik Tracking Code -->
+
+
   </body>
 </html>
