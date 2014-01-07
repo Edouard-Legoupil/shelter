@@ -1,6 +1,11 @@
 /*
  * Override dc.js default styles for selection
  */
+ 
+ .container
+{
+  width: 1150px;
+}
 
 .dc-chart .selected path {
     stroke-width: 1;

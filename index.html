@@ -18,7 +18,7 @@
     <!-- Bootstrap -->
     <link rel="stylesheet" href="css/bootstrap.min.css">
     <link rel="stylesheet" type="text/css" href="css/dc.css"/>
-    <link rel="stylesheet" type="text/css" href="css/3w-dashboard.css"/>
+    <link rel="stylesheet" type="text/css" href="css/dashboard.css"/>
     <script src="js/jquery.js"></script>
     <script src="js/data-jo.js"></script>
   <link href="http://www.unhcr.org/favicon.ico" rel="icon" type="image/x-icon">
@@ -35,6 +35,7 @@
         <div class="col-xs-12">Explore <a href="http://www.unhcr.org/52b170e49.html" target="_blank" >Refugee Shelter Condition </a> in Jordan
         for Refugee Crisis in Jordan (<i><small><a href="https://www.syrianrefugeeresponse.org" target="_blank" >source</a></small></i>). Click on any of those graphs below to filter and slice the data. More info on Jordan <a href="http://data.unhcr.org/syrianrefugees/country.php?id=107" target="_blank" >here</a>.</div>
 
+             <p>The Information presented here is based on based on data from more than 60,000 Home Visits from UNHCR/IRD </p>
             <div class="socialmedia">
                 <table>
                   <tr>
@@ -63,7 +64,8 @@
               <h4>Household Size</h4>
             </div>
             <div id="crowded" class="col-xs-6">
-              <h4>Crowded</h4>
+              <h4>Crowdedness</h4>
+             <p><small>A house is considered crowded if there are more than 4 persons per room or that each individual has less than 2m 2 .</small></p>
             </div>
           </div>
           <div class="row">
@@ -72,7 +74,6 @@
             </div>
             <div id="access" class="col-xs-6">
               <h4>Type of Access</h4>
-              <div class="col-xs-12">By number of household</div>
            </div>
           </div>
         </div>
@@ -81,11 +82,11 @@
         </div>
         <div id="map" class="col-md-4">
           <h4>Geographic filter:<a href="javascript:governoratesMapShow();">Governorates</a> -or- Regions</h4>
-          <p><small>Some activities are country-wide or for camps only.</small></p>
+          <p><small>Click on the map below to filter the visualisation</small></p>
         </div>
         <div id="map2" class="col-md-4">
           <h4>Geographic filter: Governorates -or- <a href="javascript:regionsMapShow();">Regions</a></h4>
-          <p><small>Some activities are country-wide or for camps only.</small></p>
+          <p><small>Click on the map below to filter the visualisation</small></p>
         </div>
     </div>
 
@@ -94,7 +95,7 @@
 
 
     </div>
-    <small></samll><a href="https://github.com/edouard-legoupil/3W-Dashboard/" target="_blank" >Credit</a></small>
+    <small></samll><a href="https://github.com/edouard-legoupil/shelter" target="_blank" >Credit</a></small>
 
     <script type="text/javascript" src="js/d3.js"></script>
     <script type="text/javascript" src="js/crossfilter.js"></script>
@@ -212,12 +213,18 @@
                 .dimension(cf.type)
                 .group(typeByHousehold)
                 .elasticX(true)
+                .data(function(group) {
+                    return group.top(10);
+                })
                 .xAxis().ticks(4).tickFormat(d3.format("s"));    
                 
             condition_chart.width(220).height(180)
                 .dimension(cf.condition)
                 .group(conditionByHousehold)
                 .elasticX(true)
+                .data(function(group) {
+                    return group.top(10);
+                })
                 .xAxis().ticks(4).tickFormat(d3.format("s"));   
                 
             access_chart.width(220).height(180)
