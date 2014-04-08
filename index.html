@@ -35,7 +35,7 @@
         <div class="col-xs-12"><strong>Explore</strong> Shelter Conditions for Syrian Refugees in Jordan.
          Click on any of those graphs below to filter and slice the data. More info on Jordan <a href="http://data.unhcr.org/syrianrefugees/country.php?id=107" target="_blank" >here</a>.</div>
 
-             <p>The Information presented here is based on data collected through more than 40,000 Home Visits by UNHCR/IRD. The graphs displays the number of refugee cases (i.e processing groups) for each of the analysis dimensions. </p>
+             <p>The Information presented here is based on data collected through more than <a href="http://www.unhcr.org/urban" target="_blank" >40,000 Home Visits by UNHCR/IRD</a>. The graphs displays the number of refugee cases (i.e processing groups) for each of the analysis dimensions. </p>
             <div class="socialmedia">
                 <table>
                   <tr>
@@ -128,7 +128,7 @@
         var map_chart = dc.geoChoroplethChart("#map");
         var map2_chart = dc.geoChoroplethChart("#map2");
 
-        d3.csv("data/Data-jo-shelter3.csv", function(csv_data){
+        d3.csv("data/Data-jo-shelter4.csv", function(csv_data){
 
             var numberFormat = d3.format(",f");
 
@@ -204,7 +204,7 @@
                 .group(crowdedByHousehold)
                 .innerRadius(5)
                 .colors(['#31859c', /* yes */
-						'#c00000' /* no */
+                        '#c00000' /* no */
                         ])
                 .colorDomain([0,1])
                 .renderLabel(true)

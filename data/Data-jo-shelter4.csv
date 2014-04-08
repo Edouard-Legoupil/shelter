@@ -1,0 +1,2242 @@
+RegionCODE,GovCODE,Governorate,TypeOfShelter,TypeOfAccess,Condition,Crowded,HouseholdSize,Household
+1,1701,Ajloun,Basement,Rent/Lease,2-Adequate/standard,No,1 Ind,3
+1,1701,Ajloun,Basement,Rent/Lease,2-Adequate/standard,No,2 Ind,4
+1,1701,Ajloun,Basement,Rent/Lease,2-Adequate/standard,No,3 Ind,2
+1,1701,Ajloun,Basement,Rent/Lease,2-Adequate/standard,No,4 Ind,4
+1,1701,Ajloun,Basement,Free,2-Adequate/standard,No,5 Ind,1
+1,1701,Ajloun,Basement,Rent/Lease,2-Adequate/standard,No,5 Ind,3
+1,1701,Ajloun,Basement,Rent/Lease,2-Adequate/standard,No,6 Ind,2
+1,1701,Ajloun,Basement,Rent/Lease,2-Adequate/standard,No,7 Ind,1
+1,1701,Ajloun,Basement,Rent/Lease,3-Inadequate/sub-standard,No,1 Ind,6
+1,1701,Ajloun,Basement,Free,3-Inadequate/sub-standard,No,2 Ind,1
+1,1701,Ajloun,Basement,Rent/Lease,3-Inadequate/sub-standard,No,3 Ind,3
+1,1701,Ajloun,Basement,Other,3-Inadequate/sub-standard,No,4 Ind,1
+1,1701,Ajloun,Basement,Rent/Lease,3-Inadequate/sub-standard,No,4 Ind,1
+1,1701,Ajloun,Basement,Rent/Lease,3-Inadequate/sub-standard,No,5 Ind,4
+1,1701,Ajloun,Basement,Rent/Lease,3-Inadequate/sub-standard,No,6 Ind,2
+1,1701,Ajloun,Basement,Rent/Lease,3-Inadequate/sub-standard,No,7 Ind,1
+1,1701,Ajloun,Basement,Rent/Lease,3-Inadequate/sub-standard,No,8 Ind,1
+1,1701,Ajloun,Basement,Rent/Lease,4-Emergency,No,1 Ind,1
+1,1701,Ajloun,Basement,N\A,5. N\A,No,1 Ind,12
+1,1701,Ajloun,Basement,N\A,5. N\A,No,2 Ind,6
+1,1701,Ajloun,Basement,N\A,5. N\A,No,3 Ind,3
+1,1701,Ajloun,Basement,N\A,5. N\A,No,4 Ind,6
+1,1701,Ajloun,Basement,N\A,5. N\A,No,5 Ind,6
+1,1701,Ajloun,Basement,N\A,5. N\A,No,6 Ind,3
+1,1701,Ajloun,Basement,N\A,5. N\A,No,8 Ind,1
+1,1701,Ajloun,Basement,N\A,5. N\A,Yes,2 Ind,1
+1,1701,Ajloun,Communal Centre,Free,2-Adequate/standard,No,1 Ind,1
+1,1701,Ajloun,Communal Centre,Rent/Lease,2-Adequate/standard,No,1 Ind,2
+1,1701,Ajloun,Communal Centre,Rent/Lease,2-Adequate/standard,No,2 Ind,1
+1,1701,Ajloun,Communal Centre,Free,2-Adequate/standard,No,3 Ind,1
+1,1701,Ajloun,Communal Centre,Rent/Lease,2-Adequate/standard,No,6 Ind,1
+1,1701,Ajloun,Communal Centre,Rent/Lease,3-Inadequate/sub-standard,No,1 Ind,1
+1,1701,Ajloun,Communal Centre,Rent/Lease,3-Inadequate/sub-standard,No,2 Ind,1
+1,1701,Ajloun,Communal Centre,Rent/Lease,3-Inadequate/sub-standard,No,3 Ind,1
+1,1701,Ajloun,Communal Centre,Rent/Lease,3-Inadequate/sub-standard,No,7 Ind,1
+1,1701,Ajloun,Communal Centre,Rent/Lease,3-Inadequate/sub-standard,Yes,9 Ind,1
+1,1701,Ajloun,Flat/Apartment,Rent/Lease,1-Above standard,No,3 Ind,1
+1,1701,Ajloun,Flat/Apartment,Rent/Lease,1-Above standard,No,5 Ind,1
+1,1701,Ajloun,Flat/Apartment,Rent/Lease,1-Above standard,Yes,5 Ind,1
+1,1701,Ajloun,Flat/Apartment,Rent/Lease,1-Above standard,Yes,7 Ind,1
+1,1701,Ajloun,Flat/Apartment,N\A,2-Adequate/standard,No,1 Ind,3
+1,1701,Ajloun,Flat/Apartment,Free,2-Adequate/standard,No,1 Ind,17
+1,1701,Ajloun,Flat/Apartment,Other,2-Adequate/standard,No,1 Ind,2
+1,1701,Ajloun,Flat/Apartment,Rent/Lease,2-Adequate/standard,No,1 Ind,329
+1,1701,Ajloun,Flat/Apartment,Rent/Lease,2-Adequate/standard,No,10 Ind,5
+1,1701,Ajloun,Flat/Apartment,N\A,2-Adequate/standard,No,2 Ind,1
+1,1701,Ajloun,Flat/Apartment,Free,2-Adequate/standard,No,2 Ind,11
+1,1701,Ajloun,Flat/Apartment,Other,2-Adequate/standard,No,2 Ind,2
+1,1701,Ajloun,Flat/Apartment,Rent/Lease,2-Adequate/standard,No,2 Ind,114
+1,1701,Ajloun,Flat/Apartment,Free,2-Adequate/standard,No,3 Ind,4
+1,1701,Ajloun,Flat/Apartment,Rent/Lease,2-Adequate/standard,No,3 Ind,135
+1,1701,Ajloun,Flat/Apartment,Free,2-Adequate/standard,No,4 Ind,6
+1,1701,Ajloun,Flat/Apartment,Other,2-Adequate/standard,No,4 Ind,1
+1,1701,Ajloun,Flat/Apartment,Rent/Lease,2-Adequate/standard,No,4 Ind,176
+1,1701,Ajloun,Flat/Apartment,N\A,2-Adequate/standard,No,5 Ind,2
+1,1701,Ajloun,Flat/Apartment,Free,2-Adequate/standard,No,5 Ind,4
+1,1701,Ajloun,Flat/Apartment,Rent/Lease,2-Adequate/standard,No,5 Ind,148
+1,1701,Ajloun,Flat/Apartment,N\A,2-Adequate/standard,No,6 Ind,1
+1,1701,Ajloun,Flat/Apartment,Free,2-Adequate/standard,No,6 Ind,1
+1,1701,Ajloun,Flat/Apartment,Owned,2-Adequate/standard,No,6 Ind,1
+1,1701,Ajloun,Flat/Apartment,Rent/Lease,2-Adequate/standard,No,6 Ind,110
+1,1701,Ajloun,Flat/Apartment,Free,2-Adequate/standard,No,7 Ind,2
+1,1701,Ajloun,Flat/Apartment,Rent/Lease,2-Adequate/standard,No,7 Ind,68
+1,1701,Ajloun,Flat/Apartment,Rent/Lease,2-Adequate/standard,No,8 Ind,32
+1,1701,Ajloun,Flat/Apartment,Rent/Lease,2-Adequate/standard,No,9 Ind,14
+1,1701,Ajloun,Flat/Apartment,Rent/Lease,2-Adequate/standard,Yes,1 Ind,5
+1,1701,Ajloun,Flat/Apartment,Free,2-Adequate/standard,Yes,2 Ind,1
+1,1701,Ajloun,Flat/Apartment,Rent/Lease,2-Adequate/standard,Yes,2 Ind,4
+1,1701,Ajloun,Flat/Apartment,Free,2-Adequate/standard,Yes,3 Ind,2
+1,1701,Ajloun,Flat/Apartment,Rent/Lease,2-Adequate/standard,Yes,3 Ind,3
+1,1701,Ajloun,Flat/Apartment,Rent/Lease,2-Adequate/standard,Yes,4 Ind,5
+1,1701,Ajloun,Flat/Apartment,Rent/Lease,2-Adequate/standard,Yes,5 Ind,6
+1,1701,Ajloun,Flat/Apartment,Owned,2-Adequate/standard,Yes,6 Ind,1
+1,1701,Ajloun,Flat/Apartment,Rent/Lease,2-Adequate/standard,Yes,6 Ind,6
+1,1701,Ajloun,Flat/Apartment,Rent/Lease,2-Adequate/standard,Yes,7 Ind,4
+1,1701,Ajloun,Flat/Apartment,Rent/Lease,2-Adequate/standard,Yes,9 Ind,2
+1,1701,Ajloun,Flat/Apartment,N\A,3-Inadequate/sub-standard,No,1 Ind,1
+1,1701,Ajloun,Flat/Apartment,Free,3-Inadequate/sub-standard,No,1 Ind,15
+1,1701,Ajloun,Flat/Apartment,Rent/Lease,3-Inadequate/sub-standard,No,1 Ind,198
+1,1701,Ajloun,Flat/Apartment,Rent/Lease,3-Inadequate/sub-standard,No,10 Ind,10
+1,1701,Ajloun,Flat/Apartment,Rent/Lease,3-Inadequate/sub-standard,No,11 Ind,1
+1,1701,Ajloun,Flat/Apartment,Rent/Lease,3-Inadequate/sub-standard,No,12 Ind,1
+1,1701,Ajloun,Flat/Apartment,Free,3-Inadequate/sub-standard,No,2 Ind,4
+1,1701,Ajloun,Flat/Apartment,Rent/Lease,3-Inadequate/sub-standard,No,2 Ind,103
+1,1701,Ajloun,Flat/Apartment,N\A,3-Inadequate/sub-standard,No,3 Ind,1
+1,1701,Ajloun,Flat/Apartment,Free,3-Inadequate/sub-standard,No,3 Ind,2
+1,1701,Ajloun,Flat/Apartment,Owned,3-Inadequate/sub-standard,No,3 Ind,2
+1,1701,Ajloun,Flat/Apartment,Rent/Lease,3-Inadequate/sub-standard,No,3 Ind,151
+1,1701,Ajloun,Flat/Apartment,N\A,3-Inadequate/sub-standard,No,4 Ind,1
+1,1701,Ajloun,Flat/Apartment,Free,3-Inadequate/sub-standard,No,4 Ind,8
+1,1701,Ajloun,Flat/Apartment,Other,3-Inadequate/sub-standard,No,4 Ind,1
+1,1701,Ajloun,Flat/Apartment,Rent/Lease,3-Inadequate/sub-standard,No,4 Ind,183
+1,1701,Ajloun,Flat/Apartment,Free,3-Inadequate/sub-standard,No,5 Ind,2
+1,1701,Ajloun,Flat/Apartment,Owned,3-Inadequate/sub-standard,No,5 Ind,1
+1,1701,Ajloun,Flat/Apartment,Rent/Lease,3-Inadequate/sub-standard,No,5 Ind,176
+1,1701,Ajloun,Flat/Apartment,Free,3-Inadequate/sub-standard,No,6 Ind,2
+1,1701,Ajloun,Flat/Apartment,Other,3-Inadequate/sub-standard,No,6 Ind,1
+1,1701,Ajloun,Flat/Apartment,Rent/Lease,3-Inadequate/sub-standard,No,6 Ind,137
+1,1701,Ajloun,Flat/Apartment,Rent/Lease,3-Inadequate/sub-standard,No,7 Ind,71
+1,1701,Ajloun,Flat/Apartment,Owned,3-Inadequate/sub-standard,No,8 Ind,1
+1,1701,Ajloun,Flat/Apartment,Rent/Lease,3-Inadequate/sub-standard,No,8 Ind,35
+1,1701,Ajloun,Flat/Apartment,Rent/Lease,3-Inadequate/sub-standard,No,9 Ind,18
+1,1701,Ajloun,Flat/Apartment,Free,3-Inadequate/sub-standard,Yes,1 Ind,1
+1,1701,Ajloun,Flat/Apartment,Rent/Lease,3-Inadequate/sub-standard,Yes,1 Ind,8
+1,1701,Ajloun,Flat/Apartment,Free,3-Inadequate/sub-standard,Yes,10 Ind,1
+1,1701,Ajloun,Flat/Apartment,Rent/Lease,3-Inadequate/sub-standard,Yes,10 Ind,2
+1,1701,Ajloun,Flat/Apartment,Rent/Lease,3-Inadequate/sub-standard,Yes,2 Ind,12
+1,1701,Ajloun,Flat/Apartment,N\A,3-Inadequate/sub-standard,Yes,3 Ind,1
+1,1701,Ajloun,Flat/Apartment,Free,3-Inadequate/sub-standard,Yes,3 Ind,1
+1,1701,Ajloun,Flat/Apartment,Rent/Lease,3-Inadequate/sub-standard,Yes,3 Ind,10
+1,1701,Ajloun,Flat/Apartment,Rent/Lease,3-Inadequate/sub-standard,Yes,4 Ind,10
+1,1701,Ajloun,Flat/Apartment,Free,3-Inadequate/sub-standard,Yes,5 Ind,1
+1,1701,Ajloun,Flat/Apartment,Rent/Lease,3-Inadequate/sub-standard,Yes,5 Ind,19
+1,1701,Ajloun,Flat/Apartment,Free,3-Inadequate/sub-standard,Yes,6 Ind,1
+1,1701,Ajloun,Flat/Apartment,Rent/Lease,3-Inadequate/sub-standard,Yes,6 Ind,13
+1,1701,Ajloun,Flat/Apartment,Rent/Lease,3-Inadequate/sub-standard,Yes,7 Ind,10
+1,1701,Ajloun,Flat/Apartment,Free,3-Inadequate/sub-standard,Yes,8 Ind,1
+1,1701,Ajloun,Flat/Apartment,Rent/Lease,3-Inadequate/sub-standard,Yes,8 Ind,7
+1,1701,Ajloun,Flat/Apartment,Owned,3-Inadequate/sub-standard,Yes,9 Ind,1
+1,1701,Ajloun,Flat/Apartment,Rent/Lease,3-Inadequate/sub-standard,Yes,9 Ind,4
+1,1701,Ajloun,Flat/Apartment,Rent/Lease,4-Emergency,No,1 Ind,2
+1,1701,Ajloun,Flat/Apartment,Rent/Lease,4-Emergency,No,2 Ind,2
+1,1701,Ajloun,Flat/Apartment,Rent/Lease,4-Emergency,No,3 Ind,3
+1,1701,Ajloun,Flat/Apartment,Rent/Lease,4-Emergency,No,4 Ind,2
+1,1701,Ajloun,Flat/Apartment,Rent/Lease,4-Emergency,No,7 Ind,1
+1,1701,Ajloun,Flat/Apartment,Rent/Lease,4-Emergency,No,8 Ind,1
+1,1701,Ajloun,Flat/Apartment,Rent/Lease,5. N\A,No,1 Ind,1
+1,1701,Ajloun,Flat/Apartment,Rent/Lease,5. N\A,No,2 Ind,2
+1,1701,Ajloun,Flat/Apartment,Rent/Lease,5. N\A,No,7 Ind,1
+1,1701,Ajloun,House,Rent/Lease,2-Adequate/standard,No,2 Ind,1
+1,1701,Ajloun,House,Rent/Lease,2-Adequate/standard,No,5 Ind,1
+1,1701,Ajloun,House,Rent/Lease,3-Inadequate/sub-standard,No,3 Ind,1
+1,1701,Ajloun,House,Rent/Lease,3-Inadequate/sub-standard,No,4 Ind,1
+1,1701,Ajloun,House,Rent/Lease,3-Inadequate/sub-standard,No,7 Ind,1
+1,1701,Ajloun,Mud-House,Rent/Lease,3-Inadequate/sub-standard,No,7 Ind,1
+1,1701,Ajloun,Mud-House,Free,3-Inadequate/sub-standard,Yes,2 Ind,1
+1,1701,Ajloun,Other,Free,2-Adequate/standard,No,1 Ind,1
+1,1701,Ajloun,Other,Rent/Lease,2-Adequate/standard,No,2 Ind,2
+1,1701,Ajloun,Other,Free,2-Adequate/standard,No,3 Ind,1
+1,1701,Ajloun,Other,Rent/Lease,2-Adequate/standard,No,3 Ind,1
+1,1701,Ajloun,Other,Rent/Lease,2-Adequate/standard,No,4 Ind,1
+1,1701,Ajloun,Other,Rent/Lease,2-Adequate/standard,No,5 Ind,1
+1,1701,Ajloun,Other,Free,3-Inadequate/sub-standard,No,1 Ind,1
+1,1701,Ajloun,Other,Rent/Lease,3-Inadequate/sub-standard,No,1 Ind,8
+1,1701,Ajloun,Other,Rent/Lease,3-Inadequate/sub-standard,No,2 Ind,4
+1,1701,Ajloun,Other,Rent/Lease,3-Inadequate/sub-standard,No,3 Ind,3
+1,1701,Ajloun,Other,Free,3-Inadequate/sub-standard,No,5 Ind,2
+1,1701,Ajloun,Other,Rent/Lease,3-Inadequate/sub-standard,No,5 Ind,1
+1,1701,Ajloun,Other,Rent/Lease,3-Inadequate/sub-standard,No,7 Ind,1
+1,1701,Ajloun,Other,Rent/Lease,3-Inadequate/sub-standard,No,8 Ind,1
+1,1701,Ajloun,Other,Rent/Lease,3-Inadequate/sub-standard,Yes,5 Ind,1
+1,1701,Ajloun,Other,Rent/Lease,3-Inadequate/sub-standard,Yes,7 Ind,1
+1,1701,Ajloun,Other,Rent/Lease,4-Emergency,No,1 Ind,1
+1,1701,Ajloun,Other,Rent/Lease,4-Emergency,No,3 Ind,1
+1,1701,Ajloun,Prefab,Rent/Lease,2-Adequate/standard,No,1 Ind,2
+1,1701,Ajloun,Prefab,Rent/Lease,2-Adequate/standard,No,2 Ind,2
+1,1701,Ajloun,Prefab,Rent/Lease,2-Adequate/standard,No,3 Ind,1
+1,1701,Ajloun,Prefab,Rent/Lease,2-Adequate/standard,No,5 Ind,2
+1,1701,Ajloun,Prefab,Rent/Lease,2-Adequate/standard,No,6 Ind,1
+1,1701,Ajloun,Prefab,Rent/Lease,3-Inadequate/sub-standard,No,1 Ind,1
+1,1701,Ajloun,Prefab,Rent/Lease,3-Inadequate/sub-standard,No,4 Ind,1
+1,1701,Ajloun,Prefab,Rent/Lease,3-Inadequate/sub-standard,No,5 Ind,1
+1,1701,Ajloun,Prefab,Rent/Lease,3-Inadequate/sub-standard,No,7 Ind,1
+1,1701,Ajloun,Prefab,Rent/Lease,3-Inadequate/sub-standard,Yes,12 Ind,1
+1,1701,Ajloun,Tent,Rent/Lease,3-Inadequate/sub-standard,No,1 Ind,1
+1,1701,Ajloun,Tent,Owned,3-Inadequate/sub-standard,No,3 Ind,1
+1,1701,Ajloun,Tent,Free,3-Inadequate/sub-standard,No,5 Ind,1
+1,1701,Ajloun,Tent,Owned,3-Inadequate/sub-standard,No,6 Ind,2
+1,1701,Ajloun,Tent,Owned,3-Inadequate/sub-standard,No,7 Ind,1
+1,1701,Ajloun,Tent,Free,3-Inadequate/sub-standard,Yes,3 Ind,2
+1,1701,Ajloun,Tent,Free,3-Inadequate/sub-standard,Yes,4 Ind,1
+1,1701,Ajloun,Tent,Free,3-Inadequate/sub-standard,Yes,5 Ind,1
+1,1701,Ajloun,Tent,Free,4-Emergency,No,1 Ind,1
+1,1701,Ajloun,Tent,Rent/Lease,4-Emergency,No,3 Ind,1
+1,1701,Ajloun,Tent,Owned,4-Emergency,No,4 Ind,1
+1,1701,Ajloun,Tent,Free,4-Emergency,No,6 Ind,1
+1,1701,Ajloun,Tent,Owned,4-Emergency,Yes,2 Ind,1
+1,1701,Ajloun,Tent,Free,4-Emergency,Yes,6 Ind,1
+1,1707,Irbid,Basement,N\A,2-Adequate/standard,No,1 Ind,1
+1,1707,Irbid,Basement,Rent/Lease,2-Adequate/standard,No,1 Ind,3
+1,1707,Irbid,Basement,Free,2-Adequate/standard,No,2 Ind,1
+1,1707,Irbid,Basement,Rent/Lease,2-Adequate/standard,No,2 Ind,2
+1,1707,Irbid,Basement,Rent/Lease,2-Adequate/standard,No,3 Ind,4
+1,1707,Irbid,Basement,Rent/Lease,2-Adequate/standard,No,4 Ind,5
+1,1707,Irbid,Basement,Rent/Lease,2-Adequate/standard,No,5 Ind,4
+1,1707,Irbid,Basement,Rent/Lease,2-Adequate/standard,No,6 Ind,1
+1,1707,Irbid,Basement,Rent/Lease,2-Adequate/standard,No,7 Ind,1
+1,1707,Irbid,Basement,Rent/Lease,2-Adequate/standard,No,8 Ind,1
+1,1707,Irbid,Basement,Rent/Lease,2-Adequate/standard,Yes,2 Ind,1
+1,1707,Irbid,Basement,Rent/Lease,3-Inadequate/sub-standard,No,1 Ind,20
+1,1707,Irbid,Basement,Rent/Lease,3-Inadequate/sub-standard,No,2 Ind,5
+1,1707,Irbid,Basement,Free,3-Inadequate/sub-standard,No,3 Ind,2
+1,1707,Irbid,Basement,Rent/Lease,3-Inadequate/sub-standard,No,3 Ind,14
+1,1707,Irbid,Basement,Rent/Lease,3-Inadequate/sub-standard,No,4 Ind,13
+1,1707,Irbid,Basement,Rent/Lease,3-Inadequate/sub-standard,No,5 Ind,10
+1,1707,Irbid,Basement,Rent/Lease,3-Inadequate/sub-standard,No,6 Ind,22
+1,1707,Irbid,Basement,Rent/Lease,3-Inadequate/sub-standard,No,7 Ind,7
+1,1707,Irbid,Basement,Rent/Lease,3-Inadequate/sub-standard,No,8 Ind,4
+1,1707,Irbid,Basement,Rent/Lease,3-Inadequate/sub-standard,No,9 Ind,1
+1,1707,Irbid,Basement,Rent/Lease,3-Inadequate/sub-standard,Yes,1 Ind,3
+1,1707,Irbid,Basement,Rent/Lease,3-Inadequate/sub-standard,Yes,12 Ind,1
+1,1707,Irbid,Basement,Free,3-Inadequate/sub-standard,Yes,2 Ind,1
+1,1707,Irbid,Basement,Rent/Lease,3-Inadequate/sub-standard,Yes,2 Ind,1
+1,1707,Irbid,Basement,Rent/Lease,3-Inadequate/sub-standard,Yes,4 Ind,1
+1,1707,Irbid,Basement,Rent/Lease,3-Inadequate/sub-standard,Yes,5 Ind,5
+1,1707,Irbid,Basement,Rent/Lease,3-Inadequate/sub-standard,Yes,6 Ind,1
+1,1707,Irbid,Basement,Rent/Lease,3-Inadequate/sub-standard,Yes,7 Ind,2
+1,1707,Irbid,Basement,N\A,3-Inadequate/sub-standard,Yes,9 Ind,1
+1,1707,Irbid,Basement,Rent/Lease,3-Inadequate/sub-standard,Yes,9 Ind,3
+1,1707,Irbid,Basement,N\A,5. N\A,No,1 Ind,27
+1,1707,Irbid,Basement,N\A,5. N\A,No,11 Ind,1
+1,1707,Irbid,Basement,N\A,5. N\A,No,2 Ind,10
+1,1707,Irbid,Basement,N\A,5. N\A,No,3 Ind,15
+1,1707,Irbid,Basement,N\A,5. N\A,No,4 Ind,13
+1,1707,Irbid,Basement,N\A,5. N\A,No,5 Ind,12
+1,1707,Irbid,Basement,N\A,5. N\A,No,6 Ind,10
+1,1707,Irbid,Basement,N\A,5. N\A,No,7 Ind,4
+1,1707,Irbid,Basement,N\A,5. N\A,No,8 Ind,4
+1,1707,Irbid,Basement,N\A,5. N\A,Yes,1 Ind,3
+1,1707,Irbid,Basement,N\A,5. N\A,Yes,2 Ind,1
+1,1707,Irbid,Basement,N\A,5. N\A,Yes,3 Ind,2
+1,1707,Irbid,Basement,N\A,5. N\A,Yes,5 Ind,2
+1,1707,Irbid,Basement,N\A,5. N\A,Yes,6 Ind,1
+1,1707,Irbid,Basement,N\A,5. N\A,Yes,7 Ind,1
+1,1707,Irbid,Basement,N\A,5. N\A,Yes,9 Ind,1
+1,1707,Irbid,Communal Centre,Rent/Lease,2-Adequate/standard,No,1 Ind,2
+1,1707,Irbid,Communal Centre,Rent/Lease,2-Adequate/standard,No,2 Ind,2
+1,1707,Irbid,Communal Centre,Rent/Lease,2-Adequate/standard,No,4 Ind,1
+1,1707,Irbid,Communal Centre,Rent/Lease,2-Adequate/standard,No,5 Ind,2
+1,1707,Irbid,Communal Centre,Rent/Lease,2-Adequate/standard,No,6 Ind,1
+1,1707,Irbid,Communal Centre,Rent/Lease,2-Adequate/standard,No,7 Ind,1
+1,1707,Irbid,Communal Centre,Rent/Lease,2-Adequate/standard,Yes,2 Ind,1
+1,1707,Irbid,Communal Centre,Rent/Lease,2-Adequate/standard,Yes,3 Ind,1
+1,1707,Irbid,Communal Centre,Rent/Lease,2-Adequate/standard,Yes,7 Ind,1
+1,1707,Irbid,Communal Centre,Rent/Lease,3-Inadequate/sub-standard,No,1 Ind,3
+1,1707,Irbid,Communal Centre,Rent/Lease,3-Inadequate/sub-standard,No,3 Ind,1
+1,1707,Irbid,Communal Centre,Rent/Lease,3-Inadequate/sub-standard,No,4 Ind,5
+1,1707,Irbid,Communal Centre,Free,3-Inadequate/sub-standard,No,5 Ind,1
+1,1707,Irbid,Communal Centre,Rent/Lease,3-Inadequate/sub-standard,No,5 Ind,3
+1,1707,Irbid,Communal Centre,Rent/Lease,3-Inadequate/sub-standard,No,7 Ind,1
+1,1707,Irbid,Communal Centre,Rent/Lease,3-Inadequate/sub-standard,No,8 Ind,2
+1,1707,Irbid,Communal Centre,Rent/Lease,3-Inadequate/sub-standard,No,9 Ind,1
+1,1707,Irbid,Communal Centre,Rent/Lease,3-Inadequate/sub-standard,Yes,2 Ind,1
+1,1707,Irbid,Communal Centre,Rent/Lease,4-Emergency,Yes,5 Ind,1
+1,1707,Irbid,Flat/Apartment,Free,1-Above standard,No,1 Ind,3
+1,1707,Irbid,Flat/Apartment,Rent/Lease,1-Above standard,No,1 Ind,9
+1,1707,Irbid,Flat/Apartment,Rent/Lease,1-Above standard,No,2 Ind,5
+1,1707,Irbid,Flat/Apartment,Rent/Lease,1-Above standard,No,3 Ind,2
+1,1707,Irbid,Flat/Apartment,Rent/Lease,1-Above standard,No,4 Ind,6
+1,1707,Irbid,Flat/Apartment,Rent/Lease,1-Above standard,No,5 Ind,7
+1,1707,Irbid,Flat/Apartment,Rent/Lease,1-Above standard,No,6 Ind,5
+1,1707,Irbid,Flat/Apartment,Rent/Lease,1-Above standard,Yes,3 Ind,1
+1,1707,Irbid,Flat/Apartment,N\A,2-Adequate/standard,No,1 Ind,4
+1,1707,Irbid,Flat/Apartment,Free,2-Adequate/standard,No,1 Ind,86
+1,1707,Irbid,Flat/Apartment,Other,2-Adequate/standard,No,1 Ind,2
+1,1707,Irbid,Flat/Apartment,Owned,2-Adequate/standard,No,1 Ind,3
+1,1707,Irbid,Flat/Apartment,Rent/Lease,2-Adequate/standard,No,1 Ind,1151
+1,1707,Irbid,Flat/Apartment,Rent/Lease,2-Adequate/standard,No,10 Ind,21
+1,1707,Irbid,Flat/Apartment,Rent/Lease,2-Adequate/standard,No,11 Ind,4
+1,1707,Irbid,Flat/Apartment,Rent/Lease,2-Adequate/standard,No,12 Ind,2
+1,1707,Irbid,Flat/Apartment,Rent/Lease,2-Adequate/standard,No,13 Ind,1
+1,1707,Irbid,Flat/Apartment,N\A,2-Adequate/standard,No,2 Ind,1
+1,1707,Irbid,Flat/Apartment,Free,2-Adequate/standard,No,2 Ind,29
+1,1707,Irbid,Flat/Apartment,Owned,2-Adequate/standard,No,2 Ind,2
+1,1707,Irbid,Flat/Apartment,Rent/Lease,2-Adequate/standard,No,2 Ind,665
+1,1707,Irbid,Flat/Apartment,N\A,2-Adequate/standard,No,3 Ind,2
+1,1707,Irbid,Flat/Apartment,Free,2-Adequate/standard,No,3 Ind,21
+1,1707,Irbid,Flat/Apartment,Owned,2-Adequate/standard,No,3 Ind,1
+1,1707,Irbid,Flat/Apartment,Rent/Lease,2-Adequate/standard,No,3 Ind,783
+1,1707,Irbid,Flat/Apartment,N\A,2-Adequate/standard,No,4 Ind,2
+1,1707,Irbid,Flat/Apartment,Free,2-Adequate/standard,No,4 Ind,19
+1,1707,Irbid,Flat/Apartment,Owned,2-Adequate/standard,No,4 Ind,2
+1,1707,Irbid,Flat/Apartment,Rent/Lease,2-Adequate/standard,No,4 Ind,901
+1,1707,Irbid,Flat/Apartment,N\A,2-Adequate/standard,No,5 Ind,1
+1,1707,Irbid,Flat/Apartment,Free,2-Adequate/standard,No,5 Ind,17
+1,1707,Irbid,Flat/Apartment,Owned,2-Adequate/standard,No,5 Ind,2
+1,1707,Irbid,Flat/Apartment,Rent/Lease,2-Adequate/standard,No,5 Ind,848
+1,1707,Irbid,Flat/Apartment,Free,2-Adequate/standard,No,6 Ind,8
+1,1707,Irbid,Flat/Apartment,Owned,2-Adequate/standard,No,6 Ind,1
+1,1707,Irbid,Flat/Apartment,Rent/Lease,2-Adequate/standard,No,6 Ind,626
+1,1707,Irbid,Flat/Apartment,Free,2-Adequate/standard,No,7 Ind,8
+1,1707,Irbid,Flat/Apartment,Owned,2-Adequate/standard,No,7 Ind,4
+1,1707,Irbid,Flat/Apartment,Rent/Lease,2-Adequate/standard,No,7 Ind,369
+1,1707,Irbid,Flat/Apartment,Free,2-Adequate/standard,No,8 Ind,2
+1,1707,Irbid,Flat/Apartment,Owned,2-Adequate/standard,No,8 Ind,2
+1,1707,Irbid,Flat/Apartment,Rent/Lease,2-Adequate/standard,No,8 Ind,164
+1,1707,Irbid,Flat/Apartment,Free,2-Adequate/standard,No,9 Ind,2
+1,1707,Irbid,Flat/Apartment,Other,2-Adequate/standard,No,9 Ind,1
+1,1707,Irbid,Flat/Apartment,Rent/Lease,2-Adequate/standard,No,9 Ind,72
+1,1707,Irbid,Flat/Apartment,Free,2-Adequate/standard,Yes,1 Ind,11
+1,1707,Irbid,Flat/Apartment,Rent/Lease,2-Adequate/standard,Yes,1 Ind,56
+1,1707,Irbid,Flat/Apartment,Rent/Lease,2-Adequate/standard,Yes,10 Ind,4
+1,1707,Irbid,Flat/Apartment,Rent/Lease,2-Adequate/standard,Yes,11 Ind,1
+1,1707,Irbid,Flat/Apartment,Rent/Lease,2-Adequate/standard,Yes,12 Ind,2
+1,1707,Irbid,Flat/Apartment,Free,2-Adequate/standard,Yes,2 Ind,4
+1,1707,Irbid,Flat/Apartment,Owned,2-Adequate/standard,Yes,2 Ind,1
+1,1707,Irbid,Flat/Apartment,Rent/Lease,2-Adequate/standard,Yes,2 Ind,34
+1,1707,Irbid,Flat/Apartment,Free,2-Adequate/standard,Yes,3 Ind,8
+1,1707,Irbid,Flat/Apartment,Rent/Lease,2-Adequate/standard,Yes,3 Ind,37
+1,1707,Irbid,Flat/Apartment,N\A,2-Adequate/standard,Yes,4 Ind,1
+1,1707,Irbid,Flat/Apartment,Free,2-Adequate/standard,Yes,4 Ind,3
+1,1707,Irbid,Flat/Apartment,Rent/Lease,2-Adequate/standard,Yes,4 Ind,44
+1,1707,Irbid,Flat/Apartment,Free,2-Adequate/standard,Yes,5 Ind,3
+1,1707,Irbid,Flat/Apartment,Rent/Lease,2-Adequate/standard,Yes,5 Ind,50
+1,1707,Irbid,Flat/Apartment,Free,2-Adequate/standard,Yes,6 Ind,1
+1,1707,Irbid,Flat/Apartment,Rent/Lease,2-Adequate/standard,Yes,6 Ind,37
+1,1707,Irbid,Flat/Apartment,N\A,2-Adequate/standard,Yes,7 Ind,1
+1,1707,Irbid,Flat/Apartment,Free,2-Adequate/standard,Yes,7 Ind,1
+1,1707,Irbid,Flat/Apartment,Rent/Lease,2-Adequate/standard,Yes,7 Ind,19
+1,1707,Irbid,Flat/Apartment,Free,2-Adequate/standard,Yes,8 Ind,1
+1,1707,Irbid,Flat/Apartment,Rent/Lease,2-Adequate/standard,Yes,8 Ind,24
+1,1707,Irbid,Flat/Apartment,Rent/Lease,2-Adequate/standard,Yes,9 Ind,8
+1,1707,Irbid,Flat/Apartment,N\A,3-Inadequate/sub-standard,No,1 Ind,5
+1,1707,Irbid,Flat/Apartment,Free,3-Inadequate/sub-standard,No,1 Ind,121
+1,1707,Irbid,Flat/Apartment,Other,3-Inadequate/sub-standard,No,1 Ind,1
+1,1707,Irbid,Flat/Apartment,Owned,3-Inadequate/sub-standard,No,1 Ind,8
+1,1707,Irbid,Flat/Apartment,Rent/Lease,3-Inadequate/sub-standard,No,1 Ind,1348
+1,1707,Irbid,Flat/Apartment,Rent/Lease,3-Inadequate/sub-standard,No,10 Ind,26
+1,1707,Irbid,Flat/Apartment,Rent/Lease,3-Inadequate/sub-standard,No,11 Ind,9
+1,1707,Irbid,Flat/Apartment,Rent/Lease,3-Inadequate/sub-standard,No,12 Ind,3
+1,1707,Irbid,Flat/Apartment,Rent/Lease,3-Inadequate/sub-standard,No,13 Ind,2
+1,1707,Irbid,Flat/Apartment,Free,3-Inadequate/sub-standard,No,2 Ind,30
+1,1707,Irbid,Flat/Apartment,Rent/Lease,3-Inadequate/sub-standard,No,2 Ind,786
+1,1707,Irbid,Flat/Apartment,Free,3-Inadequate/sub-standard,No,3 Ind,32
+1,1707,Irbid,Flat/Apartment,Other,3-Inadequate/sub-standard,No,3 Ind,1
+1,1707,Irbid,Flat/Apartment,Rent/Lease,3-Inadequate/sub-standard,No,3 Ind,931
+1,1707,Irbid,Flat/Apartment,N\A,3-Inadequate/sub-standard,No,4 Ind,2
+1,1707,Irbid,Flat/Apartment,Free,3-Inadequate/sub-standard,No,4 Ind,22
+1,1707,Irbid,Flat/Apartment,Owned,3-Inadequate/sub-standard,No,4 Ind,2
+1,1707,Irbid,Flat/Apartment,Rent/Lease,3-Inadequate/sub-standard,No,4 Ind,1069
+1,1707,Irbid,Flat/Apartment,N\A,3-Inadequate/sub-standard,No,5 Ind,1
+1,1707,Irbid,Flat/Apartment,Free,3-Inadequate/sub-standard,No,5 Ind,15
+1,1707,Irbid,Flat/Apartment,Other,3-Inadequate/sub-standard,No,5 Ind,2
+1,1707,Irbid,Flat/Apartment,Owned,3-Inadequate/sub-standard,No,5 Ind,1
+1,1707,Irbid,Flat/Apartment,Rent/Lease,3-Inadequate/sub-standard,No,5 Ind,911
+1,1707,Irbid,Flat/Apartment,N\A,3-Inadequate/sub-standard,No,6 Ind,3
+1,1707,Irbid,Flat/Apartment,Free,3-Inadequate/sub-standard,No,6 Ind,9
+1,1707,Irbid,Flat/Apartment,Owned,3-Inadequate/sub-standard,No,6 Ind,1
+1,1707,Irbid,Flat/Apartment,Rent/Lease,3-Inadequate/sub-standard,No,6 Ind,797
+1,1707,Irbid,Flat/Apartment,N\A,3-Inadequate/sub-standard,No,7 Ind,1
+1,1707,Irbid,Flat/Apartment,Free,3-Inadequate/sub-standard,No,7 Ind,7
+1,1707,Irbid,Flat/Apartment,Owned,3-Inadequate/sub-standard,No,7 Ind,2
+1,1707,Irbid,Flat/Apartment,Rent/Lease,3-Inadequate/sub-standard,No,7 Ind,479
+1,1707,Irbid,Flat/Apartment,Free,3-Inadequate/sub-standard,No,8 Ind,1
+1,1707,Irbid,Flat/Apartment,Rent/Lease,3-Inadequate/sub-standard,No,8 Ind,251
+1,1707,Irbid,Flat/Apartment,Rent/Lease,3-Inadequate/sub-standard,No,9 Ind,83
+1,1707,Irbid,Flat/Apartment,Free,3-Inadequate/sub-standard,Yes,1 Ind,16
+1,1707,Irbid,Flat/Apartment,Rent/Lease,3-Inadequate/sub-standard,Yes,1 Ind,145
+1,1707,Irbid,Flat/Apartment,Rent/Lease,3-Inadequate/sub-standard,Yes,10 Ind,10
+1,1707,Irbid,Flat/Apartment,Free,3-Inadequate/sub-standard,Yes,11 Ind,1
+1,1707,Irbid,Flat/Apartment,Rent/Lease,3-Inadequate/sub-standard,Yes,11 Ind,3
+1,1707,Irbid,Flat/Apartment,Rent/Lease,3-Inadequate/sub-standard,Yes,12 Ind,6
+1,1707,Irbid,Flat/Apartment,Rent/Lease,3-Inadequate/sub-standard,Yes,13 Ind,1
+1,1707,Irbid,Flat/Apartment,N\A,3-Inadequate/sub-standard,Yes,2 Ind,1
+1,1707,Irbid,Flat/Apartment,Free,3-Inadequate/sub-standard,Yes,2 Ind,7
+1,1707,Irbid,Flat/Apartment,Rent/Lease,3-Inadequate/sub-standard,Yes,2 Ind,82
+1,1707,Irbid,Flat/Apartment,Free,3-Inadequate/sub-standard,Yes,3 Ind,3
+1,1707,Irbid,Flat/Apartment,Rent/Lease,3-Inadequate/sub-standard,Yes,3 Ind,80
+1,1707,Irbid,Flat/Apartment,Free,3-Inadequate/sub-standard,Yes,4 Ind,9
+1,1707,Irbid,Flat/Apartment,Owned,3-Inadequate/sub-standard,Yes,4 Ind,1
+1,1707,Irbid,Flat/Apartment,Rent/Lease,3-Inadequate/sub-standard,Yes,4 Ind,128
+1,1707,Irbid,Flat/Apartment,N\A,3-Inadequate/sub-standard,Yes,5 Ind,2
+1,1707,Irbid,Flat/Apartment,Free,3-Inadequate/sub-standard,Yes,5 Ind,7
+1,1707,Irbid,Flat/Apartment,Rent/Lease,3-Inadequate/sub-standard,Yes,5 Ind,140
+1,1707,Irbid,Flat/Apartment,N\A,3-Inadequate/sub-standard,Yes,6 Ind,1
+1,1707,Irbid,Flat/Apartment,Free,3-Inadequate/sub-standard,Yes,6 Ind,4
+1,1707,Irbid,Flat/Apartment,Owned,3-Inadequate/sub-standard,Yes,6 Ind,1
+1,1707,Irbid,Flat/Apartment,Rent/Lease,3-Inadequate/sub-standard,Yes,6 Ind,129
+1,1707,Irbid,Flat/Apartment,Free,3-Inadequate/sub-standard,Yes,7 Ind,2
+1,1707,Irbid,Flat/Apartment,Owned,3-Inadequate/sub-standard,Yes,7 Ind,1
+1,1707,Irbid,Flat/Apartment,Rent/Lease,3-Inadequate/sub-standard,Yes,7 Ind,89
+1,1707,Irbid,Flat/Apartment,Free,3-Inadequate/sub-standard,Yes,8 Ind,1
+1,1707,Irbid,Flat/Apartment,Rent/Lease,3-Inadequate/sub-standard,Yes,8 Ind,54
+1,1707,Irbid,Flat/Apartment,N\A,3-Inadequate/sub-standard,Yes,9 Ind,1
+1,1707,Irbid,Flat/Apartment,Rent/Lease,3-Inadequate/sub-standard,Yes,9 Ind,31
+1,1707,Irbid,Flat/Apartment,Free,4-Emergency,No,1 Ind,2
+1,1707,Irbid,Flat/Apartment,Rent/Lease,4-Emergency,No,1 Ind,5
+1,1707,Irbid,Flat/Apartment,Rent/Lease,4-Emergency,No,2 Ind,5
+1,1707,Irbid,Flat/Apartment,Rent/Lease,4-Emergency,No,3 Ind,1
+1,1707,Irbid,Flat/Apartment,Rent/Lease,4-Emergency,No,4 Ind,4
+1,1707,Irbid,Flat/Apartment,Rent/Lease,4-Emergency,No,5 Ind,1
+1,1707,Irbid,Flat/Apartment,Rent/Lease,4-Emergency,No,6 Ind,5
+1,1707,Irbid,Flat/Apartment,Rent/Lease,4-Emergency,No,7 Ind,6
+1,1707,Irbid,Flat/Apartment,Rent/Lease,4-Emergency,No,8 Ind,1
+1,1707,Irbid,Flat/Apartment,Other,4-Emergency,Yes,1 Ind,1
+1,1707,Irbid,Flat/Apartment,Rent/Lease,4-Emergency,Yes,4 Ind,2
+1,1707,Irbid,Flat/Apartment,Rent/Lease,4-Emergency,Yes,5 Ind,1
+1,1707,Irbid,Flat/Apartment,Rent/Lease,4-Emergency,Yes,6 Ind,2
+1,1707,Irbid,Flat/Apartment,Free,4-Emergency,Yes,8 Ind,1
+1,1707,Irbid,Flat/Apartment,Rent/Lease,4-Emergency,Yes,8 Ind,1
+1,1707,Irbid,Flat/Apartment,Rent/Lease,5. N\A,No,1 Ind,4
+1,1707,Irbid,Flat/Apartment,Rent/Lease,5. N\A,No,2 Ind,4
+1,1707,Irbid,Flat/Apartment,N\A,5. N\A,No,3 Ind,1
+1,1707,Irbid,Flat/Apartment,Rent/Lease,5. N\A,No,3 Ind,2
+1,1707,Irbid,Flat/Apartment,N\A,5. N\A,No,4 Ind,1
+1,1707,Irbid,Flat/Apartment,Rent/Lease,5. N\A,No,4 Ind,7
+1,1707,Irbid,Flat/Apartment,Rent/Lease,5. N\A,No,5 Ind,6
+1,1707,Irbid,Flat/Apartment,Rent/Lease,5. N\A,No,6 Ind,4
+1,1707,Irbid,Flat/Apartment,Rent/Lease,5. N\A,No,7 Ind,3
+1,1707,Irbid,Flat/Apartment,Rent/Lease,5. N\A,No,9 Ind,1
+1,1707,Irbid,Flat/Apartment,Rent/Lease,5. N\A,Yes,4 Ind,1
+1,1707,Irbid,Flat/Apartment,N\A,5. N\A,Yes,5 Ind,1
+1,1707,Irbid,Flat/Apartment,Rent/Lease,5. N\A,Yes,5 Ind,1
+1,1707,Irbid,Flat/Apartment,Rent/Lease,5. N\A,Yes,6 Ind,1
+1,1707,Irbid,Flat/Apartment,Rent/Lease,5. N\A,Yes,7 Ind,1
+1,1707,Irbid,House,Rent/Lease,1-Above standard,No,6 Ind,1
+1,1707,Irbid,House,Free,2-Adequate/standard,No,1 Ind,1
+1,1707,Irbid,House,Owned,2-Adequate/standard,No,1 Ind,1
+1,1707,Irbid,House,Rent/Lease,2-Adequate/standard,No,1 Ind,3
+1,1707,Irbid,House,Rent/Lease,2-Adequate/standard,No,2 Ind,1
+1,1707,Irbid,House,Rent/Lease,2-Adequate/standard,No,3 Ind,2
+1,1707,Irbid,House,Rent/Lease,2-Adequate/standard,No,4 Ind,2
+1,1707,Irbid,House,Rent/Lease,2-Adequate/standard,No,5 Ind,1
+1,1707,Irbid,House,Rent/Lease,2-Adequate/standard,No,8 Ind,2
+1,1707,Irbid,House,Rent/Lease,2-Adequate/standard,Yes,2 Ind,1
+1,1707,Irbid,House,Rent/Lease,2-Adequate/standard,Yes,3 Ind,1
+1,1707,Irbid,House,Rent/Lease,3-Inadequate/sub-standard,No,5 Ind,2
+1,1707,Irbid,House,Rent/Lease,3-Inadequate/sub-standard,No,6 Ind,1
+1,1707,Irbid,House,Rent/Lease,3-Inadequate/sub-standard,No,7 Ind,2
+1,1707,Irbid,House,Rent/Lease,3-Inadequate/sub-standard,Yes,1 Ind,2
+1,1707,Irbid,House,Rent/Lease,3-Inadequate/sub-standard,Yes,4 Ind,1
+1,1707,Irbid,Improvised/Self-Made,Rent/Lease,3-Inadequate/sub-standard,No,1 Ind,1
+1,1707,Irbid,Improvised/Self-Made,Rent/Lease,3-Inadequate/sub-standard,No,3 Ind,2
+1,1707,Irbid,Mud-House,Rent/Lease,2-Adequate/standard,No,2 Ind,1
+1,1707,Irbid,Mud-House,Rent/Lease,2-Adequate/standard,No,7 Ind,1
+1,1707,Irbid,Mud-House,Free,3-Inadequate/sub-standard,No,1 Ind,1
+1,1707,Irbid,Mud-House,Rent/Lease,3-Inadequate/sub-standard,No,1 Ind,2
+1,1707,Irbid,Mud-House,Rent/Lease,3-Inadequate/sub-standard,No,2 Ind,1
+1,1707,Irbid,Mud-House,Rent/Lease,3-Inadequate/sub-standard,No,4 Ind,3
+1,1707,Irbid,Mud-House,Rent/Lease,3-Inadequate/sub-standard,No,5 Ind,1
+1,1707,Irbid,Mud-House,Rent/Lease,3-Inadequate/sub-standard,No,6 Ind,2
+1,1707,Irbid,Mud-House,Rent/Lease,3-Inadequate/sub-standard,No,7 Ind,1
+1,1707,Irbid,Mud-House,Free,3-Inadequate/sub-standard,Yes,1 Ind,4
+1,1707,Irbid,Mud-House,Free,3-Inadequate/sub-standard,Yes,3 Ind,1
+1,1707,Irbid,Mud-House,Rent/Lease,3-Inadequate/sub-standard,Yes,4 Ind,1
+1,1707,Irbid,Mud-House,Rent/Lease,3-Inadequate/sub-standard,Yes,5 Ind,1
+1,1707,Irbid,Mud-House,Rent/Lease,3-Inadequate/sub-standard,Yes,7 Ind,1
+1,1707,Irbid,Other,N\A,2-Adequate/standard,No,1 Ind,1
+1,1707,Irbid,Other,Rent/Lease,2-Adequate/standard,No,1 Ind,5
+1,1707,Irbid,Other,Rent/Lease,2-Adequate/standard,No,2 Ind,2
+1,1707,Irbid,Other,Rent/Lease,2-Adequate/standard,No,4 Ind,1
+1,1707,Irbid,Other,Rent/Lease,2-Adequate/standard,No,5 Ind,1
+1,1707,Irbid,Other,Rent/Lease,2-Adequate/standard,No,6 Ind,1
+1,1707,Irbid,Other,Rent/Lease,2-Adequate/standard,No,7 Ind,1
+1,1707,Irbid,Other,Free,2-Adequate/standard,Yes,1 Ind,1
+1,1707,Irbid,Other,Free,2-Adequate/standard,Yes,4 Ind,1
+1,1707,Irbid,Other,Free,2-Adequate/standard,Yes,7 Ind,1
+1,1707,Irbid,Other,Free,3-Inadequate/sub-standard,No,1 Ind,7
+1,1707,Irbid,Other,Rent/Lease,3-Inadequate/sub-standard,No,1 Ind,24
+1,1707,Irbid,Other,Free,3-Inadequate/sub-standard,No,2 Ind,1
+1,1707,Irbid,Other,Rent/Lease,3-Inadequate/sub-standard,No,2 Ind,8
+1,1707,Irbid,Other,Rent/Lease,3-Inadequate/sub-standard,No,3 Ind,19
+1,1707,Irbid,Other,Rent/Lease,3-Inadequate/sub-standard,No,4 Ind,14
+1,1707,Irbid,Other,Free,3-Inadequate/sub-standard,No,5 Ind,2
+1,1707,Irbid,Other,Rent/Lease,3-Inadequate/sub-standard,No,5 Ind,3
+1,1707,Irbid,Other,Rent/Lease,3-Inadequate/sub-standard,No,6 Ind,11
+1,1707,Irbid,Other,Rent/Lease,3-Inadequate/sub-standard,No,7 Ind,4
+1,1707,Irbid,Other,Free,3-Inadequate/sub-standard,No,8 Ind,1
+1,1707,Irbid,Other,Rent/Lease,3-Inadequate/sub-standard,Yes,1 Ind,7
+1,1707,Irbid,Other,Rent/Lease,3-Inadequate/sub-standard,Yes,10 Ind,1
+1,1707,Irbid,Other,Rent/Lease,3-Inadequate/sub-standard,Yes,11 Ind,1
+1,1707,Irbid,Other,Free,3-Inadequate/sub-standard,Yes,2 Ind,1
+1,1707,Irbid,Other,Rent/Lease,3-Inadequate/sub-standard,Yes,2 Ind,3
+1,1707,Irbid,Other,Rent/Lease,3-Inadequate/sub-standard,Yes,3 Ind,2
+1,1707,Irbid,Other,Rent/Lease,3-Inadequate/sub-standard,Yes,4 Ind,1
+1,1707,Irbid,Other,Rent/Lease,3-Inadequate/sub-standard,Yes,5 Ind,10
+1,1707,Irbid,Other,Free,3-Inadequate/sub-standard,Yes,6 Ind,2
+1,1707,Irbid,Other,Rent/Lease,3-Inadequate/sub-standard,Yes,6 Ind,6
+1,1707,Irbid,Other,Free,3-Inadequate/sub-standard,Yes,7 Ind,1
+1,1707,Irbid,Other,Rent/Lease,3-Inadequate/sub-standard,Yes,7 Ind,1
+1,1707,Irbid,Other,Free,3-Inadequate/sub-standard,Yes,8 Ind,1
+1,1707,Irbid,Other,Rent/Lease,3-Inadequate/sub-standard,Yes,8 Ind,5
+1,1707,Irbid,Other,Rent/Lease,4-Emergency,No,1 Ind,3
+1,1707,Irbid,Other,Free,4-Emergency,No,2 Ind,1
+1,1707,Irbid,Other,Rent/Lease,4-Emergency,No,2 Ind,1
+1,1707,Irbid,Other,Free,4-Emergency,Yes,1 Ind,1
+1,1707,Irbid,Other,Rent/Lease,4-Emergency,Yes,5 Ind,3
+1,1707,Irbid,Prefab,Rent/Lease,1-Above standard,No,1 Ind,2
+1,1707,Irbid,Prefab,Free,1-Above standard,No,2 Ind,1
+1,1707,Irbid,Prefab,Rent/Lease,1-Above standard,No,2 Ind,1
+1,1707,Irbid,Prefab,Rent/Lease,1-Above standard,No,4 Ind,1
+1,1707,Irbid,Prefab,Free,2-Adequate/standard,No,1 Ind,3
+1,1707,Irbid,Prefab,Rent/Lease,2-Adequate/standard,No,1 Ind,26
+1,1707,Irbid,Prefab,Rent/Lease,2-Adequate/standard,No,10 Ind,1
+1,1707,Irbid,Prefab,Free,2-Adequate/standard,No,2 Ind,2
+1,1707,Irbid,Prefab,Rent/Lease,2-Adequate/standard,No,2 Ind,20
+1,1707,Irbid,Prefab,Rent/Lease,2-Adequate/standard,No,3 Ind,20
+1,1707,Irbid,Prefab,Rent/Lease,2-Adequate/standard,No,4 Ind,14
+1,1707,Irbid,Prefab,Free,2-Adequate/standard,No,5 Ind,3
+1,1707,Irbid,Prefab,Rent/Lease,2-Adequate/standard,No,5 Ind,17
+1,1707,Irbid,Prefab,Rent/Lease,2-Adequate/standard,No,6 Ind,6
+1,1707,Irbid,Prefab,Rent/Lease,2-Adequate/standard,No,7 Ind,7
+1,1707,Irbid,Prefab,Rent/Lease,2-Adequate/standard,No,8 Ind,4
+1,1707,Irbid,Prefab,Rent/Lease,2-Adequate/standard,No,9 Ind,3
+1,1707,Irbid,Prefab,Free,2-Adequate/standard,Yes,1 Ind,1
+1,1707,Irbid,Prefab,Rent/Lease,2-Adequate/standard,Yes,1 Ind,1
+1,1707,Irbid,Prefab,Free,2-Adequate/standard,Yes,3 Ind,1
+1,1707,Irbid,Prefab,Rent/Lease,2-Adequate/standard,Yes,3 Ind,4
+1,1707,Irbid,Prefab,Free,2-Adequate/standard,Yes,4 Ind,1
+1,1707,Irbid,Prefab,Rent/Lease,2-Adequate/standard,Yes,4 Ind,1
+1,1707,Irbid,Prefab,Rent/Lease,2-Adequate/standard,Yes,7 Ind,1
+1,1707,Irbid,Prefab,Free,3-Inadequate/sub-standard,No,1 Ind,1
+1,1707,Irbid,Prefab,Rent/Lease,3-Inadequate/sub-standard,No,1 Ind,6
+1,1707,Irbid,Prefab,Rent/Lease,3-Inadequate/sub-standard,No,2 Ind,6
+1,1707,Irbid,Prefab,Rent/Lease,3-Inadequate/sub-standard,No,3 Ind,4
+1,1707,Irbid,Prefab,Rent/Lease,3-Inadequate/sub-standard,No,4 Ind,7
+1,1707,Irbid,Prefab,Rent/Lease,3-Inadequate/sub-standard,No,5 Ind,4
+1,1707,Irbid,Prefab,Rent/Lease,3-Inadequate/sub-standard,No,6 Ind,6
+1,1707,Irbid,Prefab,Rent/Lease,3-Inadequate/sub-standard,No,7 Ind,2
+1,1707,Irbid,Prefab,Rent/Lease,3-Inadequate/sub-standard,No,8 Ind,3
+1,1707,Irbid,Prefab,Rent/Lease,3-Inadequate/sub-standard,Yes,2 Ind,2
+1,1707,Irbid,Prefab,Rent/Lease,3-Inadequate/sub-standard,Yes,4 Ind,2
+1,1707,Irbid,Prefab,Rent/Lease,3-Inadequate/sub-standard,Yes,7 Ind,1
+1,1707,Irbid,Prefab,Rent/Lease,4-Emergency,No,5 Ind,1
+1,1707,Irbid,Tent,Rent/Lease,2-Adequate/standard,No,1 Ind,1
+1,1707,Irbid,Tent,Free,2-Adequate/standard,No,3 Ind,1
+1,1707,Irbid,Tent,Free,3-Inadequate/sub-standard,No,1 Ind,4
+1,1707,Irbid,Tent,Rent/Lease,3-Inadequate/sub-standard,No,1 Ind,1
+1,1707,Irbid,Tent,Free,3-Inadequate/sub-standard,No,12 Ind,1
+1,1707,Irbid,Tent,Free,3-Inadequate/sub-standard,No,2 Ind,2
+1,1707,Irbid,Tent,Free,3-Inadequate/sub-standard,No,3 Ind,1
+1,1707,Irbid,Tent,Free,3-Inadequate/sub-standard,No,4 Ind,1
+1,1707,Irbid,Tent,Rent/Lease,3-Inadequate/sub-standard,No,4 Ind,1
+1,1707,Irbid,Tent,Free,3-Inadequate/sub-standard,No,5 Ind,4
+1,1707,Irbid,Tent,Owned,3-Inadequate/sub-standard,No,5 Ind,1
+1,1707,Irbid,Tent,Free,3-Inadequate/sub-standard,No,6 Ind,1
+1,1707,Irbid,Tent,Rent/Lease,3-Inadequate/sub-standard,No,7 Ind,1
+1,1707,Irbid,Tent,Free,3-Inadequate/sub-standard,Yes,4 Ind,1
+1,1707,Irbid,Tent,Rent/Lease,3-Inadequate/sub-standard,Yes,6 Ind,1
+1,1707,Irbid,Tent,Free,3-Inadequate/sub-standard,Yes,7 Ind,1
+1,1707,Irbid,Tent,Free,3-Inadequate/sub-standard,Yes,8 Ind,2
+1,1707,Irbid,Tent,Free,3-Inadequate/sub-standard,Yes,9 Ind,1
+1,1707,Irbid,Tent,Free,4-Emergency,No,1 Ind,4
+1,1707,Irbid,Tent,Rent/Lease,4-Emergency,No,1 Ind,1
+1,1707,Irbid,Tent,Free,4-Emergency,No,2 Ind,5
+1,1707,Irbid,Tent,Free,4-Emergency,No,3 Ind,1
+1,1707,Irbid,Tent,Rent/Lease,4-Emergency,No,3 Ind,1
+1,1707,Irbid,Tent,Free,4-Emergency,No,4 Ind,2
+1,1707,Irbid,Tent,Free,4-Emergency,No,5 Ind,2
+1,1707,Irbid,Tent,Free,4-Emergency,No,6 Ind,2
+1,1707,Irbid,Tent,Free,4-Emergency,Yes,1 Ind,2
+1,1707,Irbid,Tent,Rent/Lease,4-Emergency,Yes,1 Ind,1
+1,1707,Irbid,Tent,Free,4-Emergency,Yes,10 Ind,2
+1,1707,Irbid,Tent,Free,4-Emergency,Yes,12 Ind,1
+1,1707,Irbid,Tent,Free,4-Emergency,Yes,13 Ind,1
+1,1707,Irbid,Tent,Free,4-Emergency,Yes,2 Ind,1
+1,1707,Irbid,Tent,Free,4-Emergency,Yes,3 Ind,1
+1,1707,Irbid,Tent,Rent/Lease,4-Emergency,Yes,4 Ind,1
+1,1707,Irbid,Tent,Free,4-Emergency,Yes,6 Ind,4
+1,1707,Irbid,Tent,Rent/Lease,4-Emergency,Yes,6 Ind,1
+1,1707,Irbid,Tent,Free,4-Emergency,Yes,8 Ind,2
+1,1707,Irbid,Tent,Free,4-Emergency,Yes,9 Ind,1
+1,1707,Irbid,Tent,Rent/Lease,4-Emergency,Yes,9 Ind,1
+1,1708,Jarash,Basement,Rent/Lease,2-Adequate/standard,No,4 Ind,1
+1,1708,Jarash,Basement,Rent/Lease,2-Adequate/standard,No,5 Ind,1
+1,1708,Jarash,Basement,Rent/Lease,3-Inadequate/sub-standard,No,3 Ind,1
+1,1708,Jarash,Basement,N\A,5. N\A,No,1 Ind,1
+1,1708,Jarash,Basement,N\A,5. N\A,No,2 Ind,1
+1,1708,Jarash,Basement,N\A,5. N\A,No,3 Ind,1
+1,1708,Jarash,Basement,N\A,5. N\A,No,4 Ind,2
+1,1708,Jarash,Basement,N\A,5. N\A,No,6 Ind,1
+1,1708,Jarash,Communal Centre,Rent/Lease,2-Adequate/standard,No,9 Ind,1
+1,1708,Jarash,Flat/Apartment,Rent/Lease,1-Above standard,No,5 Ind,1
+1,1708,Jarash,Flat/Apartment,Free,2-Adequate/standard,No,1 Ind,9
+1,1708,Jarash,Flat/Apartment,Rent/Lease,2-Adequate/standard,No,1 Ind,57
+1,1708,Jarash,Flat/Apartment,Rent/Lease,2-Adequate/standard,No,10 Ind,3
+1,1708,Jarash,Flat/Apartment,Rent/Lease,2-Adequate/standard,No,11 Ind,2
+1,1708,Jarash,Flat/Apartment,Free,2-Adequate/standard,No,2 Ind,2
+1,1708,Jarash,Flat/Apartment,Owned,2-Adequate/standard,No,2 Ind,1
+1,1708,Jarash,Flat/Apartment,Rent/Lease,2-Adequate/standard,No,2 Ind,55
+1,1708,Jarash,Flat/Apartment,Rent/Lease,2-Adequate/standard,No,3 Ind,56
+1,1708,Jarash,Flat/Apartment,Free,2-Adequate/standard,No,4 Ind,1
+1,1708,Jarash,Flat/Apartment,Rent/Lease,2-Adequate/standard,No,4 Ind,60
+1,1708,Jarash,Flat/Apartment,Free,2-Adequate/standard,No,5 Ind,2
+1,1708,Jarash,Flat/Apartment,Rent/Lease,2-Adequate/standard,No,5 Ind,47
+1,1708,Jarash,Flat/Apartment,Free,2-Adequate/standard,No,6 Ind,1
+1,1708,Jarash,Flat/Apartment,Rent/Lease,2-Adequate/standard,No,6 Ind,43
+1,1708,Jarash,Flat/Apartment,Rent/Lease,2-Adequate/standard,No,7 Ind,25
+1,1708,Jarash,Flat/Apartment,Rent/Lease,2-Adequate/standard,No,8 Ind,19
+1,1708,Jarash,Flat/Apartment,Rent/Lease,2-Adequate/standard,No,9 Ind,8
+1,1708,Jarash,Flat/Apartment,Rent/Lease,2-Adequate/standard,Yes,1 Ind,2
+1,1708,Jarash,Flat/Apartment,Rent/Lease,2-Adequate/standard,Yes,10 Ind,1
+1,1708,Jarash,Flat/Apartment,Rent/Lease,2-Adequate/standard,Yes,2 Ind,2
+1,1708,Jarash,Flat/Apartment,Rent/Lease,2-Adequate/standard,Yes,3 Ind,3
+1,1708,Jarash,Flat/Apartment,Rent/Lease,2-Adequate/standard,Yes,4 Ind,3
+1,1708,Jarash,Flat/Apartment,Rent/Lease,2-Adequate/standard,Yes,5 Ind,2
+1,1708,Jarash,Flat/Apartment,Rent/Lease,2-Adequate/standard,Yes,6 Ind,4
+1,1708,Jarash,Flat/Apartment,Rent/Lease,2-Adequate/standard,Yes,7 Ind,1
+1,1708,Jarash,Flat/Apartment,Rent/Lease,2-Adequate/standard,Yes,8 Ind,1
+1,1708,Jarash,Flat/Apartment,Rent/Lease,2-Adequate/standard,Yes,9 Ind,1
+1,1708,Jarash,Flat/Apartment,Free,3-Inadequate/sub-standard,No,1 Ind,16
+1,1708,Jarash,Flat/Apartment,Rent/Lease,3-Inadequate/sub-standard,No,1 Ind,66
+1,1708,Jarash,Flat/Apartment,Rent/Lease,3-Inadequate/sub-standard,No,10 Ind,2
+1,1708,Jarash,Flat/Apartment,Rent/Lease,3-Inadequate/sub-standard,No,11 Ind,1
+1,1708,Jarash,Flat/Apartment,Free,3-Inadequate/sub-standard,No,2 Ind,3
+1,1708,Jarash,Flat/Apartment,Rent/Lease,3-Inadequate/sub-standard,No,2 Ind,33
+1,1708,Jarash,Flat/Apartment,Free,3-Inadequate/sub-standard,No,3 Ind,1
+1,1708,Jarash,Flat/Apartment,Rent/Lease,3-Inadequate/sub-standard,No,3 Ind,47
+1,1708,Jarash,Flat/Apartment,Rent/Lease,3-Inadequate/sub-standard,No,4 Ind,72
+1,1708,Jarash,Flat/Apartment,Free,3-Inadequate/sub-standard,No,5 Ind,1
+1,1708,Jarash,Flat/Apartment,Rent/Lease,3-Inadequate/sub-standard,No,5 Ind,65
+1,1708,Jarash,Flat/Apartment,Rent/Lease,3-Inadequate/sub-standard,No,6 Ind,47
+1,1708,Jarash,Flat/Apartment,Rent/Lease,3-Inadequate/sub-standard,No,7 Ind,35
+1,1708,Jarash,Flat/Apartment,Free,3-Inadequate/sub-standard,No,8 Ind,2
+1,1708,Jarash,Flat/Apartment,Rent/Lease,3-Inadequate/sub-standard,No,8 Ind,22
+1,1708,Jarash,Flat/Apartment,Rent/Lease,3-Inadequate/sub-standard,No,9 Ind,5
+1,1708,Jarash,Flat/Apartment,Free,3-Inadequate/sub-standard,Yes,1 Ind,4
+1,1708,Jarash,Flat/Apartment,Rent/Lease,3-Inadequate/sub-standard,Yes,1 Ind,4
+1,1708,Jarash,Flat/Apartment,Rent/Lease,3-Inadequate/sub-standard,Yes,10 Ind,1
+1,1708,Jarash,Flat/Apartment,Rent/Lease,3-Inadequate/sub-standard,Yes,11 Ind,2
+1,1708,Jarash,Flat/Apartment,Free,3-Inadequate/sub-standard,Yes,2 Ind,1
+1,1708,Jarash,Flat/Apartment,Rent/Lease,3-Inadequate/sub-standard,Yes,2 Ind,5
+1,1708,Jarash,Flat/Apartment,Rent/Lease,3-Inadequate/sub-standard,Yes,3 Ind,5
+1,1708,Jarash,Flat/Apartment,Rent/Lease,3-Inadequate/sub-standard,Yes,4 Ind,9
+1,1708,Jarash,Flat/Apartment,Rent/Lease,3-Inadequate/sub-standard,Yes,5 Ind,6
+1,1708,Jarash,Flat/Apartment,Rent/Lease,3-Inadequate/sub-standard,Yes,6 Ind,11
+1,1708,Jarash,Flat/Apartment,Rent/Lease,3-Inadequate/sub-standard,Yes,7 Ind,3
+1,1708,Jarash,Flat/Apartment,Rent/Lease,3-Inadequate/sub-standard,Yes,8 Ind,2
+1,1708,Jarash,Flat/Apartment,Rent/Lease,3-Inadequate/sub-standard,Yes,9 Ind,3
+1,1708,Jarash,Flat/Apartment,Rent/Lease,4-Emergency,Yes,7 Ind,1
+1,1708,Jarash,Flat/Apartment,Rent/Lease,5. N\A,No,1 Ind,1
+1,1708,Jarash,House,Rent/Lease,2-Adequate/standard,No,5 Ind,1
+1,1708,Jarash,Improvised/Self-Made,N\A,2-Adequate/standard,No,3 Ind,1
+1,1708,Jarash,Mud-House,Rent/Lease,2-Adequate/standard,No,3 Ind,1
+1,1708,Jarash,Mud-House,Rent/Lease,3-Inadequate/sub-standard,No,5 Ind,1
+1,1708,Jarash,Mud-House,Rent/Lease,3-Inadequate/sub-standard,Yes,5 Ind,1
+1,1708,Jarash,Other,Rent/Lease,3-Inadequate/sub-standard,No,1 Ind,2
+1,1708,Jarash,Other,Rent/Lease,3-Inadequate/sub-standard,No,2 Ind,2
+1,1708,Jarash,Other,Rent/Lease,3-Inadequate/sub-standard,Yes,6 Ind,1
+1,1708,Jarash,Prefab,Rent/Lease,2-Adequate/standard,No,6 Ind,1
+1,1708,Jarash,Prefab,Rent/Lease,3-Inadequate/sub-standard,No,6 Ind,1
+1,1708,Jarash,Tent,Free,3-Inadequate/sub-standard,No,7 Ind,1
+1,1708,Jarash,Tent,Free,4-Emergency,Yes,3 Ind,1
+1,1708,Jarash,Tent,Free,4-Emergency,Yes,4 Ind,1
+1,1711,Mafraq,Basement,Rent/Lease,2-Adequate/standard,No,1 Ind,2
+1,1711,Mafraq,Basement,Rent/Lease,2-Adequate/standard,No,4 Ind,3
+1,1711,Mafraq,Basement,Rent/Lease,2-Adequate/standard,No,7 Ind,3
+1,1711,Mafraq,Basement,Rent/Lease,3-Inadequate/sub-standard,No,1 Ind,2
+1,1711,Mafraq,Basement,Rent/Lease,3-Inadequate/sub-standard,No,10 Ind,1
+1,1711,Mafraq,Basement,Free,3-Inadequate/sub-standard,No,2 Ind,1
+1,1711,Mafraq,Basement,Rent/Lease,3-Inadequate/sub-standard,No,2 Ind,1
+1,1711,Mafraq,Basement,Free,3-Inadequate/sub-standard,No,3 Ind,1
+1,1711,Mafraq,Basement,Rent/Lease,3-Inadequate/sub-standard,No,4 Ind,2
+1,1711,Mafraq,Basement,Rent/Lease,3-Inadequate/sub-standard,No,5 Ind,2
+1,1711,Mafraq,Basement,Rent/Lease,3-Inadequate/sub-standard,Yes,2 Ind,1
+1,1711,Mafraq,Basement,Free,3-Inadequate/sub-standard,Yes,3 Ind,1
+1,1711,Mafraq,Basement,Rent/Lease,3-Inadequate/sub-standard,Yes,4 Ind,1
+1,1711,Mafraq,Basement,Rent/Lease,3-Inadequate/sub-standard,Yes,5 Ind,1
+1,1711,Mafraq,Basement,N\A,5. N\A,No,1 Ind,11
+1,1711,Mafraq,Basement,N\A,5. N\A,No,2 Ind,4
+1,1711,Mafraq,Basement,N\A,5. N\A,No,3 Ind,4
+1,1711,Mafraq,Basement,N\A,5. N\A,No,4 Ind,4
+1,1711,Mafraq,Basement,N\A,5. N\A,No,5 Ind,4
+1,1711,Mafraq,Basement,N\A,5. N\A,No,6 Ind,1
+1,1711,Mafraq,Basement,N\A,5. N\A,No,7 Ind,4
+1,1711,Mafraq,Basement,N\A,5. N\A,No,8 Ind,2
+1,1711,Mafraq,Basement,N\A,5. N\A,Yes,1 Ind,2
+1,1711,Mafraq,Basement,N\A,5. N\A,Yes,5 Ind,2
+1,1711,Mafraq,Basement,N\A,5. N\A,Yes,6 Ind,1
+1,1711,Mafraq,Communal Centre,Rent/Lease,2-Adequate/standard,No,1 Ind,3
+1,1711,Mafraq,Communal Centre,Rent/Lease,2-Adequate/standard,No,4 Ind,1
+1,1711,Mafraq,Communal Centre,Rent/Lease,2-Adequate/standard,No,5 Ind,1
+1,1711,Mafraq,Communal Centre,Rent/Lease,2-Adequate/standard,No,8 Ind,1
+1,1711,Mafraq,Communal Centre,Rent/Lease,3-Inadequate/sub-standard,No,1 Ind,1
+1,1711,Mafraq,Communal Centre,Free,3-Inadequate/sub-standard,No,2 Ind,1
+1,1711,Mafraq,Communal Centre,Rent/Lease,3-Inadequate/sub-standard,No,2 Ind,1
+1,1711,Mafraq,Communal Centre,Rent/Lease,3-Inadequate/sub-standard,No,4 Ind,1
+1,1711,Mafraq,Communal Centre,Rent/Lease,3-Inadequate/sub-standard,Yes,3 Ind,1
+1,1711,Mafraq,Communal Centre,Rent/Lease,3-Inadequate/sub-standard,Yes,7 Ind,1
+1,1711,Mafraq,Communal Centre,Rent/Lease,3-Inadequate/sub-standard,Yes,9 Ind,1
+1,1711,Mafraq,Flat/Apartment,Rent/Lease,1-Above standard,No,1 Ind,4
+1,1711,Mafraq,Flat/Apartment,Rent/Lease,1-Above standard,No,2 Ind,1
+1,1711,Mafraq,Flat/Apartment,Rent/Lease,1-Above standard,No,3 Ind,2
+1,1711,Mafraq,Flat/Apartment,Rent/Lease,1-Above standard,No,4 Ind,4
+1,1711,Mafraq,Flat/Apartment,Rent/Lease,1-Above standard,No,5 Ind,4
+1,1711,Mafraq,Flat/Apartment,Rent/Lease,1-Above standard,No,6 Ind,1
+1,1711,Mafraq,Flat/Apartment,Rent/Lease,1-Above standard,No,8 Ind,1
+1,1711,Mafraq,Flat/Apartment,Rent/Lease,1-Above standard,Yes,1 Ind,1
+1,1711,Mafraq,Flat/Apartment,Rent/Lease,1-Above standard,Yes,2 Ind,1
+1,1711,Mafraq,Flat/Apartment,N\A,2-Adequate/standard,No,1 Ind,1
+1,1711,Mafraq,Flat/Apartment,Free,2-Adequate/standard,No,1 Ind,29
+1,1711,Mafraq,Flat/Apartment,Owned,2-Adequate/standard,No,1 Ind,2
+1,1711,Mafraq,Flat/Apartment,Rent/Lease,2-Adequate/standard,No,1 Ind,549
+1,1711,Mafraq,Flat/Apartment,Rent/Lease,2-Adequate/standard,No,10 Ind,16
+1,1711,Mafraq,Flat/Apartment,Rent/Lease,2-Adequate/standard,No,11 Ind,10
+1,1711,Mafraq,Flat/Apartment,Rent/Lease,2-Adequate/standard,No,12 Ind,3
+1,1711,Mafraq,Flat/Apartment,Free,2-Adequate/standard,No,2 Ind,11
+1,1711,Mafraq,Flat/Apartment,Other,2-Adequate/standard,No,2 Ind,1
+1,1711,Mafraq,Flat/Apartment,Rent/Lease,2-Adequate/standard,No,2 Ind,307
+1,1711,Mafraq,Flat/Apartment,Free,2-Adequate/standard,No,3 Ind,7
+1,1711,Mafraq,Flat/Apartment,Owned,2-Adequate/standard,No,3 Ind,1
+1,1711,Mafraq,Flat/Apartment,Rent/Lease,2-Adequate/standard,No,3 Ind,317
+1,1711,Mafraq,Flat/Apartment,N\A,2-Adequate/standard,No,4 Ind,1
+1,1711,Mafraq,Flat/Apartment,Free,2-Adequate/standard,No,4 Ind,7
+1,1711,Mafraq,Flat/Apartment,Owned,2-Adequate/standard,No,4 Ind,1
+1,1711,Mafraq,Flat/Apartment,Rent/Lease,2-Adequate/standard,No,4 Ind,400
+1,1711,Mafraq,Flat/Apartment,Free,2-Adequate/standard,No,5 Ind,1
+1,1711,Mafraq,Flat/Apartment,Rent/Lease,2-Adequate/standard,No,5 Ind,331
+1,1711,Mafraq,Flat/Apartment,Free,2-Adequate/standard,No,6 Ind,7
+1,1711,Mafraq,Flat/Apartment,Rent/Lease,2-Adequate/standard,No,6 Ind,263
+1,1711,Mafraq,Flat/Apartment,Rent/Lease,2-Adequate/standard,No,7 Ind,177
+1,1711,Mafraq,Flat/Apartment,Rent/Lease,2-Adequate/standard,No,8 Ind,97
+1,1711,Mafraq,Flat/Apartment,Free,2-Adequate/standard,No,9 Ind,1
+1,1711,Mafraq,Flat/Apartment,Rent/Lease,2-Adequate/standard,No,9 Ind,42
+1,1711,Mafraq,Flat/Apartment,Free,2-Adequate/standard,Yes,1 Ind,7
+1,1711,Mafraq,Flat/Apartment,Owned,2-Adequate/standard,Yes,1 Ind,1
+1,1711,Mafraq,Flat/Apartment,Rent/Lease,2-Adequate/standard,Yes,1 Ind,56
+1,1711,Mafraq,Flat/Apartment,Rent/Lease,2-Adequate/standard,Yes,10 Ind,9
+1,1711,Mafraq,Flat/Apartment,Rent/Lease,2-Adequate/standard,Yes,11 Ind,1
+1,1711,Mafraq,Flat/Apartment,Rent/Lease,2-Adequate/standard,Yes,12 Ind,2
+1,1711,Mafraq,Flat/Apartment,Free,2-Adequate/standard,Yes,2 Ind,5
+1,1711,Mafraq,Flat/Apartment,Rent/Lease,2-Adequate/standard,Yes,2 Ind,35
+1,1711,Mafraq,Flat/Apartment,Free,2-Adequate/standard,Yes,3 Ind,3
+1,1711,Mafraq,Flat/Apartment,Rent/Lease,2-Adequate/standard,Yes,3 Ind,25
+1,1711,Mafraq,Flat/Apartment,Free,2-Adequate/standard,Yes,4 Ind,1
+1,1711,Mafraq,Flat/Apartment,Rent/Lease,2-Adequate/standard,Yes,4 Ind,46
+1,1711,Mafraq,Flat/Apartment,Free,2-Adequate/standard,Yes,5 Ind,1
+1,1711,Mafraq,Flat/Apartment,Rent/Lease,2-Adequate/standard,Yes,5 Ind,44
+1,1711,Mafraq,Flat/Apartment,Free,2-Adequate/standard,Yes,6 Ind,2
+1,1711,Mafraq,Flat/Apartment,Rent/Lease,2-Adequate/standard,Yes,6 Ind,38
+1,1711,Mafraq,Flat/Apartment,Free,2-Adequate/standard,Yes,7 Ind,3
+1,1711,Mafraq,Flat/Apartment,Rent/Lease,2-Adequate/standard,Yes,7 Ind,20
+1,1711,Mafraq,Flat/Apartment,Rent/Lease,2-Adequate/standard,Yes,8 Ind,13
+1,1711,Mafraq,Flat/Apartment,Rent/Lease,2-Adequate/standard,Yes,9 Ind,17
+1,1711,Mafraq,Flat/Apartment,Free,3-Inadequate/sub-standard,No,1 Ind,20
+1,1711,Mafraq,Flat/Apartment,Owned,3-Inadequate/sub-standard,No,1 Ind,4
+1,1711,Mafraq,Flat/Apartment,Rent/Lease,3-Inadequate/sub-standard,No,1 Ind,272
+1,1711,Mafraq,Flat/Apartment,Free,3-Inadequate/sub-standard,No,10 Ind,1
+1,1711,Mafraq,Flat/Apartment,Rent/Lease,3-Inadequate/sub-standard,No,10 Ind,13
+1,1711,Mafraq,Flat/Apartment,Rent/Lease,3-Inadequate/sub-standard,No,11 Ind,2
+1,1711,Mafraq,Flat/Apartment,Free,3-Inadequate/sub-standard,No,2 Ind,5
+1,1711,Mafraq,Flat/Apartment,Owned,3-Inadequate/sub-standard,No,2 Ind,1
+1,1711,Mafraq,Flat/Apartment,Rent/Lease,3-Inadequate/sub-standard,No,2 Ind,192
+1,1711,Mafraq,Flat/Apartment,N\A,3-Inadequate/sub-standard,No,3 Ind,1
+1,1711,Mafraq,Flat/Apartment,Free,3-Inadequate/sub-standard,No,3 Ind,5
+1,1711,Mafraq,Flat/Apartment,Rent/Lease,3-Inadequate/sub-standard,No,3 Ind,201
+1,1711,Mafraq,Flat/Apartment,Free,3-Inadequate/sub-standard,No,4 Ind,8
+1,1711,Mafraq,Flat/Apartment,Rent/Lease,3-Inadequate/sub-standard,No,4 Ind,213
+1,1711,Mafraq,Flat/Apartment,N\A,3-Inadequate/sub-standard,No,5 Ind,1
+1,1711,Mafraq,Flat/Apartment,Free,3-Inadequate/sub-standard,No,5 Ind,3
+1,1711,Mafraq,Flat/Apartment,Rent/Lease,3-Inadequate/sub-standard,No,5 Ind,200
+1,1711,Mafraq,Flat/Apartment,Free,3-Inadequate/sub-standard,No,6 Ind,3
+1,1711,Mafraq,Flat/Apartment,Owned,3-Inadequate/sub-standard,No,6 Ind,2
+1,1711,Mafraq,Flat/Apartment,Rent/Lease,3-Inadequate/sub-standard,No,6 Ind,181
+1,1711,Mafraq,Flat/Apartment,Free,3-Inadequate/sub-standard,No,7 Ind,4
+1,1711,Mafraq,Flat/Apartment,Rent/Lease,3-Inadequate/sub-standard,No,7 Ind,121
+1,1711,Mafraq,Flat/Apartment,Free,3-Inadequate/sub-standard,No,8 Ind,3
+1,1711,Mafraq,Flat/Apartment,Rent/Lease,3-Inadequate/sub-standard,No,8 Ind,67
+1,1711,Mafraq,Flat/Apartment,Free,3-Inadequate/sub-standard,No,9 Ind,2
+1,1711,Mafraq,Flat/Apartment,Rent/Lease,3-Inadequate/sub-standard,No,9 Ind,26
+1,1711,Mafraq,Flat/Apartment,Free,3-Inadequate/sub-standard,Yes,1 Ind,2
+1,1711,Mafraq,Flat/Apartment,Rent/Lease,3-Inadequate/sub-standard,Yes,1 Ind,48
+1,1711,Mafraq,Flat/Apartment,Free,3-Inadequate/sub-standard,Yes,10 Ind,1
+1,1711,Mafraq,Flat/Apartment,Rent/Lease,3-Inadequate/sub-standard,Yes,10 Ind,8
+1,1711,Mafraq,Flat/Apartment,Rent/Lease,3-Inadequate/sub-standard,Yes,11 Ind,4
+1,1711,Mafraq,Flat/Apartment,Rent/Lease,3-Inadequate/sub-standard,Yes,12 Ind,1
+1,1711,Mafraq,Flat/Apartment,Rent/Lease,3-Inadequate/sub-standard,Yes,2 Ind,24
+1,1711,Mafraq,Flat/Apartment,Free,3-Inadequate/sub-standard,Yes,3 Ind,1
+1,1711,Mafraq,Flat/Apartment,Rent/Lease,3-Inadequate/sub-standard,Yes,3 Ind,26
+1,1711,Mafraq,Flat/Apartment,Rent/Lease,3-Inadequate/sub-standard,Yes,4 Ind,35
+1,1711,Mafraq,Flat/Apartment,Free,3-Inadequate/sub-standard,Yes,5 Ind,3
+1,1711,Mafraq,Flat/Apartment,Owned,3-Inadequate/sub-standard,Yes,5 Ind,1
+1,1711,Mafraq,Flat/Apartment,Rent/Lease,3-Inadequate/sub-standard,Yes,5 Ind,70
+1,1711,Mafraq,Flat/Apartment,Free,3-Inadequate/sub-standard,Yes,6 Ind,1
+1,1711,Mafraq,Flat/Apartment,Rent/Lease,3-Inadequate/sub-standard,Yes,6 Ind,35
+1,1711,Mafraq,Flat/Apartment,Free,3-Inadequate/sub-standard,Yes,7 Ind,1
+1,1711,Mafraq,Flat/Apartment,Owned,3-Inadequate/sub-standard,Yes,7 Ind,1
+1,1711,Mafraq,Flat/Apartment,Rent/Lease,3-Inadequate/sub-standard,Yes,7 Ind,26
+1,1711,Mafraq,Flat/Apartment,Free,3-Inadequate/sub-standard,Yes,8 Ind,2
+1,1711,Mafraq,Flat/Apartment,Rent/Lease,3-Inadequate/sub-standard,Yes,8 Ind,25
+1,1711,Mafraq,Flat/Apartment,Rent/Lease,3-Inadequate/sub-standard,Yes,9 Ind,13
+1,1711,Mafraq,Flat/Apartment,Free,4-Emergency,No,1 Ind,3
+1,1711,Mafraq,Flat/Apartment,Rent/Lease,4-Emergency,No,1 Ind,4
+1,1711,Mafraq,Flat/Apartment,Rent/Lease,4-Emergency,No,3 Ind,3
+1,1711,Mafraq,Flat/Apartment,Rent/Lease,4-Emergency,No,4 Ind,2
+1,1711,Mafraq,Flat/Apartment,Rent/Lease,4-Emergency,No,5 Ind,4
+1,1711,Mafraq,Flat/Apartment,Rent/Lease,4-Emergency,No,6 Ind,4
+1,1711,Mafraq,Flat/Apartment,Rent/Lease,4-Emergency,No,7 Ind,2
+1,1711,Mafraq,Flat/Apartment,Free,4-Emergency,No,8 Ind,1
+1,1711,Mafraq,Flat/Apartment,Rent/Lease,4-Emergency,No,8 Ind,1
+1,1711,Mafraq,Flat/Apartment,Rent/Lease,4-Emergency,No,9 Ind,3
+1,1711,Mafraq,Flat/Apartment,Rent/Lease,4-Emergency,Yes,1 Ind,1
+1,1711,Mafraq,Flat/Apartment,Rent/Lease,4-Emergency,Yes,10 Ind,1
+1,1711,Mafraq,Flat/Apartment,Rent/Lease,4-Emergency,Yes,2 Ind,1
+1,1711,Mafraq,Flat/Apartment,Rent/Lease,4-Emergency,Yes,3 Ind,1
+1,1711,Mafraq,Flat/Apartment,Rent/Lease,4-Emergency,Yes,5 Ind,2
+1,1711,Mafraq,Flat/Apartment,Rent/Lease,4-Emergency,Yes,6 Ind,3
+1,1711,Mafraq,Flat/Apartment,Rent/Lease,4-Emergency,Yes,7 Ind,1
+1,1711,Mafraq,Flat/Apartment,Free,4-Emergency,Yes,8 Ind,1
+1,1711,Mafraq,Flat/Apartment,Rent/Lease,4-Emergency,Yes,9 Ind,1
+1,1711,Mafraq,Flat/Apartment,Rent/Lease,5. N\A,No,1 Ind,2
+1,1711,Mafraq,Flat/Apartment,Rent/Lease,5. N\A,No,2 Ind,2
+1,1711,Mafraq,Flat/Apartment,Rent/Lease,5. N\A,No,4 Ind,2
+1,1711,Mafraq,Flat/Apartment,Rent/Lease,5. N\A,Yes,3 Ind,1
+1,1711,Mafraq,House,Rent/Lease,1-Above standard,No,8 Ind,1
+1,1711,Mafraq,House,Rent/Lease,2-Adequate/standard,No,1 Ind,2
+1,1711,Mafraq,House,Rent/Lease,2-Adequate/standard,No,2 Ind,2
+1,1711,Mafraq,House,Rent/Lease,2-Adequate/standard,No,5 Ind,3
+1,1711,Mafraq,House,Rent/Lease,3-Inadequate/sub-standard,No,5 Ind,1
+1,1711,Mafraq,House,Rent/Lease,3-Inadequate/sub-standard,Yes,7 Ind,2
+1,1711,Mafraq,Improvised/Self-Made,Rent/Lease,2-Adequate/standard,No,6 Ind,1
+1,1711,Mafraq,Improvised/Self-Made,Free,3-Inadequate/sub-standard,No,4 Ind,1
+1,1711,Mafraq,Improvised/Self-Made,Free,3-Inadequate/sub-standard,Yes,2 Ind,1
+1,1711,Mafraq,Mud-House,Free,2-Adequate/standard,No,3 Ind,1
+1,1711,Mafraq,Mud-House,Rent/Lease,2-Adequate/standard,No,6 Ind,1
+1,1711,Mafraq,Mud-House,Rent/Lease,3-Inadequate/sub-standard,No,1 Ind,3
+1,1711,Mafraq,Mud-House,Rent/Lease,3-Inadequate/sub-standard,No,2 Ind,1
+1,1711,Mafraq,Mud-House,Rent/Lease,3-Inadequate/sub-standard,No,3 Ind,2
+1,1711,Mafraq,Mud-House,Rent/Lease,3-Inadequate/sub-standard,No,4 Ind,3
+1,1711,Mafraq,Mud-House,Rent/Lease,3-Inadequate/sub-standard,No,5 Ind,1
+1,1711,Mafraq,Mud-House,Rent/Lease,3-Inadequate/sub-standard,No,8 Ind,1
+1,1711,Mafraq,Mud-House,Rent/Lease,3-Inadequate/sub-standard,Yes,3 Ind,1
+1,1711,Mafraq,Mud-House,Rent/Lease,3-Inadequate/sub-standard,Yes,5 Ind,1
+1,1711,Mafraq,Mud-House,Free,3-Inadequate/sub-standard,Yes,6 Ind,1
+1,1711,Mafraq,Mud-House,Rent/Lease,3-Inadequate/sub-standard,Yes,6 Ind,1
+1,1711,Mafraq,Mud-House,Rent/Lease,4-Emergency,No,5 Ind,1
+1,1711,Mafraq,Mud-House,Rent/Lease,4-Emergency,Yes,8 Ind,1
+1,1711,Mafraq,No Shelter,Rent/Lease,2-Adequate/standard,No,1 Ind,1
+1,1711,Mafraq,Other,Free,2-Adequate/standard,No,1 Ind,2
+1,1711,Mafraq,Other,Rent/Lease,2-Adequate/standard,No,1 Ind,4
+1,1711,Mafraq,Other,Rent/Lease,2-Adequate/standard,No,2 Ind,1
+1,1711,Mafraq,Other,Rent/Lease,2-Adequate/standard,No,3 Ind,1
+1,1711,Mafraq,Other,Rent/Lease,2-Adequate/standard,No,6 Ind,1
+1,1711,Mafraq,Other,Rent/Lease,2-Adequate/standard,Yes,1 Ind,1
+1,1711,Mafraq,Other,Rent/Lease,2-Adequate/standard,Yes,5 Ind,2
+1,1711,Mafraq,Other,Free,3-Inadequate/sub-standard,No,1 Ind,3
+1,1711,Mafraq,Other,Rent/Lease,3-Inadequate/sub-standard,No,1 Ind,7
+1,1711,Mafraq,Other,Rent/Lease,3-Inadequate/sub-standard,No,10 Ind,1
+1,1711,Mafraq,Other,Rent/Lease,3-Inadequate/sub-standard,No,2 Ind,9
+1,1711,Mafraq,Other,Rent/Lease,3-Inadequate/sub-standard,No,3 Ind,10
+1,1711,Mafraq,Other,Rent/Lease,3-Inadequate/sub-standard,No,4 Ind,6
+1,1711,Mafraq,Other,Rent/Lease,3-Inadequate/sub-standard,No,5 Ind,1
+1,1711,Mafraq,Other,Rent/Lease,3-Inadequate/sub-standard,No,6 Ind,2
+1,1711,Mafraq,Other,Rent/Lease,3-Inadequate/sub-standard,No,7 Ind,2
+1,1711,Mafraq,Other,Rent/Lease,3-Inadequate/sub-standard,No,8 Ind,2
+1,1711,Mafraq,Other,Rent/Lease,3-Inadequate/sub-standard,No,9 Ind,1
+1,1711,Mafraq,Other,Free,3-Inadequate/sub-standard,Yes,1 Ind,1
+1,1711,Mafraq,Other,Rent/Lease,3-Inadequate/sub-standard,Yes,1 Ind,1
+1,1711,Mafraq,Other,Free,3-Inadequate/sub-standard,Yes,10 Ind,1
+1,1711,Mafraq,Other,Rent/Lease,3-Inadequate/sub-standard,Yes,10 Ind,2
+1,1711,Mafraq,Other,Free,3-Inadequate/sub-standard,Yes,12 Ind,1
+1,1711,Mafraq,Other,Rent/Lease,3-Inadequate/sub-standard,Yes,2 Ind,1
+1,1711,Mafraq,Other,Free,3-Inadequate/sub-standard,Yes,3 Ind,1
+1,1711,Mafraq,Other,Rent/Lease,3-Inadequate/sub-standard,Yes,3 Ind,2
+1,1711,Mafraq,Other,Free,3-Inadequate/sub-standard,Yes,4 Ind,1
+1,1711,Mafraq,Other,Rent/Lease,3-Inadequate/sub-standard,Yes,4 Ind,2
+1,1711,Mafraq,Other,Free,3-Inadequate/sub-standard,Yes,5 Ind,2
+1,1711,Mafraq,Other,Rent/Lease,3-Inadequate/sub-standard,Yes,5 Ind,9
+1,1711,Mafraq,Other,Rent/Lease,3-Inadequate/sub-standard,Yes,6 Ind,1
+1,1711,Mafraq,Other,Rent/Lease,3-Inadequate/sub-standard,Yes,7 Ind,5
+1,1711,Mafraq,Other,Free,3-Inadequate/sub-standard,Yes,8 Ind,1
+1,1711,Mafraq,Other,Rent/Lease,3-Inadequate/sub-standard,Yes,8 Ind,2
+1,1711,Mafraq,Other,Rent/Lease,3-Inadequate/sub-standard,Yes,9 Ind,1
+1,1711,Mafraq,Other,Free,4-Emergency,No,1 Ind,2
+1,1711,Mafraq,Other,Rent/Lease,4-Emergency,No,1 Ind,1
+1,1711,Mafraq,Other,Free,4-Emergency,No,2 Ind,1
+1,1711,Mafraq,Other,Rent/Lease,4-Emergency,No,2 Ind,1
+1,1711,Mafraq,Other,Free,4-Emergency,No,3 Ind,1
+1,1711,Mafraq,Other,Rent/Lease,4-Emergency,No,3 Ind,1
+1,1711,Mafraq,Other,Rent/Lease,4-Emergency,No,5 Ind,1
+1,1711,Mafraq,Other,Rent/Lease,4-Emergency,Yes,7 Ind,1
+1,1711,Mafraq,Prefab,Rent/Lease,2-Adequate/standard,No,1 Ind,1
+1,1711,Mafraq,Prefab,Free,2-Adequate/standard,No,2 Ind,1
+1,1711,Mafraq,Prefab,Rent/Lease,2-Adequate/standard,No,2 Ind,2
+1,1711,Mafraq,Prefab,Rent/Lease,2-Adequate/standard,No,4 Ind,1
+1,1711,Mafraq,Prefab,Rent/Lease,2-Adequate/standard,No,7 Ind,1
+1,1711,Mafraq,Prefab,Free,3-Inadequate/sub-standard,No,2 Ind,1
+1,1711,Mafraq,Prefab,Owned,3-Inadequate/sub-standard,Yes,5 Ind,1
+1,1711,Mafraq,Prefab,Free,4-Emergency,No,2 Ind,1
+1,1711,Mafraq,Tent,Free,1-Above standard,Yes,6 Ind,1
+1,1711,Mafraq,Tent,Free,2-Adequate/standard,No,1 Ind,1
+1,1711,Mafraq,Tent,Rent/Lease,2-Adequate/standard,No,1 Ind,1
+1,1711,Mafraq,Tent,Free,2-Adequate/standard,No,2 Ind,1
+1,1711,Mafraq,Tent,Rent/Lease,2-Adequate/standard,No,2 Ind,1
+1,1711,Mafraq,Tent,Free,2-Adequate/standard,No,3 Ind,1
+1,1711,Mafraq,Tent,Owned,2-Adequate/standard,No,5 Ind,1
+1,1711,Mafraq,Tent,Rent/Lease,2-Adequate/standard,Yes,1 Ind,1
+1,1711,Mafraq,Tent,Free,2-Adequate/standard,Yes,4 Ind,1
+1,1711,Mafraq,Tent,Free,2-Adequate/standard,Yes,7 Ind,1
+1,1711,Mafraq,Tent,Free,3-Inadequate/sub-standard,No,1 Ind,33
+1,1711,Mafraq,Tent,Owned,3-Inadequate/sub-standard,No,1 Ind,11
+1,1711,Mafraq,Tent,Free,3-Inadequate/sub-standard,No,10 Ind,1
+1,1711,Mafraq,Tent,Rent/Lease,3-Inadequate/sub-standard,No,10 Ind,1
+1,1711,Mafraq,Tent,Free,3-Inadequate/sub-standard,No,11 Ind,1
+1,1711,Mafraq,Tent,Free,3-Inadequate/sub-standard,No,2 Ind,37
+1,1711,Mafraq,Tent,Owned,3-Inadequate/sub-standard,No,2 Ind,8
+1,1711,Mafraq,Tent,Rent/Lease,3-Inadequate/sub-standard,No,2 Ind,1
+1,1711,Mafraq,Tent,Free,3-Inadequate/sub-standard,No,3 Ind,41
+1,1711,Mafraq,Tent,Owned,3-Inadequate/sub-standard,No,3 Ind,5
+1,1711,Mafraq,Tent,Rent/Lease,3-Inadequate/sub-standard,No,3 Ind,2
+1,1711,Mafraq,Tent,Free,3-Inadequate/sub-standard,No,4 Ind,22
+1,1711,Mafraq,Tent,Other,3-Inadequate/sub-standard,No,4 Ind,1
+1,1711,Mafraq,Tent,Owned,3-Inadequate/sub-standard,No,4 Ind,8
+1,1711,Mafraq,Tent,Rent/Lease,3-Inadequate/sub-standard,No,4 Ind,1
+1,1711,Mafraq,Tent,Free,3-Inadequate/sub-standard,No,5 Ind,10
+1,1711,Mafraq,Tent,Owned,3-Inadequate/sub-standard,No,5 Ind,2
+1,1711,Mafraq,Tent,Rent/Lease,3-Inadequate/sub-standard,No,5 Ind,1
+1,1711,Mafraq,Tent,Free,3-Inadequate/sub-standard,No,6 Ind,13
+1,1711,Mafraq,Tent,Rent/Lease,3-Inadequate/sub-standard,No,6 Ind,2
+1,1711,Mafraq,Tent,N\A,3-Inadequate/sub-standard,No,7 Ind,1
+1,1711,Mafraq,Tent,Free,3-Inadequate/sub-standard,No,7 Ind,8
+1,1711,Mafraq,Tent,Other,3-Inadequate/sub-standard,No,7 Ind,1
+1,1711,Mafraq,Tent,Owned,3-Inadequate/sub-standard,No,7 Ind,1
+1,1711,Mafraq,Tent,Rent/Lease,3-Inadequate/sub-standard,No,7 Ind,3
+1,1711,Mafraq,Tent,Free,3-Inadequate/sub-standard,No,8 Ind,9
+1,1711,Mafraq,Tent,Rent/Lease,3-Inadequate/sub-standard,No,8 Ind,1
+1,1711,Mafraq,Tent,Free,3-Inadequate/sub-standard,No,9 Ind,3
+1,1711,Mafraq,Tent,Free,3-Inadequate/sub-standard,Yes,1 Ind,13
+1,1711,Mafraq,Tent,Other,3-Inadequate/sub-standard,Yes,1 Ind,1
+1,1711,Mafraq,Tent,Owned,3-Inadequate/sub-standard,Yes,1 Ind,2
+1,1711,Mafraq,Tent,Free,3-Inadequate/sub-standard,Yes,10 Ind,2
+1,1711,Mafraq,Tent,Owned,3-Inadequate/sub-standard,Yes,10 Ind,1
+1,1711,Mafraq,Tent,Owned,3-Inadequate/sub-standard,Yes,11 Ind,1
+1,1711,Mafraq,Tent,Owned,3-Inadequate/sub-standard,Yes,12 Ind,1
+1,1711,Mafraq,Tent,Free,3-Inadequate/sub-standard,Yes,2 Ind,5
+1,1711,Mafraq,Tent,Free,3-Inadequate/sub-standard,Yes,3 Ind,9
+1,1711,Mafraq,Tent,Owned,3-Inadequate/sub-standard,Yes,3 Ind,2
+1,1711,Mafraq,Tent,N\A,3-Inadequate/sub-standard,Yes,4 Ind,1
+1,1711,Mafraq,Tent,Free,3-Inadequate/sub-standard,Yes,4 Ind,8
+1,1711,Mafraq,Tent,Owned,3-Inadequate/sub-standard,Yes,4 Ind,2
+1,1711,Mafraq,Tent,Rent/Lease,3-Inadequate/sub-standard,Yes,4 Ind,3
+1,1711,Mafraq,Tent,Free,3-Inadequate/sub-standard,Yes,5 Ind,15
+1,1711,Mafraq,Tent,Owned,3-Inadequate/sub-standard,Yes,5 Ind,3
+1,1711,Mafraq,Tent,Free,3-Inadequate/sub-standard,Yes,6 Ind,18
+1,1711,Mafraq,Tent,Owned,3-Inadequate/sub-standard,Yes,6 Ind,4
+1,1711,Mafraq,Tent,Rent/Lease,3-Inadequate/sub-standard,Yes,6 Ind,1
+1,1711,Mafraq,Tent,Free,3-Inadequate/sub-standard,Yes,7 Ind,16
+1,1711,Mafraq,Tent,Owned,3-Inadequate/sub-standard,Yes,7 Ind,3
+1,1711,Mafraq,Tent,Free,3-Inadequate/sub-standard,Yes,8 Ind,17
+1,1711,Mafraq,Tent,Owned,3-Inadequate/sub-standard,Yes,8 Ind,3
+1,1711,Mafraq,Tent,Rent/Lease,3-Inadequate/sub-standard,Yes,8 Ind,1
+1,1711,Mafraq,Tent,Free,3-Inadequate/sub-standard,Yes,9 Ind,11
+1,1711,Mafraq,Tent,Owned,3-Inadequate/sub-standard,Yes,9 Ind,5
+1,1711,Mafraq,Tent,Rent/Lease,3-Inadequate/sub-standard,Yes,9 Ind,1
+1,1711,Mafraq,Tent,Free,4-Emergency,No,1 Ind,46
+1,1711,Mafraq,Tent,Other,4-Emergency,No,1 Ind,1
+1,1711,Mafraq,Tent,Owned,4-Emergency,No,1 Ind,7
+1,1711,Mafraq,Tent,Free,4-Emergency,No,10 Ind,6
+1,1711,Mafraq,Tent,Owned,4-Emergency,No,10 Ind,1
+1,1711,Mafraq,Tent,Free,4-Emergency,No,11 Ind,2
+1,1711,Mafraq,Tent,N\A,4-Emergency,No,2 Ind,1
+1,1711,Mafraq,Tent,Free,4-Emergency,No,2 Ind,32
+1,1711,Mafraq,Tent,Owned,4-Emergency,No,2 Ind,2
+1,1711,Mafraq,Tent,Rent/Lease,4-Emergency,No,2 Ind,2
+1,1711,Mafraq,Tent,Free,4-Emergency,No,3 Ind,43
+1,1711,Mafraq,Tent,Other,4-Emergency,No,3 Ind,1
+1,1711,Mafraq,Tent,Owned,4-Emergency,No,3 Ind,3
+1,1711,Mafraq,Tent,N\A,4-Emergency,No,4 Ind,1
+1,1711,Mafraq,Tent,Free,4-Emergency,No,4 Ind,27
+1,1711,Mafraq,Tent,Other,4-Emergency,No,4 Ind,1
+1,1711,Mafraq,Tent,Owned,4-Emergency,No,4 Ind,2
+1,1711,Mafraq,Tent,Free,4-Emergency,No,5 Ind,21
+1,1711,Mafraq,Tent,Owned,4-Emergency,No,5 Ind,1
+1,1711,Mafraq,Tent,Free,4-Emergency,No,6 Ind,16
+1,1711,Mafraq,Tent,Owned,4-Emergency,No,6 Ind,1
+1,1711,Mafraq,Tent,Rent/Lease,4-Emergency,No,6 Ind,1
+1,1711,Mafraq,Tent,Free,4-Emergency,No,7 Ind,10
+1,1711,Mafraq,Tent,Free,4-Emergency,No,8 Ind,7
+1,1711,Mafraq,Tent,Owned,4-Emergency,No,8 Ind,1
+1,1711,Mafraq,Tent,Rent/Lease,4-Emergency,No,8 Ind,1
+1,1711,Mafraq,Tent,Free,4-Emergency,No,9 Ind,7
+1,1711,Mafraq,Tent,Free,4-Emergency,Yes,1 Ind,8
+1,1711,Mafraq,Tent,Free,4-Emergency,Yes,10 Ind,5
+1,1711,Mafraq,Tent,Free,4-Emergency,Yes,11 Ind,2
+1,1711,Mafraq,Tent,Owned,4-Emergency,Yes,11 Ind,1
+1,1711,Mafraq,Tent,Free,4-Emergency,Yes,2 Ind,3
+1,1711,Mafraq,Tent,Owned,4-Emergency,Yes,2 Ind,2
+1,1711,Mafraq,Tent,Free,4-Emergency,Yes,3 Ind,4
+1,1711,Mafraq,Tent,Owned,4-Emergency,Yes,3 Ind,3
+1,1711,Mafraq,Tent,Free,4-Emergency,Yes,4 Ind,14
+1,1711,Mafraq,Tent,Owned,4-Emergency,Yes,4 Ind,1
+1,1711,Mafraq,Tent,Rent/Lease,4-Emergency,Yes,4 Ind,1
+1,1711,Mafraq,Tent,Free,4-Emergency,Yes,5 Ind,17
+1,1711,Mafraq,Tent,Owned,4-Emergency,Yes,5 Ind,3
+1,1711,Mafraq,Tent,Free,4-Emergency,Yes,6 Ind,20
+1,1711,Mafraq,Tent,Free,4-Emergency,Yes,7 Ind,13
+1,1711,Mafraq,Tent,Owned,4-Emergency,Yes,7 Ind,2
+1,1711,Mafraq,Tent,N\A,4-Emergency,Yes,8 Ind,1
+1,1711,Mafraq,Tent,Free,4-Emergency,Yes,8 Ind,14
+1,1711,Mafraq,Tent,Owned,4-Emergency,Yes,8 Ind,2
+1,1711,Mafraq,Tent,Free,4-Emergency,Yes,9 Ind,10
+1,1711,Mafraq,Tent,Owned,4-Emergency,Yes,9 Ind,1
+1,1711,Mafraq,Tent,Free,5. N\A,Yes,4 Ind,1
+1,1711,Mafraq,Tent,Rent/Lease,5. N\A,Yes,5 Ind,1
+2,1702,Balqa,Basement,Rent/Lease,3-Inadequate/sub-standard,Yes,5 Ind,1
+2,1702,Balqa,Basement,N\A,5. N\A,No,2 Ind,2
+2,1702,Balqa,Basement,N\A,5. N\A,No,4 Ind,3
+2,1702,Balqa,Flat/Apartment,Owned,1-Above standard,No,1 Ind,1
+2,1702,Balqa,Flat/Apartment,Rent/Lease,1-Above standard,Yes,3 Ind,1
+2,1702,Balqa,Flat/Apartment,Free,2-Adequate/standard,No,1 Ind,14
+2,1702,Balqa,Flat/Apartment,Owned,2-Adequate/standard,No,1 Ind,2
+2,1702,Balqa,Flat/Apartment,Rent/Lease,2-Adequate/standard,No,1 Ind,59
+2,1702,Balqa,Flat/Apartment,Rent/Lease,2-Adequate/standard,No,10 Ind,4
+2,1702,Balqa,Flat/Apartment,Rent/Lease,2-Adequate/standard,No,12 Ind,1
+2,1702,Balqa,Flat/Apartment,Free,2-Adequate/standard,No,2 Ind,2
+2,1702,Balqa,Flat/Apartment,Rent/Lease,2-Adequate/standard,No,2 Ind,35
+2,1702,Balqa,Flat/Apartment,Free,2-Adequate/standard,No,3 Ind,3
+2,1702,Balqa,Flat/Apartment,Owned,2-Adequate/standard,No,3 Ind,1
+2,1702,Balqa,Flat/Apartment,Rent/Lease,2-Adequate/standard,No,3 Ind,45
+2,1702,Balqa,Flat/Apartment,Free,2-Adequate/standard,No,4 Ind,3
+2,1702,Balqa,Flat/Apartment,Rent/Lease,2-Adequate/standard,No,4 Ind,58
+2,1702,Balqa,Flat/Apartment,Free,2-Adequate/standard,No,5 Ind,4
+2,1702,Balqa,Flat/Apartment,Rent/Lease,2-Adequate/standard,No,5 Ind,53
+2,1702,Balqa,Flat/Apartment,Free,2-Adequate/standard,No,6 Ind,2
+2,1702,Balqa,Flat/Apartment,Rent/Lease,2-Adequate/standard,No,6 Ind,44
+2,1702,Balqa,Flat/Apartment,Rent/Lease,2-Adequate/standard,No,7 Ind,28
+2,1702,Balqa,Flat/Apartment,Rent/Lease,2-Adequate/standard,No,8 Ind,4
+2,1702,Balqa,Flat/Apartment,Rent/Lease,2-Adequate/standard,No,9 Ind,3
+2,1702,Balqa,Flat/Apartment,Free,2-Adequate/standard,Yes,1 Ind,1
+2,1702,Balqa,Flat/Apartment,Rent/Lease,2-Adequate/standard,Yes,1 Ind,7
+2,1702,Balqa,Flat/Apartment,Rent/Lease,2-Adequate/standard,Yes,10 Ind,1
+2,1702,Balqa,Flat/Apartment,Rent/Lease,2-Adequate/standard,Yes,2 Ind,4
+2,1702,Balqa,Flat/Apartment,Rent/Lease,2-Adequate/standard,Yes,3 Ind,3
+2,1702,Balqa,Flat/Apartment,Free,2-Adequate/standard,Yes,4 Ind,1
+2,1702,Balqa,Flat/Apartment,Rent/Lease,2-Adequate/standard,Yes,4 Ind,6
+2,1702,Balqa,Flat/Apartment,Free,2-Adequate/standard,Yes,5 Ind,1
+2,1702,Balqa,Flat/Apartment,Rent/Lease,2-Adequate/standard,Yes,5 Ind,7
+2,1702,Balqa,Flat/Apartment,Free,2-Adequate/standard,Yes,6 Ind,2
+2,1702,Balqa,Flat/Apartment,Rent/Lease,2-Adequate/standard,Yes,6 Ind,5
+2,1702,Balqa,Flat/Apartment,Rent/Lease,2-Adequate/standard,Yes,9 Ind,1
+2,1702,Balqa,Flat/Apartment,Free,3-Inadequate/sub-standard,No,1 Ind,7
+2,1702,Balqa,Flat/Apartment,Rent/Lease,3-Inadequate/sub-standard,No,1 Ind,54
+2,1702,Balqa,Flat/Apartment,Rent/Lease,3-Inadequate/sub-standard,No,10 Ind,1
+2,1702,Balqa,Flat/Apartment,Rent/Lease,3-Inadequate/sub-standard,No,11 Ind,2
+2,1702,Balqa,Flat/Apartment,Free,3-Inadequate/sub-standard,No,2 Ind,3
+2,1702,Balqa,Flat/Apartment,Rent/Lease,3-Inadequate/sub-standard,No,2 Ind,28
+2,1702,Balqa,Flat/Apartment,N\A,3-Inadequate/sub-standard,No,3 Ind,1
+2,1702,Balqa,Flat/Apartment,Free,3-Inadequate/sub-standard,No,3 Ind,5
+2,1702,Balqa,Flat/Apartment,Rent/Lease,3-Inadequate/sub-standard,No,3 Ind,32
+2,1702,Balqa,Flat/Apartment,Rent/Lease,3-Inadequate/sub-standard,No,4 Ind,50
+2,1702,Balqa,Flat/Apartment,Rent/Lease,3-Inadequate/sub-standard,No,5 Ind,50
+2,1702,Balqa,Flat/Apartment,Rent/Lease,3-Inadequate/sub-standard,No,6 Ind,40
+2,1702,Balqa,Flat/Apartment,Rent/Lease,3-Inadequate/sub-standard,No,7 Ind,16
+2,1702,Balqa,Flat/Apartment,Rent/Lease,3-Inadequate/sub-standard,No,8 Ind,7
+2,1702,Balqa,Flat/Apartment,Rent/Lease,3-Inadequate/sub-standard,No,9 Ind,2
+2,1702,Balqa,Flat/Apartment,Free,3-Inadequate/sub-standard,Yes,1 Ind,1
+2,1702,Balqa,Flat/Apartment,Rent/Lease,3-Inadequate/sub-standard,Yes,1 Ind,8
+2,1702,Balqa,Flat/Apartment,Rent/Lease,3-Inadequate/sub-standard,Yes,10 Ind,1
+2,1702,Balqa,Flat/Apartment,Rent/Lease,3-Inadequate/sub-standard,Yes,11 Ind,1
+2,1702,Balqa,Flat/Apartment,Free,3-Inadequate/sub-standard,Yes,2 Ind,2
+2,1702,Balqa,Flat/Apartment,Rent/Lease,3-Inadequate/sub-standard,Yes,2 Ind,3
+2,1702,Balqa,Flat/Apartment,Free,3-Inadequate/sub-standard,Yes,3 Ind,2
+2,1702,Balqa,Flat/Apartment,Rent/Lease,3-Inadequate/sub-standard,Yes,3 Ind,2
+2,1702,Balqa,Flat/Apartment,Free,3-Inadequate/sub-standard,Yes,4 Ind,1
+2,1702,Balqa,Flat/Apartment,Rent/Lease,3-Inadequate/sub-standard,Yes,4 Ind,8
+2,1702,Balqa,Flat/Apartment,Rent/Lease,3-Inadequate/sub-standard,Yes,5 Ind,5
+2,1702,Balqa,Flat/Apartment,Free,3-Inadequate/sub-standard,Yes,6 Ind,1
+2,1702,Balqa,Flat/Apartment,Rent/Lease,3-Inadequate/sub-standard,Yes,6 Ind,4
+2,1702,Balqa,Flat/Apartment,Rent/Lease,3-Inadequate/sub-standard,Yes,7 Ind,5
+2,1702,Balqa,Flat/Apartment,Rent/Lease,3-Inadequate/sub-standard,Yes,8 Ind,4
+2,1702,Balqa,Flat/Apartment,Rent/Lease,3-Inadequate/sub-standard,Yes,9 Ind,2
+2,1702,Balqa,Flat/Apartment,Rent/Lease,4-Emergency,No,2 Ind,1
+2,1702,Balqa,Flat/Apartment,Rent/Lease,4-Emergency,No,4 Ind,1
+2,1702,Balqa,Mud-House,Rent/Lease,3-Inadequate/sub-standard,No,3 Ind,1
+2,1702,Balqa,Mud-House,Rent/Lease,3-Inadequate/sub-standard,No,4 Ind,1
+2,1702,Balqa,Mud-House,Rent/Lease,3-Inadequate/sub-standard,No,5 Ind,1
+2,1702,Balqa,Other,Rent/Lease,2-Adequate/standard,No,1 Ind,1
+2,1702,Balqa,Other,Free,3-Inadequate/sub-standard,No,7 Ind,1
+2,1702,Balqa,Other,Rent/Lease,3-Inadequate/sub-standard,Yes,1 Ind,1
+2,1702,Balqa,Other,Rent/Lease,3-Inadequate/sub-standard,Yes,4 Ind,1
+2,1702,Balqa,Other,Rent/Lease,3-Inadequate/sub-standard,Yes,6 Ind,1
+2,1702,Balqa,Other,Rent/Lease,3-Inadequate/sub-standard,Yes,7 Ind,1
+2,1702,Balqa,Other,Free,4-Emergency,No,1 Ind,1
+2,1702,Balqa,Other,Rent/Lease,4-Emergency,No,2 Ind,1
+2,1702,Balqa,Prefab,Free,2-Adequate/standard,No,4 Ind,1
+2,1702,Balqa,Prefab,Rent/Lease,2-Adequate/standard,No,4 Ind,1
+2,1702,Balqa,Prefab,Rent/Lease,2-Adequate/standard,No,8 Ind,1
+2,1702,Balqa,Tent,Rent/Lease,2-Adequate/standard,No,7 Ind,1
+2,1702,Balqa,Tent,N\A,3-Inadequate/sub-standard,No,1 Ind,1
+2,1702,Balqa,Tent,Free,3-Inadequate/sub-standard,No,1 Ind,5
+2,1702,Balqa,Tent,Rent/Lease,3-Inadequate/sub-standard,No,1 Ind,5
+2,1702,Balqa,Tent,Free,3-Inadequate/sub-standard,No,10 Ind,2
+2,1702,Balqa,Tent,Free,3-Inadequate/sub-standard,No,2 Ind,4
+2,1702,Balqa,Tent,Rent/Lease,3-Inadequate/sub-standard,No,2 Ind,3
+2,1702,Balqa,Tent,Free,3-Inadequate/sub-standard,No,3 Ind,7
+2,1702,Balqa,Tent,Rent/Lease,3-Inadequate/sub-standard,No,3 Ind,3
+2,1702,Balqa,Tent,Free,3-Inadequate/sub-standard,No,4 Ind,6
+2,1702,Balqa,Tent,Rent/Lease,3-Inadequate/sub-standard,No,4 Ind,4
+2,1702,Balqa,Tent,Free,3-Inadequate/sub-standard,No,5 Ind,2
+2,1702,Balqa,Tent,Rent/Lease,3-Inadequate/sub-standard,No,5 Ind,4
+2,1702,Balqa,Tent,Free,3-Inadequate/sub-standard,No,6 Ind,1
+2,1702,Balqa,Tent,Rent/Lease,3-Inadequate/sub-standard,No,6 Ind,3
+2,1702,Balqa,Tent,Free,3-Inadequate/sub-standard,No,7 Ind,1
+2,1702,Balqa,Tent,Free,3-Inadequate/sub-standard,No,8 Ind,1
+2,1702,Balqa,Tent,Rent/Lease,3-Inadequate/sub-standard,No,9 Ind,1
+2,1702,Balqa,Tent,Free,3-Inadequate/sub-standard,Yes,1 Ind,3
+2,1702,Balqa,Tent,Other,3-Inadequate/sub-standard,Yes,1 Ind,1
+2,1702,Balqa,Tent,Rent/Lease,3-Inadequate/sub-standard,Yes,1 Ind,2
+2,1702,Balqa,Tent,Free,3-Inadequate/sub-standard,Yes,10 Ind,3
+2,1702,Balqa,Tent,Free,3-Inadequate/sub-standard,Yes,11 Ind,1
+2,1702,Balqa,Tent,Free,3-Inadequate/sub-standard,Yes,12 Ind,1
+2,1702,Balqa,Tent,Free,3-Inadequate/sub-standard,Yes,13 Ind,1
+2,1702,Balqa,Tent,Free,3-Inadequate/sub-standard,Yes,2 Ind,1
+2,1702,Balqa,Tent,Rent/Lease,3-Inadequate/sub-standard,Yes,2 Ind,2
+2,1702,Balqa,Tent,Free,3-Inadequate/sub-standard,Yes,3 Ind,2
+2,1702,Balqa,Tent,Rent/Lease,3-Inadequate/sub-standard,Yes,3 Ind,2
+2,1702,Balqa,Tent,Free,3-Inadequate/sub-standard,Yes,4 Ind,1
+2,1702,Balqa,Tent,Rent/Lease,3-Inadequate/sub-standard,Yes,4 Ind,4
+2,1702,Balqa,Tent,Free,3-Inadequate/sub-standard,Yes,5 Ind,3
+2,1702,Balqa,Tent,Rent/Lease,3-Inadequate/sub-standard,Yes,5 Ind,2
+2,1702,Balqa,Tent,Free,3-Inadequate/sub-standard,Yes,6 Ind,2
+2,1702,Balqa,Tent,Rent/Lease,3-Inadequate/sub-standard,Yes,6 Ind,1
+2,1702,Balqa,Tent,Free,3-Inadequate/sub-standard,Yes,7 Ind,2
+2,1702,Balqa,Tent,Rent/Lease,3-Inadequate/sub-standard,Yes,7 Ind,2
+2,1702,Balqa,Tent,Free,3-Inadequate/sub-standard,Yes,8 Ind,5
+2,1702,Balqa,Tent,Free,3-Inadequate/sub-standard,Yes,9 Ind,1
+2,1702,Balqa,Tent,Free,4-Emergency,No,1 Ind,1
+2,1702,Balqa,Tent,Rent/Lease,4-Emergency,No,1 Ind,7
+2,1702,Balqa,Tent,Free,4-Emergency,No,10 Ind,1
+2,1702,Balqa,Tent,Free,4-Emergency,No,11 Ind,1
+2,1702,Balqa,Tent,N\A,4-Emergency,No,2 Ind,1
+2,1702,Balqa,Tent,Free,4-Emergency,No,2 Ind,3
+2,1702,Balqa,Tent,Rent/Lease,4-Emergency,No,2 Ind,2
+2,1702,Balqa,Tent,Free,4-Emergency,No,3 Ind,5
+2,1702,Balqa,Tent,Rent/Lease,4-Emergency,No,3 Ind,4
+2,1702,Balqa,Tent,Rent/Lease,4-Emergency,No,4 Ind,3
+2,1702,Balqa,Tent,Rent/Lease,4-Emergency,No,5 Ind,1
+2,1702,Balqa,Tent,Free,4-Emergency,No,6 Ind,1
+2,1702,Balqa,Tent,Free,4-Emergency,No,7 Ind,2
+2,1702,Balqa,Tent,Rent/Lease,4-Emergency,No,7 Ind,3
+2,1702,Balqa,Tent,Free,4-Emergency,No,8 Ind,1
+2,1702,Balqa,Tent,Rent/Lease,4-Emergency,No,8 Ind,1
+2,1702,Balqa,Tent,Rent/Lease,4-Emergency,Yes,1 Ind,2
+2,1702,Balqa,Tent,Free,4-Emergency,Yes,13 Ind,1
+2,1702,Balqa,Tent,Free,4-Emergency,Yes,2 Ind,1
+2,1702,Balqa,Tent,Free,4-Emergency,Yes,3 Ind,2
+2,1702,Balqa,Tent,Free,4-Emergency,Yes,4 Ind,1
+2,1702,Balqa,Tent,Rent/Lease,4-Emergency,Yes,4 Ind,2
+2,1702,Balqa,Tent,Free,4-Emergency,Yes,5 Ind,2
+2,1702,Balqa,Tent,Rent/Lease,4-Emergency,Yes,5 Ind,2
+2,1702,Balqa,Tent,Free,4-Emergency,Yes,6 Ind,1
+2,1702,Balqa,Tent,Rent/Lease,4-Emergency,Yes,6 Ind,1
+2,1702,Balqa,Tent,Free,4-Emergency,Yes,7 Ind,2
+2,1702,Balqa,Tent,Free,4-Emergency,Yes,8 Ind,2
+2,1702,Balqa,Tent,Rent/Lease,4-Emergency,Yes,8 Ind,1
+2,1702,Balqa,Tent,Free,4-Emergency,Yes,9 Ind,1
+2,1702,Balqa,Tent,Rent/Lease,5. N\A,Yes,1 Ind,1
+2,1705,Amman,Basement,Free,2-Adequate/standard,No,1 Ind,1
+2,1705,Amman,Basement,Rent/Lease,2-Adequate/standard,No,1 Ind,2
+2,1705,Amman,Basement,Rent/Lease,2-Adequate/standard,No,10 Ind,1
+2,1705,Amman,Basement,Rent/Lease,2-Adequate/standard,No,2 Ind,5
+2,1705,Amman,Basement,Free,2-Adequate/standard,No,3 Ind,1
+2,1705,Amman,Basement,Rent/Lease,2-Adequate/standard,No,3 Ind,7
+2,1705,Amman,Basement,Rent/Lease,2-Adequate/standard,No,4 Ind,6
+2,1705,Amman,Basement,Free,2-Adequate/standard,No,5 Ind,1
+2,1705,Amman,Basement,Rent/Lease,2-Adequate/standard,No,5 Ind,7
+2,1705,Amman,Basement,Rent/Lease,2-Adequate/standard,No,6 Ind,5
+2,1705,Amman,Basement,Rent/Lease,2-Adequate/standard,No,7 Ind,1
+2,1705,Amman,Basement,Free,2-Adequate/standard,No,8 Ind,1
+2,1705,Amman,Basement,Rent/Lease,2-Adequate/standard,No,8 Ind,1
+2,1705,Amman,Basement,Rent/Lease,2-Adequate/standard,No,9 Ind,1
+2,1705,Amman,Basement,Rent/Lease,2-Adequate/standard,Yes,1 Ind,2
+2,1705,Amman,Basement,Free,2-Adequate/standard,Yes,4 Ind,1
+2,1705,Amman,Basement,Rent/Lease,2-Adequate/standard,Yes,5 Ind,1
+2,1705,Amman,Basement,Rent/Lease,2-Adequate/standard,Yes,7 Ind,1
+2,1705,Amman,Basement,Rent/Lease,2-Adequate/standard,Yes,9 Ind,1
+2,1705,Amman,Basement,Free,3-Inadequate/sub-standard,No,1 Ind,2
+2,1705,Amman,Basement,Rent/Lease,3-Inadequate/sub-standard,No,1 Ind,14
+2,1705,Amman,Basement,Rent/Lease,3-Inadequate/sub-standard,No,2 Ind,7
+2,1705,Amman,Basement,Free,3-Inadequate/sub-standard,No,3 Ind,1
+2,1705,Amman,Basement,Rent/Lease,3-Inadequate/sub-standard,No,3 Ind,11
+2,1705,Amman,Basement,Free,3-Inadequate/sub-standard,No,4 Ind,1
+2,1705,Amman,Basement,Rent/Lease,3-Inadequate/sub-standard,No,4 Ind,15
+2,1705,Amman,Basement,Rent/Lease,3-Inadequate/sub-standard,No,5 Ind,11
+2,1705,Amman,Basement,Free,3-Inadequate/sub-standard,No,6 Ind,1
+2,1705,Amman,Basement,Other,3-Inadequate/sub-standard,No,6 Ind,1
+2,1705,Amman,Basement,Rent/Lease,3-Inadequate/sub-standard,No,6 Ind,8
+2,1705,Amman,Basement,Rent/Lease,3-Inadequate/sub-standard,No,7 Ind,5
+2,1705,Amman,Basement,Rent/Lease,3-Inadequate/sub-standard,No,8 Ind,2
+2,1705,Amman,Basement,Free,3-Inadequate/sub-standard,Yes,1 Ind,2
+2,1705,Amman,Basement,Rent/Lease,3-Inadequate/sub-standard,Yes,1 Ind,4
+2,1705,Amman,Basement,Rent/Lease,3-Inadequate/sub-standard,Yes,2 Ind,1
+2,1705,Amman,Basement,Rent/Lease,3-Inadequate/sub-standard,Yes,4 Ind,1
+2,1705,Amman,Basement,Rent/Lease,3-Inadequate/sub-standard,Yes,5 Ind,1
+2,1705,Amman,Basement,Free,3-Inadequate/sub-standard,Yes,6 Ind,1
+2,1705,Amman,Basement,Rent/Lease,3-Inadequate/sub-standard,Yes,6 Ind,2
+2,1705,Amman,Basement,Rent/Lease,3-Inadequate/sub-standard,Yes,7 Ind,1
+2,1705,Amman,Basement,Rent/Lease,3-Inadequate/sub-standard,Yes,8 Ind,1
+2,1705,Amman,Basement,Free,4-Emergency,No,1 Ind,1
+2,1705,Amman,Basement,Rent/Lease,4-Emergency,No,4 Ind,1
+2,1705,Amman,Basement,N\A,5. N\A,No,1 Ind,23
+2,1705,Amman,Basement,N\A,5. N\A,No,10 Ind,1
+2,1705,Amman,Basement,N\A,5. N\A,No,2 Ind,11
+2,1705,Amman,Basement,N\A,5. N\A,No,3 Ind,10
+2,1705,Amman,Basement,N\A,5. N\A,No,4 Ind,12
+2,1705,Amman,Basement,N\A,5. N\A,No,5 Ind,15
+2,1705,Amman,Basement,N\A,5. N\A,No,6 Ind,9
+2,1705,Amman,Basement,N\A,5. N\A,No,7 Ind,6
+2,1705,Amman,Basement,N\A,5. N\A,No,8 Ind,5
+2,1705,Amman,Basement,N\A,5. N\A,Yes,1 Ind,1
+2,1705,Amman,Basement,N\A,5. N\A,Yes,3 Ind,1
+2,1705,Amman,Basement,N\A,5. N\A,Yes,4 Ind,2
+2,1705,Amman,Basement,N\A,5. N\A,Yes,5 Ind,4
+2,1705,Amman,Basement,N\A,5. N\A,Yes,6 Ind,2
+2,1705,Amman,Communal Centre,Free,2-Adequate/standard,No,1 Ind,1
+2,1705,Amman,Communal Centre,Free,2-Adequate/standard,No,3 Ind,1
+2,1705,Amman,Communal Centre,Rent/Lease,2-Adequate/standard,No,3 Ind,1
+2,1705,Amman,Communal Centre,Rent/Lease,2-Adequate/standard,No,4 Ind,3
+2,1705,Amman,Communal Centre,Rent/Lease,2-Adequate/standard,No,5 Ind,2
+2,1705,Amman,Communal Centre,Rent/Lease,2-Adequate/standard,No,6 Ind,1
+2,1705,Amman,Communal Centre,Rent/Lease,2-Adequate/standard,No,7 Ind,1
+2,1705,Amman,Communal Centre,Rent/Lease,2-Adequate/standard,Yes,4 Ind,1
+2,1705,Amman,Communal Centre,Free,3-Inadequate/sub-standard,No,1 Ind,1
+2,1705,Amman,Communal Centre,Rent/Lease,3-Inadequate/sub-standard,No,1 Ind,2
+2,1705,Amman,Communal Centre,Rent/Lease,3-Inadequate/sub-standard,No,3 Ind,1
+2,1705,Amman,Communal Centre,Rent/Lease,3-Inadequate/sub-standard,No,5 Ind,1
+2,1705,Amman,Communal Centre,Rent/Lease,3-Inadequate/sub-standard,No,6 Ind,1
+2,1705,Amman,Communal Centre,Rent/Lease,3-Inadequate/sub-standard,No,7 Ind,1
+2,1705,Amman,Communal Centre,Rent/Lease,3-Inadequate/sub-standard,Yes,2 Ind,1
+2,1705,Amman,Communal Centre,Rent/Lease,3-Inadequate/sub-standard,Yes,4 Ind,1
+2,1705,Amman,Communal Centre,Rent/Lease,3-Inadequate/sub-standard,Yes,5 Ind,1
+2,1705,Amman,Communal Centre,Rent/Lease,3-Inadequate/sub-standard,Yes,6 Ind,1
+2,1705,Amman,Communal Centre,Rent/Lease,3-Inadequate/sub-standard,Yes,7 Ind,1
+2,1705,Amman,Communal Centre,Rent/Lease,4-Emergency,Yes,5 Ind,1
+2,1705,Amman,Flat/Apartment,Free,1-Above standard,No,1 Ind,2
+2,1705,Amman,Flat/Apartment,Rent/Lease,1-Above standard,No,1 Ind,19
+2,1705,Amman,Flat/Apartment,Free,1-Above standard,No,2 Ind,3
+2,1705,Amman,Flat/Apartment,Rent/Lease,1-Above standard,No,2 Ind,6
+2,1705,Amman,Flat/Apartment,Free,1-Above standard,No,3 Ind,2
+2,1705,Amman,Flat/Apartment,Rent/Lease,1-Above standard,No,3 Ind,14
+2,1705,Amman,Flat/Apartment,Free,1-Above standard,No,4 Ind,3
+2,1705,Amman,Flat/Apartment,Rent/Lease,1-Above standard,No,4 Ind,11
+2,1705,Amman,Flat/Apartment,Free,1-Above standard,No,5 Ind,2
+2,1705,Amman,Flat/Apartment,Owned,1-Above standard,No,5 Ind,1
+2,1705,Amman,Flat/Apartment,Rent/Lease,1-Above standard,No,5 Ind,8
+2,1705,Amman,Flat/Apartment,Free,1-Above standard,No,6 Ind,1
+2,1705,Amman,Flat/Apartment,Owned,1-Above standard,No,6 Ind,1
+2,1705,Amman,Flat/Apartment,Rent/Lease,1-Above standard,No,6 Ind,8
+2,1705,Amman,Flat/Apartment,Rent/Lease,1-Above standard,Yes,2 Ind,1
+2,1705,Amman,Flat/Apartment,N\A,2-Adequate/standard,No,1 Ind,5
+2,1705,Amman,Flat/Apartment,Free,2-Adequate/standard,No,1 Ind,219
+2,1705,Amman,Flat/Apartment,Owned,2-Adequate/standard,No,1 Ind,10
+2,1705,Amman,Flat/Apartment,Rent/Lease,2-Adequate/standard,No,1 Ind,1480
+2,1705,Amman,Flat/Apartment,Rent/Lease,2-Adequate/standard,No,10 Ind,18
+2,1705,Amman,Flat/Apartment,Rent/Lease,2-Adequate/standard,No,11 Ind,9
+2,1705,Amman,Flat/Apartment,Rent/Lease,2-Adequate/standard,No,13 Ind,1
+2,1705,Amman,Flat/Apartment,N\A,2-Adequate/standard,No,2 Ind,6
+2,1705,Amman,Flat/Apartment,Free,2-Adequate/standard,No,2 Ind,108
+2,1705,Amman,Flat/Apartment,Owned,2-Adequate/standard,No,2 Ind,1
+2,1705,Amman,Flat/Apartment,Rent/Lease,2-Adequate/standard,No,2 Ind,878
+2,1705,Amman,Flat/Apartment,N\A,2-Adequate/standard,No,3 Ind,1
+2,1705,Amman,Flat/Apartment,Free,2-Adequate/standard,No,3 Ind,93
+2,1705,Amman,Flat/Apartment,Owned,2-Adequate/standard,No,3 Ind,4
+2,1705,Amman,Flat/Apartment,Rent/Lease,2-Adequate/standard,No,3 Ind,986
+2,1705,Amman,Flat/Apartment,N\A,2-Adequate/standard,No,4 Ind,2
+2,1705,Amman,Flat/Apartment,Free,2-Adequate/standard,No,4 Ind,68
+2,1705,Amman,Flat/Apartment,Owned,2-Adequate/standard,No,4 Ind,4
+2,1705,Amman,Flat/Apartment,Rent/Lease,2-Adequate/standard,No,4 Ind,1214
+2,1705,Amman,Flat/Apartment,N\A,2-Adequate/standard,No,5 Ind,2
+2,1705,Amman,Flat/Apartment,Free,2-Adequate/standard,No,5 Ind,61
+2,1705,Amman,Flat/Apartment,Owned,2-Adequate/standard,No,5 Ind,3
+2,1705,Amman,Flat/Apartment,Rent/Lease,2-Adequate/standard,No,5 Ind,1034
+2,1705,Amman,Flat/Apartment,N\A,2-Adequate/standard,No,6 Ind,1
+2,1705,Amman,Flat/Apartment,Free,2-Adequate/standard,No,6 Ind,30
+2,1705,Amman,Flat/Apartment,Other,2-Adequate/standard,No,6 Ind,1
+2,1705,Amman,Flat/Apartment,Owned,2-Adequate/standard,No,6 Ind,4
+2,1705,Amman,Flat/Apartment,Rent/Lease,2-Adequate/standard,No,6 Ind,630
+2,1705,Amman,Flat/Apartment,N\A,2-Adequate/standard,No,7 Ind,2
+2,1705,Amman,Flat/Apartment,Free,2-Adequate/standard,No,7 Ind,8
+2,1705,Amman,Flat/Apartment,Owned,2-Adequate/standard,No,7 Ind,1
+2,1705,Amman,Flat/Apartment,Rent/Lease,2-Adequate/standard,No,7 Ind,341
+2,1705,Amman,Flat/Apartment,N\A,2-Adequate/standard,No,8 Ind,2
+2,1705,Amman,Flat/Apartment,Free,2-Adequate/standard,No,8 Ind,6
+2,1705,Amman,Flat/Apartment,Rent/Lease,2-Adequate/standard,No,8 Ind,126
+2,1705,Amman,Flat/Apartment,Free,2-Adequate/standard,No,9 Ind,2
+2,1705,Amman,Flat/Apartment,Rent/Lease,2-Adequate/standard,No,9 Ind,51
+2,1705,Amman,Flat/Apartment,Free,2-Adequate/standard,Yes,1 Ind,14
+2,1705,Amman,Flat/Apartment,Owned,2-Adequate/standard,Yes,1 Ind,1
+2,1705,Amman,Flat/Apartment,Rent/Lease,2-Adequate/standard,Yes,1 Ind,62
+2,1705,Amman,Flat/Apartment,Rent/Lease,2-Adequate/standard,Yes,10 Ind,2
+2,1705,Amman,Flat/Apartment,Rent/Lease,2-Adequate/standard,Yes,11 Ind,3
+2,1705,Amman,Flat/Apartment,N\A,2-Adequate/standard,Yes,2 Ind,2
+2,1705,Amman,Flat/Apartment,Free,2-Adequate/standard,Yes,2 Ind,3
+2,1705,Amman,Flat/Apartment,Other,2-Adequate/standard,Yes,2 Ind,1
+2,1705,Amman,Flat/Apartment,Rent/Lease,2-Adequate/standard,Yes,2 Ind,41
+2,1705,Amman,Flat/Apartment,Free,2-Adequate/standard,Yes,3 Ind,11
+2,1705,Amman,Flat/Apartment,Owned,2-Adequate/standard,Yes,3 Ind,1
+2,1705,Amman,Flat/Apartment,Rent/Lease,2-Adequate/standard,Yes,3 Ind,46
+2,1705,Amman,Flat/Apartment,Free,2-Adequate/standard,Yes,4 Ind,3
+2,1705,Amman,Flat/Apartment,Rent/Lease,2-Adequate/standard,Yes,4 Ind,79
+2,1705,Amman,Flat/Apartment,Free,2-Adequate/standard,Yes,5 Ind,4
+2,1705,Amman,Flat/Apartment,Rent/Lease,2-Adequate/standard,Yes,5 Ind,48
+2,1705,Amman,Flat/Apartment,Free,2-Adequate/standard,Yes,6 Ind,6
+2,1705,Amman,Flat/Apartment,Rent/Lease,2-Adequate/standard,Yes,6 Ind,62
+2,1705,Amman,Flat/Apartment,Free,2-Adequate/standard,Yes,7 Ind,1
+2,1705,Amman,Flat/Apartment,Rent/Lease,2-Adequate/standard,Yes,7 Ind,23
+2,1705,Amman,Flat/Apartment,Owned,2-Adequate/standard,Yes,8 Ind,1
+2,1705,Amman,Flat/Apartment,Rent/Lease,2-Adequate/standard,Yes,8 Ind,9
+2,1705,Amman,Flat/Apartment,Rent/Lease,2-Adequate/standard,Yes,9 Ind,5
+2,1705,Amman,Flat/Apartment,N\A,3-Inadequate/sub-standard,No,1 Ind,3
+2,1705,Amman,Flat/Apartment,Free,3-Inadequate/sub-standard,No,1 Ind,138
+2,1705,Amman,Flat/Apartment,Owned,3-Inadequate/sub-standard,No,1 Ind,2
+2,1705,Amman,Flat/Apartment,Rent/Lease,3-Inadequate/sub-standard,No,1 Ind,1028
+2,1705,Amman,Flat/Apartment,Free,3-Inadequate/sub-standard,No,10 Ind,1
+2,1705,Amman,Flat/Apartment,Rent/Lease,3-Inadequate/sub-standard,No,10 Ind,16
+2,1705,Amman,Flat/Apartment,Free,3-Inadequate/sub-standard,No,11 Ind,1
+2,1705,Amman,Flat/Apartment,Rent/Lease,3-Inadequate/sub-standard,No,11 Ind,7
+2,1705,Amman,Flat/Apartment,Free,3-Inadequate/sub-standard,No,12 Ind,2
+2,1705,Amman,Flat/Apartment,Rent/Lease,3-Inadequate/sub-standard,No,13 Ind,1
+2,1705,Amman,Flat/Apartment,N\A,3-Inadequate/sub-standard,No,2 Ind,1
+2,1705,Amman,Flat/Apartment,Free,3-Inadequate/sub-standard,No,2 Ind,38
+2,1705,Amman,Flat/Apartment,Rent/Lease,3-Inadequate/sub-standard,No,2 Ind,599
+2,1705,Amman,Flat/Apartment,Free,3-Inadequate/sub-standard,No,3 Ind,38
+2,1705,Amman,Flat/Apartment,Owned,3-Inadequate/sub-standard,No,3 Ind,3
+2,1705,Amman,Flat/Apartment,Rent/Lease,3-Inadequate/sub-standard,No,3 Ind,757
+2,1705,Amman,Flat/Apartment,N\A,3-Inadequate/sub-standard,No,4 Ind,2
+2,1705,Amman,Flat/Apartment,Free,3-Inadequate/sub-standard,No,4 Ind,27
+2,1705,Amman,Flat/Apartment,Owned,3-Inadequate/sub-standard,No,4 Ind,1
+2,1705,Amman,Flat/Apartment,Rent/Lease,3-Inadequate/sub-standard,No,4 Ind,898
+2,1705,Amman,Flat/Apartment,N\A,3-Inadequate/sub-standard,No,5 Ind,1
+2,1705,Amman,Flat/Apartment,Free,3-Inadequate/sub-standard,No,5 Ind,27
+2,1705,Amman,Flat/Apartment,Owned,3-Inadequate/sub-standard,No,5 Ind,2
+2,1705,Amman,Flat/Apartment,Rent/Lease,3-Inadequate/sub-standard,No,5 Ind,777
+2,1705,Amman,Flat/Apartment,N\A,3-Inadequate/sub-standard,No,6 Ind,1
+2,1705,Amman,Flat/Apartment,Free,3-Inadequate/sub-standard,No,6 Ind,13
+2,1705,Amman,Flat/Apartment,Owned,3-Inadequate/sub-standard,No,6 Ind,3
+2,1705,Amman,Flat/Apartment,Rent/Lease,3-Inadequate/sub-standard,No,6 Ind,534
+2,1705,Amman,Flat/Apartment,N\A,3-Inadequate/sub-standard,No,7 Ind,1
+2,1705,Amman,Flat/Apartment,Free,3-Inadequate/sub-standard,No,7 Ind,8
+2,1705,Amman,Flat/Apartment,Owned,3-Inadequate/sub-standard,No,7 Ind,2
+2,1705,Amman,Flat/Apartment,Rent/Lease,3-Inadequate/sub-standard,No,7 Ind,256
+2,1705,Amman,Flat/Apartment,Free,3-Inadequate/sub-standard,No,8 Ind,6
+2,1705,Amman,Flat/Apartment,Other,3-Inadequate/sub-standard,No,8 Ind,1
+2,1705,Amman,Flat/Apartment,Rent/Lease,3-Inadequate/sub-standard,No,8 Ind,103
+2,1705,Amman,Flat/Apartment,Rent/Lease,3-Inadequate/sub-standard,No,9 Ind,40
+2,1705,Amman,Flat/Apartment,Free,3-Inadequate/sub-standard,Yes,1 Ind,12
+2,1705,Amman,Flat/Apartment,Rent/Lease,3-Inadequate/sub-standard,Yes,1 Ind,117
+2,1705,Amman,Flat/Apartment,Rent/Lease,3-Inadequate/sub-standard,Yes,10 Ind,20
+2,1705,Amman,Flat/Apartment,Rent/Lease,3-Inadequate/sub-standard,Yes,11 Ind,3
+2,1705,Amman,Flat/Apartment,Free,3-Inadequate/sub-standard,Yes,2 Ind,7
+2,1705,Amman,Flat/Apartment,Other,3-Inadequate/sub-standard,Yes,2 Ind,1
+2,1705,Amman,Flat/Apartment,Rent/Lease,3-Inadequate/sub-standard,Yes,2 Ind,65
+2,1705,Amman,Flat/Apartment,Free,3-Inadequate/sub-standard,Yes,3 Ind,10
+2,1705,Amman,Flat/Apartment,Rent/Lease,3-Inadequate/sub-standard,Yes,3 Ind,60
+2,1705,Amman,Flat/Apartment,Free,3-Inadequate/sub-standard,Yes,4 Ind,4
+2,1705,Amman,Flat/Apartment,Rent/Lease,3-Inadequate/sub-standard,Yes,4 Ind,116
+2,1705,Amman,Flat/Apartment,Free,3-Inadequate/sub-standard,Yes,5 Ind,5
+2,1705,Amman,Flat/Apartment,Rent/Lease,3-Inadequate/sub-standard,Yes,5 Ind,135
+2,1705,Amman,Flat/Apartment,N\A,3-Inadequate/sub-standard,Yes,6 Ind,1
+2,1705,Amman,Flat/Apartment,Free,3-Inadequate/sub-standard,Yes,6 Ind,8
+2,1705,Amman,Flat/Apartment,Rent/Lease,3-Inadequate/sub-standard,Yes,6 Ind,96
+2,1705,Amman,Flat/Apartment,Free,3-Inadequate/sub-standard,Yes,7 Ind,2
+2,1705,Amman,Flat/Apartment,Other,3-Inadequate/sub-standard,Yes,7 Ind,1
+2,1705,Amman,Flat/Apartment,Rent/Lease,3-Inadequate/sub-standard,Yes,7 Ind,46
+2,1705,Amman,Flat/Apartment,Free,3-Inadequate/sub-standard,Yes,8 Ind,1
+2,1705,Amman,Flat/Apartment,Owned,3-Inadequate/sub-standard,Yes,8 Ind,1
+2,1705,Amman,Flat/Apartment,Rent/Lease,3-Inadequate/sub-standard,Yes,8 Ind,33
+2,1705,Amman,Flat/Apartment,Rent/Lease,3-Inadequate/sub-standard,Yes,9 Ind,27
+2,1705,Amman,Flat/Apartment,Free,4-Emergency,No,1 Ind,6
+2,1705,Amman,Flat/Apartment,Owned,4-Emergency,No,1 Ind,1
+2,1705,Amman,Flat/Apartment,Rent/Lease,4-Emergency,No,1 Ind,17
+2,1705,Amman,Flat/Apartment,Free,4-Emergency,No,2 Ind,2
+2,1705,Amman,Flat/Apartment,Rent/Lease,4-Emergency,No,2 Ind,8
+2,1705,Amman,Flat/Apartment,Free,4-Emergency,No,3 Ind,1
+2,1705,Amman,Flat/Apartment,Rent/Lease,4-Emergency,No,3 Ind,8
+2,1705,Amman,Flat/Apartment,Free,4-Emergency,No,4 Ind,2
+2,1705,Amman,Flat/Apartment,Rent/Lease,4-Emergency,No,4 Ind,15
+2,1705,Amman,Flat/Apartment,Free,4-Emergency,No,5 Ind,1
+2,1705,Amman,Flat/Apartment,Rent/Lease,4-Emergency,No,5 Ind,15
+2,1705,Amman,Flat/Apartment,Free,4-Emergency,No,6 Ind,1
+2,1705,Amman,Flat/Apartment,Owned,4-Emergency,No,6 Ind,1
+2,1705,Amman,Flat/Apartment,Rent/Lease,4-Emergency,No,6 Ind,10
+2,1705,Amman,Flat/Apartment,Rent/Lease,4-Emergency,No,7 Ind,6
+2,1705,Amman,Flat/Apartment,Rent/Lease,4-Emergency,No,8 Ind,1
+2,1705,Amman,Flat/Apartment,Rent/Lease,4-Emergency,No,9 Ind,1
+2,1705,Amman,Flat/Apartment,Rent/Lease,4-Emergency,Yes,1 Ind,1
+2,1705,Amman,Flat/Apartment,Rent/Lease,4-Emergency,Yes,2 Ind,2
+2,1705,Amman,Flat/Apartment,Rent/Lease,4-Emergency,Yes,4 Ind,1
+2,1705,Amman,Flat/Apartment,Rent/Lease,4-Emergency,Yes,5 Ind,2
+2,1705,Amman,Flat/Apartment,Rent/Lease,4-Emergency,Yes,6 Ind,1
+2,1705,Amman,Flat/Apartment,Rent/Lease,5. N\A,No,1 Ind,11
+2,1705,Amman,Flat/Apartment,Rent/Lease,5. N\A,No,10 Ind,1
+2,1705,Amman,Flat/Apartment,Rent/Lease,5. N\A,No,2 Ind,6
+2,1705,Amman,Flat/Apartment,Free,5. N\A,No,3 Ind,1
+2,1705,Amman,Flat/Apartment,Rent/Lease,5. N\A,No,3 Ind,2
+2,1705,Amman,Flat/Apartment,Rent/Lease,5. N\A,No,4 Ind,3
+2,1705,Amman,Flat/Apartment,Rent/Lease,5. N\A,No,5 Ind,5
+2,1705,Amman,Flat/Apartment,Rent/Lease,5. N\A,No,6 Ind,2
+2,1705,Amman,Flat/Apartment,Rent/Lease,5. N\A,No,7 Ind,1
+2,1705,Amman,House,Owned,1-Above standard,No,1 Ind,1
+2,1705,Amman,House,Free,2-Adequate/standard,No,1 Ind,3
+2,1705,Amman,House,Rent/Lease,2-Adequate/standard,No,1 Ind,2
+2,1705,Amman,House,Rent/Lease,2-Adequate/standard,No,10 Ind,2
+2,1705,Amman,House,Free,2-Adequate/standard,No,2 Ind,1
+2,1705,Amman,House,Owned,2-Adequate/standard,No,2 Ind,1
+2,1705,Amman,House,Rent/Lease,2-Adequate/standard,No,2 Ind,2
+2,1705,Amman,House,Rent/Lease,2-Adequate/standard,No,3 Ind,5
+2,1705,Amman,House,Rent/Lease,2-Adequate/standard,No,4 Ind,2
+2,1705,Amman,House,Rent/Lease,2-Adequate/standard,No,5 Ind,1
+2,1705,Amman,House,Rent/Lease,2-Adequate/standard,No,6 Ind,1
+2,1705,Amman,House,Rent/Lease,2-Adequate/standard,Yes,3 Ind,1
+2,1705,Amman,House,Rent/Lease,3-Inadequate/sub-standard,No,1 Ind,1
+2,1705,Amman,House,Rent/Lease,3-Inadequate/sub-standard,No,2 Ind,3
+2,1705,Amman,House,Rent/Lease,3-Inadequate/sub-standard,No,3 Ind,3
+2,1705,Amman,House,Rent/Lease,3-Inadequate/sub-standard,No,4 Ind,3
+2,1705,Amman,House,Rent/Lease,3-Inadequate/sub-standard,Yes,3 Ind,1
+2,1705,Amman,Improvised/Self-Made,Free,2-Adequate/standard,No,7 Ind,1
+2,1705,Amman,Improvised/Self-Made,Free,3-Inadequate/sub-standard,No,3 Ind,1
+2,1705,Amman,Improvised/Self-Made,Rent/Lease,3-Inadequate/sub-standard,No,4 Ind,3
+2,1705,Amman,Improvised/Self-Made,Rent/Lease,3-Inadequate/sub-standard,No,6 Ind,1
+2,1705,Amman,Mud-House,Rent/Lease,2-Adequate/standard,No,1 Ind,1
+2,1705,Amman,Mud-House,Rent/Lease,3-Inadequate/sub-standard,No,1 Ind,1
+2,1705,Amman,Mud-House,Rent/Lease,3-Inadequate/sub-standard,No,2 Ind,1
+2,1705,Amman,Mud-House,Rent/Lease,3-Inadequate/sub-standard,No,3 Ind,4
+2,1705,Amman,Mud-House,Free,3-Inadequate/sub-standard,No,4 Ind,1
+2,1705,Amman,Mud-House,Rent/Lease,3-Inadequate/sub-standard,No,5 Ind,1
+2,1705,Amman,Mud-House,Rent/Lease,3-Inadequate/sub-standard,No,6 Ind,2
+2,1705,Amman,Mud-House,Rent/Lease,3-Inadequate/sub-standard,No,8 Ind,1
+2,1705,Amman,Mud-House,Rent/Lease,3-Inadequate/sub-standard,Yes,3 Ind,1
+2,1705,Amman,Mud-House,Rent/Lease,3-Inadequate/sub-standard,Yes,4 Ind,1
+2,1705,Amman,Mud-House,Rent/Lease,3-Inadequate/sub-standard,Yes,7 Ind,1
+2,1705,Amman,Mud-House,Rent/Lease,3-Inadequate/sub-standard,Yes,8 Ind,1
+2,1705,Amman,Mud-House,Rent/Lease,4-Emergency,No,1 Ind,1
+2,1705,Amman,No Shelter,Rent/Lease,3-Inadequate/sub-standard,No,1 Ind,1
+2,1705,Amman,No Shelter,Free,3-Inadequate/sub-standard,Yes,6 Ind,1
+2,1705,Amman,Other,Owned,1-Above standard,No,1 Ind,1
+2,1705,Amman,Other,Rent/Lease,1-Above standard,No,4 Ind,1
+2,1705,Amman,Other,Free,2-Adequate/standard,No,1 Ind,7
+2,1705,Amman,Other,Rent/Lease,2-Adequate/standard,No,1 Ind,6
+2,1705,Amman,Other,Free,2-Adequate/standard,No,2 Ind,1
+2,1705,Amman,Other,Rent/Lease,2-Adequate/standard,No,2 Ind,3
+2,1705,Amman,Other,Rent/Lease,2-Adequate/standard,No,3 Ind,2
+2,1705,Amman,Other,Free,2-Adequate/standard,No,4 Ind,1
+2,1705,Amman,Other,Rent/Lease,2-Adequate/standard,No,4 Ind,1
+2,1705,Amman,Other,Rent/Lease,2-Adequate/standard,No,5 Ind,1
+2,1705,Amman,Other,Free,2-Adequate/standard,No,6 Ind,1
+2,1705,Amman,Other,Rent/Lease,2-Adequate/standard,No,7 Ind,1
+2,1705,Amman,Other,Free,3-Inadequate/sub-standard,No,1 Ind,19
+2,1705,Amman,Other,Other,3-Inadequate/sub-standard,No,1 Ind,1
+2,1705,Amman,Other,Rent/Lease,3-Inadequate/sub-standard,No,1 Ind,22
+2,1705,Amman,Other,Free,3-Inadequate/sub-standard,No,2 Ind,3
+2,1705,Amman,Other,Rent/Lease,3-Inadequate/sub-standard,No,2 Ind,4
+2,1705,Amman,Other,Free,3-Inadequate/sub-standard,No,3 Ind,5
+2,1705,Amman,Other,Rent/Lease,3-Inadequate/sub-standard,No,3 Ind,8
+2,1705,Amman,Other,Free,3-Inadequate/sub-standard,No,4 Ind,4
+2,1705,Amman,Other,Rent/Lease,3-Inadequate/sub-standard,No,4 Ind,9
+2,1705,Amman,Other,Free,3-Inadequate/sub-standard,No,5 Ind,3
+2,1705,Amman,Other,Rent/Lease,3-Inadequate/sub-standard,No,5 Ind,2
+2,1705,Amman,Other,Free,3-Inadequate/sub-standard,No,6 Ind,3
+2,1705,Amman,Other,Rent/Lease,3-Inadequate/sub-standard,No,6 Ind,1
+2,1705,Amman,Other,Free,3-Inadequate/sub-standard,No,7 Ind,3
+2,1705,Amman,Other,Rent/Lease,3-Inadequate/sub-standard,No,7 Ind,1
+2,1705,Amman,Other,Rent/Lease,3-Inadequate/sub-standard,No,8 Ind,2
+2,1705,Amman,Other,Free,3-Inadequate/sub-standard,Yes,1 Ind,3
+2,1705,Amman,Other,Rent/Lease,3-Inadequate/sub-standard,Yes,1 Ind,3
+2,1705,Amman,Other,Free,3-Inadequate/sub-standard,Yes,2 Ind,1
+2,1705,Amman,Other,Rent/Lease,3-Inadequate/sub-standard,Yes,3 Ind,2
+2,1705,Amman,Other,Free,3-Inadequate/sub-standard,Yes,4 Ind,2
+2,1705,Amman,Other,Rent/Lease,3-Inadequate/sub-standard,Yes,4 Ind,2
+2,1705,Amman,Other,Free,3-Inadequate/sub-standard,Yes,5 Ind,1
+2,1705,Amman,Other,Free,3-Inadequate/sub-standard,Yes,6 Ind,2
+2,1705,Amman,Other,Rent/Lease,3-Inadequate/sub-standard,Yes,6 Ind,1
+2,1705,Amman,Other,Free,3-Inadequate/sub-standard,Yes,7 Ind,2
+2,1705,Amman,Other,Rent/Lease,3-Inadequate/sub-standard,Yes,7 Ind,3
+2,1705,Amman,Other,Free,4-Emergency,No,1 Ind,4
+2,1705,Amman,Other,Other,4-Emergency,No,1 Ind,1
+2,1705,Amman,Other,Rent/Lease,4-Emergency,No,1 Ind,3
+2,1705,Amman,Other,Free,4-Emergency,No,2 Ind,1
+2,1705,Amman,Other,Rent/Lease,4-Emergency,No,2 Ind,2
+2,1705,Amman,Other,Rent/Lease,4-Emergency,No,3 Ind,2
+2,1705,Amman,Other,Free,4-Emergency,No,4 Ind,1
+2,1705,Amman,Other,Rent/Lease,4-Emergency,No,4 Ind,1
+2,1705,Amman,Other,Free,4-Emergency,No,5 Ind,2
+2,1705,Amman,Other,Free,4-Emergency,No,6 Ind,1
+2,1705,Amman,Other,Rent/Lease,4-Emergency,No,6 Ind,1
+2,1705,Amman,Other,Free,4-Emergency,No,8 Ind,1
+2,1705,Amman,Other,Free,4-Emergency,Yes,5 Ind,1
+2,1705,Amman,Other,Free,4-Emergency,Yes,7 Ind,2
+2,1705,Amman,Other,N\A,5. N\A,No,1 Ind,1
+2,1705,Amman,Prefab,Rent/Lease,1-Above standard,No,1 Ind,1
+2,1705,Amman,Prefab,Rent/Lease,1-Above standard,No,4 Ind,1
+2,1705,Amman,Prefab,Rent/Lease,1-Above standard,No,5 Ind,2
+2,1705,Amman,Prefab,Rent/Lease,1-Above standard,No,6 Ind,1
+2,1705,Amman,Prefab,N\A,2-Adequate/standard,No,1 Ind,1
+2,1705,Amman,Prefab,Free,2-Adequate/standard,No,1 Ind,4
+2,1705,Amman,Prefab,Rent/Lease,2-Adequate/standard,No,1 Ind,54
+2,1705,Amman,Prefab,Free,2-Adequate/standard,No,2 Ind,4
+2,1705,Amman,Prefab,Rent/Lease,2-Adequate/standard,No,2 Ind,27
+2,1705,Amman,Prefab,Free,2-Adequate/standard,No,3 Ind,6
+2,1705,Amman,Prefab,Rent/Lease,2-Adequate/standard,No,3 Ind,35
+2,1705,Amman,Prefab,Free,2-Adequate/standard,No,4 Ind,2
+2,1705,Amman,Prefab,Rent/Lease,2-Adequate/standard,No,4 Ind,39
+2,1705,Amman,Prefab,N\A,2-Adequate/standard,No,5 Ind,1
+2,1705,Amman,Prefab,Free,2-Adequate/standard,No,5 Ind,3
+2,1705,Amman,Prefab,Rent/Lease,2-Adequate/standard,No,5 Ind,53
+2,1705,Amman,Prefab,Free,2-Adequate/standard,No,6 Ind,2
+2,1705,Amman,Prefab,Rent/Lease,2-Adequate/standard,No,6 Ind,19
+2,1705,Amman,Prefab,Free,2-Adequate/standard,No,7 Ind,1
+2,1705,Amman,Prefab,Rent/Lease,2-Adequate/standard,No,7 Ind,13
+2,1705,Amman,Prefab,Rent/Lease,2-Adequate/standard,No,8 Ind,2
+2,1705,Amman,Prefab,Rent/Lease,2-Adequate/standard,No,9 Ind,1
+2,1705,Amman,Prefab,Rent/Lease,2-Adequate/standard,Yes,1 Ind,3
+2,1705,Amman,Prefab,Free,2-Adequate/standard,Yes,2 Ind,2
+2,1705,Amman,Prefab,Rent/Lease,2-Adequate/standard,Yes,2 Ind,2
+2,1705,Amman,Prefab,Free,2-Adequate/standard,Yes,3 Ind,1
+2,1705,Amman,Prefab,Rent/Lease,2-Adequate/standard,Yes,3 Ind,4
+2,1705,Amman,Prefab,Rent/Lease,2-Adequate/standard,Yes,4 Ind,2
+2,1705,Amman,Prefab,Free,2-Adequate/standard,Yes,5 Ind,1
+2,1705,Amman,Prefab,Rent/Lease,2-Adequate/standard,Yes,5 Ind,1
+2,1705,Amman,Prefab,Rent/Lease,2-Adequate/standard,Yes,6 Ind,1
+2,1705,Amman,Prefab,Rent/Lease,2-Adequate/standard,Yes,7 Ind,2
+2,1705,Amman,Prefab,N\A,3-Inadequate/sub-standard,No,1 Ind,1
+2,1705,Amman,Prefab,Free,3-Inadequate/sub-standard,No,1 Ind,3
+2,1705,Amman,Prefab,Rent/Lease,3-Inadequate/sub-standard,No,1 Ind,16
+2,1705,Amman,Prefab,Rent/Lease,3-Inadequate/sub-standard,No,2 Ind,19
+2,1705,Amman,Prefab,Free,3-Inadequate/sub-standard,No,3 Ind,1
+2,1705,Amman,Prefab,Rent/Lease,3-Inadequate/sub-standard,No,3 Ind,13
+2,1705,Amman,Prefab,Free,3-Inadequate/sub-standard,No,4 Ind,2
+2,1705,Amman,Prefab,Rent/Lease,3-Inadequate/sub-standard,No,4 Ind,18
+2,1705,Amman,Prefab,Rent/Lease,3-Inadequate/sub-standard,No,5 Ind,21
+2,1705,Amman,Prefab,Rent/Lease,3-Inadequate/sub-standard,No,6 Ind,7
+2,1705,Amman,Prefab,Rent/Lease,3-Inadequate/sub-standard,No,7 Ind,2
+2,1705,Amman,Prefab,Rent/Lease,3-Inadequate/sub-standard,No,8 Ind,3
+2,1705,Amman,Prefab,Rent/Lease,3-Inadequate/sub-standard,No,9 Ind,1
+2,1705,Amman,Prefab,Rent/Lease,3-Inadequate/sub-standard,Yes,10 Ind,1
+2,1705,Amman,Prefab,Rent/Lease,3-Inadequate/sub-standard,Yes,4 Ind,2
+2,1705,Amman,Prefab,Rent/Lease,3-Inadequate/sub-standard,Yes,5 Ind,3
+2,1705,Amman,Prefab,Rent/Lease,3-Inadequate/sub-standard,Yes,6 Ind,1
+2,1705,Amman,Prefab,Rent/Lease,3-Inadequate/sub-standard,Yes,7 Ind,1
+2,1705,Amman,Tent,Free,2-Adequate/standard,No,2 Ind,1
+2,1705,Amman,Tent,Free,3-Inadequate/sub-standard,No,1 Ind,7
+2,1705,Amman,Tent,Rent/Lease,3-Inadequate/sub-standard,No,1 Ind,7
+2,1705,Amman,Tent,Free,3-Inadequate/sub-standard,No,10 Ind,2
+2,1705,Amman,Tent,Free,3-Inadequate/sub-standard,No,2 Ind,8
+2,1705,Amman,Tent,Owned,3-Inadequate/sub-standard,No,2 Ind,1
+2,1705,Amman,Tent,Rent/Lease,3-Inadequate/sub-standard,No,2 Ind,2
+2,1705,Amman,Tent,Free,3-Inadequate/sub-standard,No,3 Ind,12
+2,1705,Amman,Tent,Free,3-Inadequate/sub-standard,No,4 Ind,16
+2,1705,Amman,Tent,Rent/Lease,3-Inadequate/sub-standard,No,4 Ind,2
+2,1705,Amman,Tent,Free,3-Inadequate/sub-standard,No,5 Ind,10
+2,1705,Amman,Tent,Rent/Lease,3-Inadequate/sub-standard,No,5 Ind,2
+2,1705,Amman,Tent,Free,3-Inadequate/sub-standard,No,6 Ind,6
+2,1705,Amman,Tent,Free,3-Inadequate/sub-standard,No,7 Ind,6
+2,1705,Amman,Tent,Rent/Lease,3-Inadequate/sub-standard,No,7 Ind,1
+2,1705,Amman,Tent,Free,3-Inadequate/sub-standard,No,8 Ind,5
+2,1705,Amman,Tent,Other,3-Inadequate/sub-standard,No,8 Ind,1
+2,1705,Amman,Tent,Rent/Lease,3-Inadequate/sub-standard,No,9 Ind,1
+2,1705,Amman,Tent,Free,3-Inadequate/sub-standard,Yes,1 Ind,3
+2,1705,Amman,Tent,Rent/Lease,3-Inadequate/sub-standard,Yes,1 Ind,1
+2,1705,Amman,Tent,Free,3-Inadequate/sub-standard,Yes,10 Ind,1
+2,1705,Amman,Tent,Free,3-Inadequate/sub-standard,Yes,11 Ind,1
+2,1705,Amman,Tent,Free,3-Inadequate/sub-standard,Yes,2 Ind,3
+2,1705,Amman,Tent,Free,3-Inadequate/sub-standard,Yes,4 Ind,3
+2,1705,Amman,Tent,Rent/Lease,3-Inadequate/sub-standard,Yes,4 Ind,3
+2,1705,Amman,Tent,Free,3-Inadequate/sub-standard,Yes,5 Ind,5
+2,1705,Amman,Tent,Free,3-Inadequate/sub-standard,Yes,6 Ind,3
+2,1705,Amman,Tent,Owned,3-Inadequate/sub-standard,Yes,6 Ind,1
+2,1705,Amman,Tent,Free,3-Inadequate/sub-standard,Yes,7 Ind,10
+2,1705,Amman,Tent,Free,3-Inadequate/sub-standard,Yes,8 Ind,3
+2,1705,Amman,Tent,Owned,3-Inadequate/sub-standard,Yes,8 Ind,1
+2,1705,Amman,Tent,Free,3-Inadequate/sub-standard,Yes,9 Ind,1
+2,1705,Amman,Tent,Rent/Lease,3-Inadequate/sub-standard,Yes,9 Ind,1
+2,1705,Amman,Tent,Free,4-Emergency,No,1 Ind,5
+2,1705,Amman,Tent,Rent/Lease,4-Emergency,No,1 Ind,1
+2,1705,Amman,Tent,Free,4-Emergency,No,10 Ind,1
+2,1705,Amman,Tent,Free,4-Emergency,No,2 Ind,9
+2,1705,Amman,Tent,Other,4-Emergency,No,2 Ind,1
+2,1705,Amman,Tent,Free,4-Emergency,No,3 Ind,3
+2,1705,Amman,Tent,Owned,4-Emergency,No,3 Ind,2
+2,1705,Amman,Tent,Rent/Lease,4-Emergency,No,3 Ind,3
+2,1705,Amman,Tent,Free,4-Emergency,No,4 Ind,10
+2,1705,Amman,Tent,Rent/Lease,4-Emergency,No,4 Ind,1
+2,1705,Amman,Tent,Free,4-Emergency,No,5 Ind,5
+2,1705,Amman,Tent,Free,4-Emergency,No,6 Ind,9
+2,1705,Amman,Tent,Owned,4-Emergency,No,6 Ind,1
+2,1705,Amman,Tent,Rent/Lease,4-Emergency,No,6 Ind,1
+2,1705,Amman,Tent,Free,4-Emergency,No,7 Ind,6
+2,1705,Amman,Tent,Rent/Lease,4-Emergency,No,7 Ind,2
+2,1705,Amman,Tent,Free,4-Emergency,No,8 Ind,2
+2,1705,Amman,Tent,Rent/Lease,4-Emergency,No,8 Ind,1
+2,1705,Amman,Tent,Free,4-Emergency,No,9 Ind,2
+2,1705,Amman,Tent,Rent/Lease,4-Emergency,No,9 Ind,1
+2,1705,Amman,Tent,Rent/Lease,4-Emergency,Yes,1 Ind,1
+2,1705,Amman,Tent,Free,4-Emergency,Yes,2 Ind,2
+2,1705,Amman,Tent,Free,4-Emergency,Yes,3 Ind,1
+2,1705,Amman,Tent,Free,4-Emergency,Yes,4 Ind,4
+2,1705,Amman,Tent,Rent/Lease,4-Emergency,Yes,4 Ind,1
+2,1705,Amman,Tent,Free,4-Emergency,Yes,5 Ind,6
+2,1705,Amman,Tent,Free,4-Emergency,Yes,6 Ind,3
+2,1705,Amman,Tent,Rent/Lease,4-Emergency,Yes,6 Ind,1
+2,1705,Amman,Tent,Free,4-Emergency,Yes,7 Ind,4
+2,1705,Amman,Tent,Free,4-Emergency,Yes,8 Ind,2
+2,1705,Amman,Tent,Owned,4-Emergency,Yes,8 Ind,1
+2,1705,Amman,Tent,Free,4-Emergency,Yes,9 Ind,2
+2,1705,Amman,Tent,Rent/Lease,4-Emergency,Yes,9 Ind,1
+2,1710,Madaba,Basement,Rent/Lease,2-Adequate/standard,No,3 Ind,1
+2,1710,Madaba,Basement,N\A,2-Adequate/standard,No,4 Ind,1
+2,1710,Madaba,Basement,Rent/Lease,2-Adequate/standard,No,4 Ind,2
+2,1710,Madaba,Basement,Rent/Lease,3-Inadequate/sub-standard,No,1 Ind,1
+2,1710,Madaba,Basement,Rent/Lease,3-Inadequate/sub-standard,No,4 Ind,1
+2,1710,Madaba,Basement,Free,3-Inadequate/sub-standard,No,5 Ind,1
+2,1710,Madaba,Basement,Rent/Lease,3-Inadequate/sub-standard,No,5 Ind,1
+2,1710,Madaba,Basement,Free,3-Inadequate/sub-standard,No,6 Ind,1
+2,1710,Madaba,Basement,Rent/Lease,3-Inadequate/sub-standard,No,7 Ind,1
+2,1710,Madaba,Basement,N\A,5. N\A,No,2 Ind,1
+2,1710,Madaba,Basement,N\A,5. N\A,No,4 Ind,3
+2,1710,Madaba,Communal Centre,Rent/Lease,2-Adequate/standard,No,1 Ind,1
+2,1710,Madaba,Communal Centre,Rent/Lease,2-Adequate/standard,No,3 Ind,1
+2,1710,Madaba,Flat/Apartment,Rent/Lease,1-Above standard,No,1 Ind,2
+2,1710,Madaba,Flat/Apartment,Rent/Lease,1-Above standard,No,4 Ind,1
+2,1710,Madaba,Flat/Apartment,Rent/Lease,1-Above standard,No,5 Ind,1
+2,1710,Madaba,Flat/Apartment,Rent/Lease,1-Above standard,No,6 Ind,1
+2,1710,Madaba,Flat/Apartment,Free,2-Adequate/standard,No,1 Ind,2
+2,1710,Madaba,Flat/Apartment,Owned,2-Adequate/standard,No,1 Ind,1
+2,1710,Madaba,Flat/Apartment,Rent/Lease,2-Adequate/standard,No,1 Ind,71
+2,1710,Madaba,Flat/Apartment,Rent/Lease,2-Adequate/standard,No,10 Ind,1
+2,1710,Madaba,Flat/Apartment,Rent/Lease,2-Adequate/standard,No,2 Ind,50
+2,1710,Madaba,Flat/Apartment,Owned,2-Adequate/standard,No,3 Ind,1
+2,1710,Madaba,Flat/Apartment,Rent/Lease,2-Adequate/standard,No,3 Ind,59
+2,1710,Madaba,Flat/Apartment,N\A,2-Adequate/standard,No,4 Ind,1
+2,1710,Madaba,Flat/Apartment,Free,2-Adequate/standard,No,4 Ind,1
+2,1710,Madaba,Flat/Apartment,Owned,2-Adequate/standard,No,4 Ind,1
+2,1710,Madaba,Flat/Apartment,Rent/Lease,2-Adequate/standard,No,4 Ind,81
+2,1710,Madaba,Flat/Apartment,Free,2-Adequate/standard,No,5 Ind,4
+2,1710,Madaba,Flat/Apartment,Rent/Lease,2-Adequate/standard,No,5 Ind,64
+2,1710,Madaba,Flat/Apartment,Free,2-Adequate/standard,No,6 Ind,1
+2,1710,Madaba,Flat/Apartment,Owned,2-Adequate/standard,No,6 Ind,1
+2,1710,Madaba,Flat/Apartment,Rent/Lease,2-Adequate/standard,No,6 Ind,35
+2,1710,Madaba,Flat/Apartment,Rent/Lease,2-Adequate/standard,No,7 Ind,24
+2,1710,Madaba,Flat/Apartment,Rent/Lease,2-Adequate/standard,No,8 Ind,7
+2,1710,Madaba,Flat/Apartment,Rent/Lease,2-Adequate/standard,No,9 Ind,1
+2,1710,Madaba,Flat/Apartment,Free,2-Adequate/standard,Yes,1 Ind,1
+2,1710,Madaba,Flat/Apartment,Rent/Lease,2-Adequate/standard,Yes,1 Ind,1
+2,1710,Madaba,Flat/Apartment,Rent/Lease,2-Adequate/standard,Yes,3 Ind,5
+2,1710,Madaba,Flat/Apartment,Rent/Lease,2-Adequate/standard,Yes,4 Ind,5
+2,1710,Madaba,Flat/Apartment,Rent/Lease,2-Adequate/standard,Yes,5 Ind,6
+2,1710,Madaba,Flat/Apartment,Rent/Lease,2-Adequate/standard,Yes,6 Ind,2
+2,1710,Madaba,Flat/Apartment,Rent/Lease,2-Adequate/standard,Yes,7 Ind,2
+2,1710,Madaba,Flat/Apartment,Free,3-Inadequate/sub-standard,No,1 Ind,3
+2,1710,Madaba,Flat/Apartment,Rent/Lease,3-Inadequate/sub-standard,No,1 Ind,44
+2,1710,Madaba,Flat/Apartment,Rent/Lease,3-Inadequate/sub-standard,No,10 Ind,1
+2,1710,Madaba,Flat/Apartment,Rent/Lease,3-Inadequate/sub-standard,No,12 Ind,1
+2,1710,Madaba,Flat/Apartment,Free,3-Inadequate/sub-standard,No,2 Ind,3
+2,1710,Madaba,Flat/Apartment,Rent/Lease,3-Inadequate/sub-standard,No,2 Ind,24
+2,1710,Madaba,Flat/Apartment,Free,3-Inadequate/sub-standard,No,3 Ind,1
+2,1710,Madaba,Flat/Apartment,Rent/Lease,3-Inadequate/sub-standard,No,3 Ind,28
+2,1710,Madaba,Flat/Apartment,N\A,3-Inadequate/sub-standard,No,4 Ind,1
+2,1710,Madaba,Flat/Apartment,Free,3-Inadequate/sub-standard,No,4 Ind,1
+2,1710,Madaba,Flat/Apartment,Rent/Lease,3-Inadequate/sub-standard,No,4 Ind,38
+2,1710,Madaba,Flat/Apartment,Rent/Lease,3-Inadequate/sub-standard,No,5 Ind,44
+2,1710,Madaba,Flat/Apartment,Owned,3-Inadequate/sub-standard,No,6 Ind,1
+2,1710,Madaba,Flat/Apartment,Rent/Lease,3-Inadequate/sub-standard,No,6 Ind,28
+2,1710,Madaba,Flat/Apartment,Free,3-Inadequate/sub-standard,No,7 Ind,1
+2,1710,Madaba,Flat/Apartment,Rent/Lease,3-Inadequate/sub-standard,No,7 Ind,17
+2,1710,Madaba,Flat/Apartment,Rent/Lease,3-Inadequate/sub-standard,No,8 Ind,4
+2,1710,Madaba,Flat/Apartment,Rent/Lease,3-Inadequate/sub-standard,No,9 Ind,1
+2,1710,Madaba,Flat/Apartment,Free,3-Inadequate/sub-standard,Yes,1 Ind,1
+2,1710,Madaba,Flat/Apartment,Rent/Lease,3-Inadequate/sub-standard,Yes,1 Ind,3
+2,1710,Madaba,Flat/Apartment,Rent/Lease,3-Inadequate/sub-standard,Yes,10 Ind,1
+2,1710,Madaba,Flat/Apartment,Rent/Lease,3-Inadequate/sub-standard,Yes,11 Ind,1
+2,1710,Madaba,Flat/Apartment,Free,3-Inadequate/sub-standard,Yes,13 Ind,1
+2,1710,Madaba,Flat/Apartment,Free,3-Inadequate/sub-standard,Yes,2 Ind,2
+2,1710,Madaba,Flat/Apartment,Rent/Lease,3-Inadequate/sub-standard,Yes,2 Ind,4
+2,1710,Madaba,Flat/Apartment,Rent/Lease,3-Inadequate/sub-standard,Yes,3 Ind,3
+2,1710,Madaba,Flat/Apartment,Free,3-Inadequate/sub-standard,Yes,4 Ind,2
+2,1710,Madaba,Flat/Apartment,Rent/Lease,3-Inadequate/sub-standard,Yes,4 Ind,5
+2,1710,Madaba,Flat/Apartment,Free,3-Inadequate/sub-standard,Yes,5 Ind,1
+2,1710,Madaba,Flat/Apartment,Rent/Lease,3-Inadequate/sub-standard,Yes,6 Ind,5
+2,1710,Madaba,Flat/Apartment,Rent/Lease,3-Inadequate/sub-standard,Yes,7 Ind,1
+2,1710,Madaba,Flat/Apartment,Rent/Lease,3-Inadequate/sub-standard,Yes,9 Ind,1
+2,1710,Madaba,Flat/Apartment,Rent/Lease,4-Emergency,No,1 Ind,1
+2,1710,Madaba,Flat/Apartment,Free,4-Emergency,No,3 Ind,1
+2,1710,Madaba,Flat/Apartment,Rent/Lease,4-Emergency,No,4 Ind,1
+2,1710,Madaba,Flat/Apartment,Rent/Lease,4-Emergency,Yes,2 Ind,1
+2,1710,Madaba,Flat/Apartment,Rent/Lease,5. N\A,No,1 Ind,1
+2,1710,Madaba,Flat/Apartment,Rent/Lease,5. N\A,No,4 Ind,1
+2,1710,Madaba,Flat/Apartment,Rent/Lease,5. N\A,No,7 Ind,1
+2,1710,Madaba,Mud-House,Rent/Lease,3-Inadequate/sub-standard,No,7 Ind,1
+2,1710,Madaba,Mud-House,Rent/Lease,3-Inadequate/sub-standard,No,9 Ind,1
+2,1710,Madaba,Mud-House,Rent/Lease,3-Inadequate/sub-standard,Yes,7 Ind,1
+2,1710,Madaba,Other,Rent/Lease,2-Adequate/standard,No,1 Ind,1
+2,1710,Madaba,Other,Rent/Lease,3-Inadequate/sub-standard,No,1 Ind,1
+2,1710,Madaba,Other,Free,3-Inadequate/sub-standard,No,3 Ind,1
+2,1710,Madaba,Other,Rent/Lease,3-Inadequate/sub-standard,No,4 Ind,1
+2,1710,Madaba,Other,Rent/Lease,3-Inadequate/sub-standard,Yes,4 Ind,1
+2,1710,Madaba,Other,Free,4-Emergency,Yes,5 Ind,1
+2,1710,Madaba,Prefab,Rent/Lease,2-Adequate/standard,No,1 Ind,1
+2,1710,Madaba,Tent,Free,2-Adequate/standard,No,1 Ind,1
+2,1710,Madaba,Tent,Free,3-Inadequate/sub-standard,No,1 Ind,2
+2,1710,Madaba,Tent,Free,3-Inadequate/sub-standard,No,2 Ind,1
+2,1710,Madaba,Tent,Free,3-Inadequate/sub-standard,No,3 Ind,2
+2,1710,Madaba,Tent,Free,3-Inadequate/sub-standard,No,7 Ind,1
+2,1710,Madaba,Tent,Free,3-Inadequate/sub-standard,No,9 Ind,1
+2,1710,Madaba,Tent,Free,3-Inadequate/sub-standard,Yes,2 Ind,1
+2,1710,Madaba,Tent,Free,3-Inadequate/sub-standard,Yes,6 Ind,2
+2,1710,Madaba,Tent,Free,4-Emergency,No,2 Ind,1
+2,1710,Madaba,Tent,Free,4-Emergency,No,3 Ind,1
+2,1710,Madaba,Tent,Free,4-Emergency,No,4 Ind,1
+2,1710,Madaba,Tent,Free,4-Emergency,No,5 Ind,2
+2,1710,Madaba,Tent,Free,4-Emergency,No,7 Ind,1
+2,1710,Madaba,Tent,Free,4-Emergency,No,8 Ind,2
+2,1710,Madaba,Tent,Free,4-Emergency,No,9 Ind,1
+2,1710,Madaba,Tent,N\A,4-Emergency,Yes,2 Ind,1
+2,1710,Madaba,Tent,Free,4-Emergency,Yes,2 Ind,1
+2,1710,Madaba,Tent,N\A,4-Emergency,Yes,5 Ind,1
+2,1710,Madaba,Tent,Free,4-Emergency,Yes,5 Ind,1
+2,1710,Madaba,Tent,Free,4-Emergency,Yes,6 Ind,1
+2,1710,Madaba,Tent,Free,4-Emergency,Yes,7 Ind,1
+2,1710,Madaba,Tent,Free,4-Emergency,Yes,8 Ind,1
+2,1712,Zarqa,Basement,Rent/Lease,2-Adequate/standard,No,1 Ind,3
+2,1712,Zarqa,Basement,Rent/Lease,2-Adequate/standard,No,3 Ind,1
+2,1712,Zarqa,Basement,Rent/Lease,2-Adequate/standard,No,5 Ind,2
+2,1712,Zarqa,Basement,Rent/Lease,2-Adequate/standard,No,6 Ind,1
+2,1712,Zarqa,Basement,Rent/Lease,2-Adequate/standard,Yes,2 Ind,1
+2,1712,Zarqa,Basement,Free,3-Inadequate/sub-standard,No,1 Ind,1
+2,1712,Zarqa,Basement,Rent/Lease,3-Inadequate/sub-standard,No,1 Ind,1
+2,1712,Zarqa,Basement,Rent/Lease,3-Inadequate/sub-standard,No,2 Ind,5
+2,1712,Zarqa,Basement,Rent/Lease,3-Inadequate/sub-standard,No,3 Ind,3
+2,1712,Zarqa,Basement,Rent/Lease,3-Inadequate/sub-standard,No,4 Ind,3
+2,1712,Zarqa,Basement,Rent/Lease,3-Inadequate/sub-standard,No,5 Ind,5
+2,1712,Zarqa,Basement,Rent/Lease,3-Inadequate/sub-standard,No,6 Ind,2
+2,1712,Zarqa,Basement,Rent/Lease,3-Inadequate/sub-standard,No,7 Ind,3
+2,1712,Zarqa,Basement,Rent/Lease,3-Inadequate/sub-standard,Yes,1 Ind,1
+2,1712,Zarqa,Basement,Rent/Lease,3-Inadequate/sub-standard,Yes,2 Ind,2
+2,1712,Zarqa,Basement,Rent/Lease,3-Inadequate/sub-standard,Yes,4 Ind,1
+2,1712,Zarqa,Basement,Rent/Lease,3-Inadequate/sub-standard,Yes,6 Ind,1
+2,1712,Zarqa,Basement,Rent/Lease,3-Inadequate/sub-standard,Yes,7 Ind,1
+2,1712,Zarqa,Basement,Rent/Lease,4-Emergency,No,2 Ind,2
+2,1712,Zarqa,Basement,Rent/Lease,4-Emergency,No,4 Ind,1
+2,1712,Zarqa,Basement,N\A,5. N\A,No,1 Ind,5
+2,1712,Zarqa,Basement,N\A,5. N\A,No,2 Ind,1
+2,1712,Zarqa,Basement,N\A,5. N\A,No,3 Ind,2
+2,1712,Zarqa,Basement,N\A,5. N\A,No,4 Ind,4
+2,1712,Zarqa,Basement,N\A,5. N\A,No,5 Ind,4
+2,1712,Zarqa,Basement,N\A,5. N\A,No,6 Ind,1
+2,1712,Zarqa,Basement,N\A,5. N\A,No,8 Ind,1
+2,1712,Zarqa,Basement,N\A,5. N\A,Yes,4 Ind,2
+2,1712,Zarqa,Basement,N\A,5. N\A,Yes,6 Ind,1
+2,1712,Zarqa,Communal Centre,Rent/Lease,2-Adequate/standard,No,4 Ind,1
+2,1712,Zarqa,Communal Centre,Rent/Lease,2-Adequate/standard,No,9 Ind,1
+2,1712,Zarqa,Communal Centre,Rent/Lease,3-Inadequate/sub-standard,No,1 Ind,1
+2,1712,Zarqa,Communal Centre,Rent/Lease,3-Inadequate/sub-standard,No,3 Ind,1
+2,1712,Zarqa,Communal Centre,Rent/Lease,3-Inadequate/sub-standard,No,4 Ind,1
+2,1712,Zarqa,Flat/Apartment,Rent/Lease,1-Above standard,No,1 Ind,3
+2,1712,Zarqa,Flat/Apartment,Rent/Lease,1-Above standard,No,3 Ind,1
+2,1712,Zarqa,Flat/Apartment,Rent/Lease,1-Above standard,No,4 Ind,1
+2,1712,Zarqa,Flat/Apartment,Free,2-Adequate/standard,No,1 Ind,17
+2,1712,Zarqa,Flat/Apartment,Owned,2-Adequate/standard,No,1 Ind,5
+2,1712,Zarqa,Flat/Apartment,Rent/Lease,2-Adequate/standard,No,1 Ind,244
+2,1712,Zarqa,Flat/Apartment,Rent/Lease,2-Adequate/standard,No,10 Ind,7
+2,1712,Zarqa,Flat/Apartment,Rent/Lease,2-Adequate/standard,No,12 Ind,3
+2,1712,Zarqa,Flat/Apartment,Free,2-Adequate/standard,No,2 Ind,7
+2,1712,Zarqa,Flat/Apartment,Rent/Lease,2-Adequate/standard,No,2 Ind,139
+2,1712,Zarqa,Flat/Apartment,Free,2-Adequate/standard,No,3 Ind,8
+2,1712,Zarqa,Flat/Apartment,Other,2-Adequate/standard,No,3 Ind,1
+2,1712,Zarqa,Flat/Apartment,Rent/Lease,2-Adequate/standard,No,3 Ind,182
+2,1712,Zarqa,Flat/Apartment,Free,2-Adequate/standard,No,4 Ind,8
+2,1712,Zarqa,Flat/Apartment,Owned,2-Adequate/standard,No,4 Ind,1
+2,1712,Zarqa,Flat/Apartment,Rent/Lease,2-Adequate/standard,No,4 Ind,205
+2,1712,Zarqa,Flat/Apartment,N\A,2-Adequate/standard,No,5 Ind,1
+2,1712,Zarqa,Flat/Apartment,Free,2-Adequate/standard,No,5 Ind,2
+2,1712,Zarqa,Flat/Apartment,Owned,2-Adequate/standard,No,5 Ind,1
+2,1712,Zarqa,Flat/Apartment,Rent/Lease,2-Adequate/standard,No,5 Ind,180
+2,1712,Zarqa,Flat/Apartment,Free,2-Adequate/standard,No,6 Ind,1
+2,1712,Zarqa,Flat/Apartment,Rent/Lease,2-Adequate/standard,No,6 Ind,127
+2,1712,Zarqa,Flat/Apartment,Free,2-Adequate/standard,No,7 Ind,2
+2,1712,Zarqa,Flat/Apartment,Rent/Lease,2-Adequate/standard,No,7 Ind,75
+2,1712,Zarqa,Flat/Apartment,Owned,2-Adequate/standard,No,8 Ind,1
+2,1712,Zarqa,Flat/Apartment,Rent/Lease,2-Adequate/standard,No,8 Ind,32
+2,1712,Zarqa,Flat/Apartment,Rent/Lease,2-Adequate/standard,No,9 Ind,9
+2,1712,Zarqa,Flat/Apartment,Free,2-Adequate/standard,Yes,1 Ind,1
+2,1712,Zarqa,Flat/Apartment,Rent/Lease,2-Adequate/standard,Yes,1 Ind,17
+2,1712,Zarqa,Flat/Apartment,Rent/Lease,2-Adequate/standard,Yes,10 Ind,1
+2,1712,Zarqa,Flat/Apartment,Rent/Lease,2-Adequate/standard,Yes,11 Ind,1
+2,1712,Zarqa,Flat/Apartment,Free,2-Adequate/standard,Yes,2 Ind,1
+2,1712,Zarqa,Flat/Apartment,Rent/Lease,2-Adequate/standard,Yes,2 Ind,15
+2,1712,Zarqa,Flat/Apartment,Rent/Lease,2-Adequate/standard,Yes,3 Ind,20
+2,1712,Zarqa,Flat/Apartment,Rent/Lease,2-Adequate/standard,Yes,4 Ind,12
+2,1712,Zarqa,Flat/Apartment,N\A,2-Adequate/standard,Yes,5 Ind,1
+2,1712,Zarqa,Flat/Apartment,Rent/Lease,2-Adequate/standard,Yes,5 Ind,11
+2,1712,Zarqa,Flat/Apartment,Rent/Lease,2-Adequate/standard,Yes,6 Ind,13
+2,1712,Zarqa,Flat/Apartment,Free,2-Adequate/standard,Yes,7 Ind,1
+2,1712,Zarqa,Flat/Apartment,Rent/Lease,2-Adequate/standard,Yes,7 Ind,9
+2,1712,Zarqa,Flat/Apartment,Rent/Lease,2-Adequate/standard,Yes,8 Ind,9
+2,1712,Zarqa,Flat/Apartment,Rent/Lease,2-Adequate/standard,Yes,9 Ind,5
+2,1712,Zarqa,Flat/Apartment,Free,3-Inadequate/sub-standard,No,1 Ind,22
+2,1712,Zarqa,Flat/Apartment,Other,3-Inadequate/sub-standard,No,1 Ind,3
+2,1712,Zarqa,Flat/Apartment,Rent/Lease,3-Inadequate/sub-standard,No,1 Ind,272
+2,1712,Zarqa,Flat/Apartment,Rent/Lease,3-Inadequate/sub-standard,No,10 Ind,8
+2,1712,Zarqa,Flat/Apartment,Rent/Lease,3-Inadequate/sub-standard,No,11 Ind,3
+2,1712,Zarqa,Flat/Apartment,Free,3-Inadequate/sub-standard,No,2 Ind,10
+2,1712,Zarqa,Flat/Apartment,Rent/Lease,3-Inadequate/sub-standard,No,2 Ind,168
+2,1712,Zarqa,Flat/Apartment,Free,3-Inadequate/sub-standard,No,3 Ind,6
+2,1712,Zarqa,Flat/Apartment,Rent/Lease,3-Inadequate/sub-standard,No,3 Ind,227
+2,1712,Zarqa,Flat/Apartment,N\A,3-Inadequate/sub-standard,No,4 Ind,1
+2,1712,Zarqa,Flat/Apartment,Free,3-Inadequate/sub-standard,No,4 Ind,6
+2,1712,Zarqa,Flat/Apartment,Rent/Lease,3-Inadequate/sub-standard,No,4 Ind,309
+2,1712,Zarqa,Flat/Apartment,N\A,3-Inadequate/sub-standard,No,5 Ind,2
+2,1712,Zarqa,Flat/Apartment,Free,3-Inadequate/sub-standard,No,5 Ind,5
+2,1712,Zarqa,Flat/Apartment,Rent/Lease,3-Inadequate/sub-standard,No,5 Ind,276
+2,1712,Zarqa,Flat/Apartment,Free,3-Inadequate/sub-standard,No,6 Ind,1
+2,1712,Zarqa,Flat/Apartment,Owned,3-Inadequate/sub-standard,No,6 Ind,4
+2,1712,Zarqa,Flat/Apartment,Rent/Lease,3-Inadequate/sub-standard,No,6 Ind,195
+2,1712,Zarqa,Flat/Apartment,Rent/Lease,3-Inadequate/sub-standard,No,7 Ind,121
+2,1712,Zarqa,Flat/Apartment,Free,3-Inadequate/sub-standard,No,8 Ind,2
+2,1712,Zarqa,Flat/Apartment,Rent/Lease,3-Inadequate/sub-standard,No,8 Ind,62
+2,1712,Zarqa,Flat/Apartment,Rent/Lease,3-Inadequate/sub-standard,No,9 Ind,19
+2,1712,Zarqa,Flat/Apartment,Free,3-Inadequate/sub-standard,Yes,1 Ind,4
+2,1712,Zarqa,Flat/Apartment,Rent/Lease,3-Inadequate/sub-standard,Yes,1 Ind,35
+2,1712,Zarqa,Flat/Apartment,Rent/Lease,3-Inadequate/sub-standard,Yes,10 Ind,1
+2,1712,Zarqa,Flat/Apartment,Rent/Lease,3-Inadequate/sub-standard,Yes,13 Ind,1
+2,1712,Zarqa,Flat/Apartment,Free,3-Inadequate/sub-standard,Yes,2 Ind,1
+2,1712,Zarqa,Flat/Apartment,Owned,3-Inadequate/sub-standard,Yes,2 Ind,1
+2,1712,Zarqa,Flat/Apartment,Rent/Lease,3-Inadequate/sub-standard,Yes,2 Ind,19
+2,1712,Zarqa,Flat/Apartment,Free,3-Inadequate/sub-standard,Yes,3 Ind,4
+2,1712,Zarqa,Flat/Apartment,Rent/Lease,3-Inadequate/sub-standard,Yes,3 Ind,30
+2,1712,Zarqa,Flat/Apartment,Rent/Lease,3-Inadequate/sub-standard,Yes,4 Ind,28
+2,1712,Zarqa,Flat/Apartment,Free,3-Inadequate/sub-standard,Yes,5 Ind,1
+2,1712,Zarqa,Flat/Apartment,Rent/Lease,3-Inadequate/sub-standard,Yes,5 Ind,28
+2,1712,Zarqa,Flat/Apartment,Free,3-Inadequate/sub-standard,Yes,6 Ind,1
+2,1712,Zarqa,Flat/Apartment,Rent/Lease,3-Inadequate/sub-standard,Yes,6 Ind,28
+2,1712,Zarqa,Flat/Apartment,Free,3-Inadequate/sub-standard,Yes,7 Ind,1
+2,1712,Zarqa,Flat/Apartment,Rent/Lease,3-Inadequate/sub-standard,Yes,7 Ind,20
+2,1712,Zarqa,Flat/Apartment,Rent/Lease,3-Inadequate/sub-standard,Yes,8 Ind,6
+2,1712,Zarqa,Flat/Apartment,Rent/Lease,3-Inadequate/sub-standard,Yes,9 Ind,9
+2,1712,Zarqa,Flat/Apartment,Free,4-Emergency,No,1 Ind,1
+2,1712,Zarqa,Flat/Apartment,Rent/Lease,4-Emergency,No,1 Ind,4
+2,1712,Zarqa,Flat/Apartment,Rent/Lease,4-Emergency,No,2 Ind,1
+2,1712,Zarqa,Flat/Apartment,Rent/Lease,4-Emergency,No,3 Ind,2
+2,1712,Zarqa,Flat/Apartment,Rent/Lease,4-Emergency,No,4 Ind,1
+2,1712,Zarqa,Flat/Apartment,Rent/Lease,4-Emergency,No,5 Ind,2
+2,1712,Zarqa,Flat/Apartment,Rent/Lease,4-Emergency,No,6 Ind,3
+2,1712,Zarqa,Flat/Apartment,Rent/Lease,4-Emergency,Yes,1 Ind,3
+2,1712,Zarqa,Flat/Apartment,Rent/Lease,4-Emergency,Yes,2 Ind,2
+2,1712,Zarqa,Flat/Apartment,Rent/Lease,4-Emergency,Yes,3 Ind,1
+2,1712,Zarqa,Flat/Apartment,Rent/Lease,4-Emergency,Yes,8 Ind,1
+2,1712,Zarqa,Flat/Apartment,Rent/Lease,5. N\A,No,5 Ind,1
+2,1712,Zarqa,House,Rent/Lease,2-Adequate/standard,No,1 Ind,3
+2,1712,Zarqa,House,Rent/Lease,2-Adequate/standard,No,2 Ind,1
+2,1712,Zarqa,House,Rent/Lease,3-Inadequate/sub-standard,No,2 Ind,1
+2,1712,Zarqa,House,Rent/Lease,3-Inadequate/sub-standard,No,4 Ind,1
+2,1712,Zarqa,House,Rent/Lease,3-Inadequate/sub-standard,No,5 Ind,1
+2,1712,Zarqa,House,Rent/Lease,3-Inadequate/sub-standard,No,9 Ind,1
+2,1712,Zarqa,House,Rent/Lease,3-Inadequate/sub-standard,Yes,1 Ind,1
+2,1712,Zarqa,House,Rent/Lease,3-Inadequate/sub-standard,Yes,3 Ind,2
+2,1712,Zarqa,House,Rent/Lease,3-Inadequate/sub-standard,Yes,6 Ind,1
+2,1712,Zarqa,House,Rent/Lease,3-Inadequate/sub-standard,Yes,7 Ind,1
+2,1712,Zarqa,House,Rent/Lease,4-Emergency,Yes,1 Ind,1
+2,1712,Zarqa,Improvised/Self-Made,Rent/Lease,3-Inadequate/sub-standard,No,4 Ind,1
+2,1712,Zarqa,Mud-House,Rent/Lease,2-Adequate/standard,No,2 Ind,1
+2,1712,Zarqa,Mud-House,Rent/Lease,3-Inadequate/sub-standard,No,1 Ind,1
+2,1712,Zarqa,Mud-House,Rent/Lease,3-Inadequate/sub-standard,No,7 Ind,1
+2,1712,Zarqa,Mud-House,Rent/Lease,4-Emergency,No,3 Ind,1
+2,1712,Zarqa,Other,Rent/Lease,2-Adequate/standard,No,2 Ind,2
+2,1712,Zarqa,Other,Rent/Lease,2-Adequate/standard,No,3 Ind,1
+2,1712,Zarqa,Other,Rent/Lease,2-Adequate/standard,No,4 Ind,1
+2,1712,Zarqa,Other,Rent/Lease,2-Adequate/standard,No,5 Ind,1
+2,1712,Zarqa,Other,Rent/Lease,2-Adequate/standard,Yes,3 Ind,1
+2,1712,Zarqa,Other,Free,3-Inadequate/sub-standard,No,1 Ind,2
+2,1712,Zarqa,Other,Rent/Lease,3-Inadequate/sub-standard,No,1 Ind,4
+2,1712,Zarqa,Other,Rent/Lease,3-Inadequate/sub-standard,No,2 Ind,2
+2,1712,Zarqa,Other,Rent/Lease,3-Inadequate/sub-standard,No,3 Ind,1
+2,1712,Zarqa,Other,Rent/Lease,3-Inadequate/sub-standard,No,4 Ind,2
+2,1712,Zarqa,Other,Rent/Lease,3-Inadequate/sub-standard,No,5 Ind,5
+2,1712,Zarqa,Other,Rent/Lease,3-Inadequate/sub-standard,No,6 Ind,1
+2,1712,Zarqa,Other,Rent/Lease,3-Inadequate/sub-standard,Yes,1 Ind,1
+2,1712,Zarqa,Other,Rent/Lease,3-Inadequate/sub-standard,Yes,3 Ind,1
+2,1712,Zarqa,Other,Free,3-Inadequate/sub-standard,Yes,5 Ind,1
+2,1712,Zarqa,Other,Rent/Lease,3-Inadequate/sub-standard,Yes,5 Ind,1
+2,1712,Zarqa,Other,Rent/Lease,3-Inadequate/sub-standard,Yes,9 Ind,1
+2,1712,Zarqa,Other,Rent/Lease,4-Emergency,No,2 Ind,1
+2,1712,Zarqa,Other,Rent/Lease,4-Emergency,No,3 Ind,2
+2,1712,Zarqa,Other,Rent/Lease,4-Emergency,Yes,2 Ind,1
+2,1712,Zarqa,Prefab,Rent/Lease,2-Adequate/standard,Yes,5 Ind,1
+2,1712,Zarqa,Prefab,Free,3-Inadequate/sub-standard,No,2 Ind,1
+2,1712,Zarqa,Prefab,Rent/Lease,3-Inadequate/sub-standard,No,3 Ind,1
+2,1712,Zarqa,Prefab,Rent/Lease,3-Inadequate/sub-standard,No,8 Ind,1
+2,1712,Zarqa,Tent,Free,3-Inadequate/sub-standard,No,1 Ind,1
+2,1712,Zarqa,Tent,Free,4-Emergency,No,3 Ind,1
+2,1712,Zarqa,Tent,Free,4-Emergency,Yes,5 Ind,1
+2,1712,Zarqa,Tent,Owned,4-Emergency,Yes,9 Ind,1
+3,1703,Aqaba,Basement,Rent/Lease,2-Adequate/standard,No,2 Ind,1
+3,1703,Aqaba,Flat/Apartment,Free,2-Adequate/standard,No,1 Ind,2
+3,1703,Aqaba,Flat/Apartment,Rent/Lease,2-Adequate/standard,No,1 Ind,18
+3,1703,Aqaba,Flat/Apartment,Free,2-Adequate/standard,No,2 Ind,2
+3,1703,Aqaba,Flat/Apartment,Rent/Lease,2-Adequate/standard,No,2 Ind,6
+3,1703,Aqaba,Flat/Apartment,Rent/Lease,2-Adequate/standard,No,3 Ind,9
+3,1703,Aqaba,Flat/Apartment,Rent/Lease,2-Adequate/standard,No,4 Ind,10
+3,1703,Aqaba,Flat/Apartment,Rent/Lease,2-Adequate/standard,No,5 Ind,4
+3,1703,Aqaba,Flat/Apartment,Rent/Lease,2-Adequate/standard,No,6 Ind,3
+3,1703,Aqaba,Flat/Apartment,Rent/Lease,2-Adequate/standard,No,7 Ind,1
+3,1703,Aqaba,Flat/Apartment,Free,2-Adequate/standard,Yes,1 Ind,1
+3,1703,Aqaba,Flat/Apartment,Rent/Lease,2-Adequate/standard,Yes,1 Ind,2
+3,1703,Aqaba,Flat/Apartment,Rent/Lease,2-Adequate/standard,Yes,3 Ind,1
+3,1703,Aqaba,Flat/Apartment,Rent/Lease,2-Adequate/standard,Yes,4 Ind,1
+3,1703,Aqaba,Flat/Apartment,Rent/Lease,2-Adequate/standard,Yes,7 Ind,1
+3,1703,Aqaba,Flat/Apartment,Rent/Lease,3-Inadequate/sub-standard,No,1 Ind,5
+3,1703,Aqaba,Flat/Apartment,Rent/Lease,3-Inadequate/sub-standard,No,2 Ind,1
+3,1703,Aqaba,Flat/Apartment,Rent/Lease,3-Inadequate/sub-standard,No,3 Ind,3
+3,1703,Aqaba,Flat/Apartment,Rent/Lease,3-Inadequate/sub-standard,No,4 Ind,3
+3,1703,Aqaba,Flat/Apartment,Rent/Lease,3-Inadequate/sub-standard,No,5 Ind,1
+3,1703,Aqaba,Flat/Apartment,Rent/Lease,3-Inadequate/sub-standard,No,6 Ind,1
+3,1703,Aqaba,Flat/Apartment,Rent/Lease,3-Inadequate/sub-standard,Yes,3 Ind,1
+3,1703,Aqaba,Flat/Apartment,Rent/Lease,3-Inadequate/sub-standard,Yes,5 Ind,1
+3,1703,Aqaba,Flat/Apartment,Rent/Lease,3-Inadequate/sub-standard,Yes,7 Ind,1
+3,1703,Aqaba,Prefab,Rent/Lease,2-Adequate/standard,No,3 Ind,1
+3,1703,Aqaba,Tent,Free,3-Inadequate/sub-standard,Yes,5 Ind,1
+3,1704,Al Karak,Basement,Rent/Lease,2-Adequate/standard,No,4 Ind,1
+3,1704,Al Karak,Basement,Rent/Lease,2-Adequate/standard,Yes,4 Ind,1
+3,1704,Al Karak,Basement,Rent/Lease,3-Inadequate/sub-standard,No,1 Ind,1
+3,1704,Al Karak,Basement,Rent/Lease,3-Inadequate/sub-standard,No,3 Ind,1
+3,1704,Al Karak,Basement,Rent/Lease,3-Inadequate/sub-standard,No,5 Ind,1
+3,1704,Al Karak,Basement,Rent/Lease,3-Inadequate/sub-standard,Yes,4 Ind,1
+3,1704,Al Karak,Basement,Rent/Lease,3-Inadequate/sub-standard,Yes,5 Ind,1
+3,1704,Al Karak,Basement,N\A,5. N\A,No,1 Ind,2
+3,1704,Al Karak,Basement,N\A,5. N\A,No,5 Ind,1
+3,1704,Al Karak,Communal Centre,Rent/Lease,2-Adequate/standard,No,4 Ind,1
+3,1704,Al Karak,Flat/Apartment,Rent/Lease,1-Above standard,No,2 Ind,1
+3,1704,Al Karak,Flat/Apartment,Rent/Lease,1-Above standard,No,6 Ind,1
+3,1704,Al Karak,Flat/Apartment,Free,2-Adequate/standard,No,1 Ind,5
+3,1704,Al Karak,Flat/Apartment,Rent/Lease,2-Adequate/standard,No,1 Ind,46
+3,1704,Al Karak,Flat/Apartment,Rent/Lease,2-Adequate/standard,No,10 Ind,1
+3,1704,Al Karak,Flat/Apartment,Free,2-Adequate/standard,No,2 Ind,2
+3,1704,Al Karak,Flat/Apartment,Rent/Lease,2-Adequate/standard,No,2 Ind,20
+3,1704,Al Karak,Flat/Apartment,Rent/Lease,2-Adequate/standard,No,3 Ind,42
+3,1704,Al Karak,Flat/Apartment,Rent/Lease,2-Adequate/standard,No,4 Ind,50
+3,1704,Al Karak,Flat/Apartment,Rent/Lease,2-Adequate/standard,No,5 Ind,36
+3,1704,Al Karak,Flat/Apartment,Free,2-Adequate/standard,No,6 Ind,1
+3,1704,Al Karak,Flat/Apartment,Rent/Lease,2-Adequate/standard,No,6 Ind,20
+3,1704,Al Karak,Flat/Apartment,Rent/Lease,2-Adequate/standard,No,7 Ind,19
+3,1704,Al Karak,Flat/Apartment,Rent/Lease,2-Adequate/standard,No,8 Ind,12
+3,1704,Al Karak,Flat/Apartment,Rent/Lease,2-Adequate/standard,No,9 Ind,5
+3,1704,Al Karak,Flat/Apartment,Free,2-Adequate/standard,Yes,1 Ind,1
+3,1704,Al Karak,Flat/Apartment,Rent/Lease,2-Adequate/standard,Yes,1 Ind,7
+3,1704,Al Karak,Flat/Apartment,Rent/Lease,2-Adequate/standard,Yes,10 Ind,1
+3,1704,Al Karak,Flat/Apartment,Free,2-Adequate/standard,Yes,2 Ind,2
+3,1704,Al Karak,Flat/Apartment,Rent/Lease,2-Adequate/standard,Yes,2 Ind,4
+3,1704,Al Karak,Flat/Apartment,Rent/Lease,2-Adequate/standard,Yes,3 Ind,3
+3,1704,Al Karak,Flat/Apartment,Free,2-Adequate/standard,Yes,4 Ind,1
+3,1704,Al Karak,Flat/Apartment,Rent/Lease,2-Adequate/standard,Yes,4 Ind,5
+3,1704,Al Karak,Flat/Apartment,Rent/Lease,2-Adequate/standard,Yes,5 Ind,5
+3,1704,Al Karak,Flat/Apartment,Rent/Lease,2-Adequate/standard,Yes,6 Ind,9
+3,1704,Al Karak,Flat/Apartment,Rent/Lease,2-Adequate/standard,Yes,7 Ind,3
+3,1704,Al Karak,Flat/Apartment,Rent/Lease,2-Adequate/standard,Yes,8 Ind,1
+3,1704,Al Karak,Flat/Apartment,Free,3-Inadequate/sub-standard,No,1 Ind,1
+3,1704,Al Karak,Flat/Apartment,Rent/Lease,3-Inadequate/sub-standard,No,1 Ind,46
+3,1704,Al Karak,Flat/Apartment,Rent/Lease,3-Inadequate/sub-standard,No,10 Ind,1
+3,1704,Al Karak,Flat/Apartment,Rent/Lease,3-Inadequate/sub-standard,No,2 Ind,38
+3,1704,Al Karak,Flat/Apartment,Rent/Lease,3-Inadequate/sub-standard,No,3 Ind,30
+3,1704,Al Karak,Flat/Apartment,Free,3-Inadequate/sub-standard,No,4 Ind,1
+3,1704,Al Karak,Flat/Apartment,Rent/Lease,3-Inadequate/sub-standard,No,4 Ind,47
+3,1704,Al Karak,Flat/Apartment,Rent/Lease,3-Inadequate/sub-standard,No,5 Ind,42
+3,1704,Al Karak,Flat/Apartment,Rent/Lease,3-Inadequate/sub-standard,No,6 Ind,21
+3,1704,Al Karak,Flat/Apartment,Free,3-Inadequate/sub-standard,No,7 Ind,1
+3,1704,Al Karak,Flat/Apartment,Rent/Lease,3-Inadequate/sub-standard,No,7 Ind,14
+3,1704,Al Karak,Flat/Apartment,Rent/Lease,3-Inadequate/sub-standard,No,8 Ind,4
+3,1704,Al Karak,Flat/Apartment,Rent/Lease,3-Inadequate/sub-standard,No,9 Ind,1
+3,1704,Al Karak,Flat/Apartment,Free,3-Inadequate/sub-standard,Yes,1 Ind,4
+3,1704,Al Karak,Flat/Apartment,Rent/Lease,3-Inadequate/sub-standard,Yes,1 Ind,7
+3,1704,Al Karak,Flat/Apartment,Rent/Lease,3-Inadequate/sub-standard,Yes,2 Ind,5
+3,1704,Al Karak,Flat/Apartment,Rent/Lease,3-Inadequate/sub-standard,Yes,3 Ind,4
+3,1704,Al Karak,Flat/Apartment,Rent/Lease,3-Inadequate/sub-standard,Yes,4 Ind,5
+3,1704,Al Karak,Flat/Apartment,Rent/Lease,3-Inadequate/sub-standard,Yes,5 Ind,3
+3,1704,Al Karak,Flat/Apartment,Rent/Lease,3-Inadequate/sub-standard,Yes,6 Ind,2
+3,1704,Al Karak,Flat/Apartment,Rent/Lease,3-Inadequate/sub-standard,Yes,7 Ind,3
+3,1704,Al Karak,Flat/Apartment,Rent/Lease,4-Emergency,No,5 Ind,1
+3,1704,Al Karak,Mud-House,Rent/Lease,3-Inadequate/sub-standard,Yes,6 Ind,1
+3,1704,Al Karak,Other,Rent/Lease,2-Adequate/standard,Yes,2 Ind,1
+3,1704,Al Karak,Other,Rent/Lease,3-Inadequate/sub-standard,No,2 Ind,1
+3,1704,Al Karak,Other,Rent/Lease,3-Inadequate/sub-standard,No,4 Ind,1
+3,1704,Al Karak,Other,Rent/Lease,3-Inadequate/sub-standard,No,5 Ind,1
+3,1704,Al Karak,Other,Rent/Lease,3-Inadequate/sub-standard,No,6 Ind,2
+3,1704,Al Karak,Other,Rent/Lease,3-Inadequate/sub-standard,Yes,4 Ind,1
+3,1704,Al Karak,Other,Rent/Lease,3-Inadequate/sub-standard,Yes,9 Ind,1
+3,1704,Al Karak,Prefab,Rent/Lease,2-Adequate/standard,No,3 Ind,1
+3,1704,Al Karak,Prefab,Rent/Lease,2-Adequate/standard,No,4 Ind,1
+3,1704,Al Karak,Tent,Free,3-Inadequate/sub-standard,No,7 Ind,1
+3,1704,Al Karak,Tent,Free,4-Emergency,No,6 Ind,1
+3,1706,Tafeilah,Basement,N\A,5. N\A,No,1 Ind,1
+3,1706,Tafeilah,Basement,N\A,5. N\A,No,7 Ind,1
+3,1706,Tafeilah,Flat/Apartment,Rent/Lease,2-Adequate/standard,No,1 Ind,8
+3,1706,Tafeilah,Flat/Apartment,Rent/Lease,2-Adequate/standard,No,10 Ind,1
+3,1706,Tafeilah,Flat/Apartment,Rent/Lease,2-Adequate/standard,No,2 Ind,3
+3,1706,Tafeilah,Flat/Apartment,Rent/Lease,2-Adequate/standard,No,3 Ind,10
+3,1706,Tafeilah,Flat/Apartment,Rent/Lease,2-Adequate/standard,No,4 Ind,3
+3,1706,Tafeilah,Flat/Apartment,Rent/Lease,2-Adequate/standard,No,5 Ind,7
+3,1706,Tafeilah,Flat/Apartment,Rent/Lease,2-Adequate/standard,No,6 Ind,3
+3,1706,Tafeilah,Flat/Apartment,Rent/Lease,2-Adequate/standard,No,7 Ind,2
+3,1706,Tafeilah,Flat/Apartment,Rent/Lease,2-Adequate/standard,No,8 Ind,1
+3,1706,Tafeilah,Flat/Apartment,Rent/Lease,2-Adequate/standard,Yes,1 Ind,1
+3,1706,Tafeilah,Flat/Apartment,Rent/Lease,2-Adequate/standard,Yes,11 Ind,1
+3,1706,Tafeilah,Flat/Apartment,Rent/Lease,2-Adequate/standard,Yes,3 Ind,1
+3,1706,Tafeilah,Flat/Apartment,Rent/Lease,2-Adequate/standard,Yes,4 Ind,2
+3,1706,Tafeilah,Flat/Apartment,Rent/Lease,2-Adequate/standard,Yes,5 Ind,1
+3,1706,Tafeilah,Flat/Apartment,Rent/Lease,3-Inadequate/sub-standard,No,1 Ind,5
+3,1706,Tafeilah,Flat/Apartment,Rent/Lease,3-Inadequate/sub-standard,No,10 Ind,1
+3,1706,Tafeilah,Flat/Apartment,Rent/Lease,3-Inadequate/sub-standard,No,2 Ind,1
+3,1706,Tafeilah,Flat/Apartment,Rent/Lease,3-Inadequate/sub-standard,No,3 Ind,4
+3,1706,Tafeilah,Flat/Apartment,Rent/Lease,3-Inadequate/sub-standard,No,4 Ind,8
+3,1706,Tafeilah,Flat/Apartment,Rent/Lease,3-Inadequate/sub-standard,No,5 Ind,3
+3,1706,Tafeilah,Flat/Apartment,Rent/Lease,3-Inadequate/sub-standard,No,6 Ind,2
+3,1706,Tafeilah,Flat/Apartment,Rent/Lease,3-Inadequate/sub-standard,No,8 Ind,1
+3,1706,Tafeilah,Flat/Apartment,Rent/Lease,3-Inadequate/sub-standard,Yes,3 Ind,1
+3,1706,Tafeilah,Flat/Apartment,Rent/Lease,3-Inadequate/sub-standard,Yes,4 Ind,2
+3,1706,Tafeilah,Flat/Apartment,Rent/Lease,3-Inadequate/sub-standard,Yes,6 Ind,1
+3,1706,Tafeilah,Other,Rent/Lease,2-Adequate/standard,No,1 Ind,1
+3,1706,Tafeilah,Other,Rent/Lease,2-Adequate/standard,No,4 Ind,1
+3,1706,Tafeilah,Other,Rent/Lease,5. N\A,No,1 Ind,2
+3,1706,Tafeilah,Other,Rent/Lease,5. N\A,No,2 Ind,1
+3,1709,Maan,Basement,Rent/Lease,2-Adequate/standard,No,5 Ind,1
+3,1709,Maan,Basement,Rent/Lease,3-Inadequate/sub-standard,No,7 Ind,1
+3,1709,Maan,Basement,N\A,5. N\A,No,6 Ind,2
+3,1709,Maan,Basement,N\A,5. N\A,Yes,3 Ind,1
+3,1709,Maan,Communal Centre,Rent/Lease,2-Adequate/standard,No,1 Ind,1
+3,1709,Maan,Communal Centre,Rent/Lease,2-Adequate/standard,No,2 Ind,1
+3,1709,Maan,Flat/Apartment,Rent/Lease,1-Above standard,No,1 Ind,1
+3,1709,Maan,Flat/Apartment,Rent/Lease,1-Above standard,No,2 Ind,1
+3,1709,Maan,Flat/Apartment,Rent/Lease,1-Above standard,No,3 Ind,1
+3,1709,Maan,Flat/Apartment,Rent/Lease,1-Above standard,Yes,6 Ind,1
+3,1709,Maan,Flat/Apartment,Free,2-Adequate/standard,No,1 Ind,6
+3,1709,Maan,Flat/Apartment,Rent/Lease,2-Adequate/standard,No,1 Ind,69
+3,1709,Maan,Flat/Apartment,Rent/Lease,2-Adequate/standard,No,11 Ind,2
+3,1709,Maan,Flat/Apartment,Free,2-Adequate/standard,No,2 Ind,1
+3,1709,Maan,Flat/Apartment,Rent/Lease,2-Adequate/standard,No,2 Ind,31
+3,1709,Maan,Flat/Apartment,Free,2-Adequate/standard,No,3 Ind,4
+3,1709,Maan,Flat/Apartment,Rent/Lease,2-Adequate/standard,No,3 Ind,40
+3,1709,Maan,Flat/Apartment,Rent/Lease,2-Adequate/standard,No,4 Ind,56
+3,1709,Maan,Flat/Apartment,Free,2-Adequate/standard,No,5 Ind,2
+3,1709,Maan,Flat/Apartment,Owned,2-Adequate/standard,No,5 Ind,1
+3,1709,Maan,Flat/Apartment,Rent/Lease,2-Adequate/standard,No,5 Ind,31
+3,1709,Maan,Flat/Apartment,Rent/Lease,2-Adequate/standard,No,6 Ind,32
+3,1709,Maan,Flat/Apartment,Rent/Lease,2-Adequate/standard,No,7 Ind,15
+3,1709,Maan,Flat/Apartment,Rent/Lease,2-Adequate/standard,No,8 Ind,6
+3,1709,Maan,Flat/Apartment,Rent/Lease,2-Adequate/standard,No,9 Ind,3
+3,1709,Maan,Flat/Apartment,N\A,2-Adequate/standard,Yes,1 Ind,1
+3,1709,Maan,Flat/Apartment,Free,2-Adequate/standard,Yes,1 Ind,1
+3,1709,Maan,Flat/Apartment,Rent/Lease,2-Adequate/standard,Yes,1 Ind,8
+3,1709,Maan,Flat/Apartment,Rent/Lease,2-Adequate/standard,Yes,2 Ind,3
+3,1709,Maan,Flat/Apartment,Rent/Lease,2-Adequate/standard,Yes,4 Ind,1
+3,1709,Maan,Flat/Apartment,Rent/Lease,2-Adequate/standard,Yes,5 Ind,6
+3,1709,Maan,Flat/Apartment,Rent/Lease,2-Adequate/standard,Yes,6 Ind,2
+3,1709,Maan,Flat/Apartment,Rent/Lease,2-Adequate/standard,Yes,7 Ind,2
+3,1709,Maan,Flat/Apartment,Free,3-Inadequate/sub-standard,No,1 Ind,7
+3,1709,Maan,Flat/Apartment,Rent/Lease,3-Inadequate/sub-standard,No,1 Ind,27
+3,1709,Maan,Flat/Apartment,Rent/Lease,3-Inadequate/sub-standard,No,2 Ind,11
+3,1709,Maan,Flat/Apartment,Free,3-Inadequate/sub-standard,No,3 Ind,2
+3,1709,Maan,Flat/Apartment,Rent/Lease,3-Inadequate/sub-standard,No,3 Ind,12
+3,1709,Maan,Flat/Apartment,Free,3-Inadequate/sub-standard,No,4 Ind,2
+3,1709,Maan,Flat/Apartment,Rent/Lease,3-Inadequate/sub-standard,No,4 Ind,19
+3,1709,Maan,Flat/Apartment,Rent/Lease,3-Inadequate/sub-standard,No,5 Ind,19
+3,1709,Maan,Flat/Apartment,Free,3-Inadequate/sub-standard,No,6 Ind,1
+3,1709,Maan,Flat/Apartment,Rent/Lease,3-Inadequate/sub-standard,No,6 Ind,13
+3,1709,Maan,Flat/Apartment,Rent/Lease,3-Inadequate/sub-standard,No,7 Ind,5
+3,1709,Maan,Flat/Apartment,Rent/Lease,3-Inadequate/sub-standard,No,8 Ind,6
+3,1709,Maan,Flat/Apartment,Rent/Lease,3-Inadequate/sub-standard,No,9 Ind,2
+3,1709,Maan,Flat/Apartment,Free,3-Inadequate/sub-standard,Yes,1 Ind,1
+3,1709,Maan,Flat/Apartment,Rent/Lease,3-Inadequate/sub-standard,Yes,1 Ind,7
+3,1709,Maan,Flat/Apartment,Rent/Lease,3-Inadequate/sub-standard,Yes,2 Ind,3
+3,1709,Maan,Flat/Apartment,Rent/Lease,3-Inadequate/sub-standard,Yes,3 Ind,1
+3,1709,Maan,Flat/Apartment,Rent/Lease,3-Inadequate/sub-standard,Yes,4 Ind,1
+3,1709,Maan,Flat/Apartment,Rent/Lease,3-Inadequate/sub-standard,Yes,5 Ind,4
+3,1709,Maan,Flat/Apartment,Rent/Lease,3-Inadequate/sub-standard,Yes,6 Ind,3
+3,1709,Maan,Flat/Apartment,Rent/Lease,3-Inadequate/sub-standard,Yes,7 Ind,2
+3,1709,Maan,Flat/Apartment,Rent/Lease,3-Inadequate/sub-standard,Yes,8 Ind,1
+3,1709,Maan,Flat/Apartment,Rent/Lease,3-Inadequate/sub-standard,Yes,9 Ind,1
+3,1709,Maan,Flat/Apartment,Free,4-Emergency,No,1 Ind,1
+3,1709,Maan,Flat/Apartment,Rent/Lease,4-Emergency,No,1 Ind,2
+3,1709,Maan,Flat/Apartment,Rent/Lease,4-Emergency,No,5 Ind,1
+3,1709,Maan,Flat/Apartment,Rent/Lease,5. N\A,No,6 Ind,1
+3,1709,Maan,Improvised/Self-Made,Rent/Lease,2-Adequate/standard,No,6 Ind,1
+3,1709,Maan,Improvised/Self-Made,Rent/Lease,3-Inadequate/sub-standard,No,6 Ind,1
+3,1709,Maan,Improvised/Self-Made,Rent/Lease,3-Inadequate/sub-standard,No,8 Ind,1
+3,1709,Maan,Mud-House,Rent/Lease,2-Adequate/standard,No,1 Ind,1
+3,1709,Maan,Mud-House,Rent/Lease,2-Adequate/standard,No,2 Ind,1
+3,1709,Maan,Mud-House,Rent/Lease,2-Adequate/standard,No,3 Ind,2
+3,1709,Maan,Mud-House,Rent/Lease,2-Adequate/standard,No,4 Ind,2
+3,1709,Maan,Mud-House,Rent/Lease,2-Adequate/standard,No,5 Ind,1
+3,1709,Maan,Mud-House,Free,2-Adequate/standard,No,6 Ind,1
+3,1709,Maan,Mud-House,Rent/Lease,2-Adequate/standard,No,6 Ind,3
+3,1709,Maan,Mud-House,Rent/Lease,2-Adequate/standard,No,8 Ind,1
+3,1709,Maan,Mud-House,Rent/Lease,3-Inadequate/sub-standard,No,1 Ind,5
+3,1709,Maan,Mud-House,Rent/Lease,3-Inadequate/sub-standard,No,2 Ind,2
+3,1709,Maan,Mud-House,Rent/Lease,3-Inadequate/sub-standard,No,3 Ind,1
+3,1709,Maan,Mud-House,Rent/Lease,3-Inadequate/sub-standard,No,4 Ind,8
+3,1709,Maan,Mud-House,Rent/Lease,3-Inadequate/sub-standard,No,5 Ind,3
+3,1709,Maan,Mud-House,Rent/Lease,3-Inadequate/sub-standard,No,6 Ind,2
+3,1709,Maan,Mud-House,Rent/Lease,3-Inadequate/sub-standard,No,7 Ind,1
+3,1709,Maan,Mud-House,Rent/Lease,3-Inadequate/sub-standard,No,8 Ind,2
+3,1709,Maan,Mud-House,Rent/Lease,3-Inadequate/sub-standard,No,9 Ind,1
+3,1709,Maan,Mud-House,Rent/Lease,3-Inadequate/sub-standard,Yes,1 Ind,2
+3,1709,Maan,Mud-House,Rent/Lease,3-Inadequate/sub-standard,Yes,4 Ind,1
+3,1709,Maan,Mud-House,Rent/Lease,3-Inadequate/sub-standard,Yes,5 Ind,1
+3,1709,Maan,No Shelter,Rent/Lease,3-Inadequate/sub-standard,No,1 Ind,1
+3,1709,Maan,Other,Rent/Lease,2-Adequate/standard,No,2 Ind,1
+3,1709,Maan,Other,Free,3-Inadequate/sub-standard,No,6 Ind,1
+3,1709,Maan,Other,Rent/Lease,3-Inadequate/sub-standard,Yes,6 Ind,1
+3,1709,Maan,Other,Rent/Lease,4-Emergency,No,7 Ind,1
+3,1709,Maan,Prefab,Rent/Lease,2-Adequate/standard,No,4 Ind,1
+3,1709,Maan,Tent,Free,4-Emergency,No,6 Ind,1
+4,1,Not specified,Basement,Rent/Lease,2-Adequate/standard,N\A,1 Ind,4
+4,1,Not specified,Basement,Free,2-Adequate/standard,N\A,2 Ind,1
+4,1,Not specified,Basement,Rent/Lease,2-Adequate/standard,N\A,3 Ind,3
+4,1,Not specified,Basement,Rent/Lease,2-Adequate/standard,N\A,4 Ind,2
+4,1,Not specified,Basement,Rent/Lease,2-Adequate/standard,N\A,5 Ind,4
+4,1,Not specified,Basement,Rent/Lease,2-Adequate/standard,N\A,6 Ind,2
+4,1,Not specified,Basement,Rent/Lease,2-Adequate/standard,N\A,7 Ind,1
+4,1,Not specified,Basement,Free,3-Inadequate/sub-standard,N\A,1 Ind,3
+4,1,Not specified,Basement,Rent/Lease,3-Inadequate/sub-standard,N\A,1 Ind,7
+4,1,Not specified,Basement,Rent/Lease,3-Inadequate/sub-standard,N\A,2 Ind,3
+4,1,Not specified,Basement,Free,3-Inadequate/sub-standard,N\A,3 Ind,1
+4,1,Not specified,Basement,Rent/Lease,3-Inadequate/sub-standard,N\A,3 Ind,6
+4,1,Not specified,Basement,Rent/Lease,3-Inadequate/sub-standard,N\A,4 Ind,3
+4,1,Not specified,Basement,Rent/Lease,3-Inadequate/sub-standard,N\A,5 Ind,2
+4,1,Not specified,Basement,Rent/Lease,3-Inadequate/sub-standard,N\A,6 Ind,1
+4,1,Not specified,Basement,Rent/Lease,3-Inadequate/sub-standard,N\A,7 Ind,1
+4,1,Not specified,Basement,Rent/Lease,3-Inadequate/sub-standard,N\A,8 Ind,2
+4,1,Not specified,Basement,Rent/Lease,4-Emergency,N\A,1 Ind,1
+4,1,Not specified,Basement,N\A,5. N\A,N\A,1 Ind,8
+4,1,Not specified,Basement,N\A,5. N\A,N\A,2 Ind,1
+4,1,Not specified,Basement,N\A,5. N\A,N\A,4 Ind,4
+4,1,Not specified,Basement,N\A,5. N\A,N\A,5 Ind,4
+4,1,Not specified,Basement,N\A,5. N\A,N\A,6 Ind,2
+4,1,Not specified,Basement,N\A,5. N\A,N\A,7 Ind,1
+4,1,Not specified,Communal Centre,Rent/Lease,2-Adequate/standard,N\A,2 Ind,1
+4,1,Not specified,Communal Centre,Rent/Lease,3-Inadequate/sub-standard,N\A,6 Ind,1
+4,1,Not specified,Flat/Apartment,Rent/Lease,1-Above standard,N\A,2 Ind,1
+4,1,Not specified,Flat/Apartment,Free,1-Above standard,N\A,4 Ind,1
+4,1,Not specified,Flat/Apartment,Rent/Lease,1-Above standard,N\A,4 Ind,2
+4,1,Not specified,Flat/Apartment,Rent/Lease,1-Above standard,N\A,5 Ind,1
+4,1,Not specified,Flat/Apartment,Rent/Lease,1-Above standard,N\A,6 Ind,2
+4,1,Not specified,Flat/Apartment,Rent/Lease,1-Above standard,N\A,7 Ind,1
+4,1,Not specified,Flat/Apartment,Free,2-Adequate/standard,N\A,1 Ind,142
+4,1,Not specified,Flat/Apartment,Other,2-Adequate/standard,N\A,1 Ind,8
+4,1,Not specified,Flat/Apartment,Rent/Lease,2-Adequate/standard,N\A,1 Ind,572
+4,1,Not specified,Flat/Apartment,Rent/Lease,2-Adequate/standard,N\A,11 Ind,1
+4,1,Not specified,Flat/Apartment,Free,2-Adequate/standard,N\A,2 Ind,24
+4,1,Not specified,Flat/Apartment,Other,2-Adequate/standard,N\A,2 Ind,1
+4,1,Not specified,Flat/Apartment,Owned,2-Adequate/standard,N\A,2 Ind,1
+4,1,Not specified,Flat/Apartment,Rent/Lease,2-Adequate/standard,N\A,2 Ind,190
+4,1,Not specified,Flat/Apartment,Free,2-Adequate/standard,N\A,3 Ind,26
+4,1,Not specified,Flat/Apartment,Other,2-Adequate/standard,N\A,3 Ind,3
+4,1,Not specified,Flat/Apartment,Rent/Lease,2-Adequate/standard,N\A,3 Ind,202
+4,1,Not specified,Flat/Apartment,Free,2-Adequate/standard,N\A,4 Ind,21
+4,1,Not specified,Flat/Apartment,Other,2-Adequate/standard,N\A,4 Ind,2
+4,1,Not specified,Flat/Apartment,Owned,2-Adequate/standard,N\A,4 Ind,1
+4,1,Not specified,Flat/Apartment,Rent/Lease,2-Adequate/standard,N\A,4 Ind,249
+4,1,Not specified,Flat/Apartment,N\A,2-Adequate/standard,N\A,5 Ind,1
+4,1,Not specified,Flat/Apartment,Free,2-Adequate/standard,N\A,5 Ind,12
+4,1,Not specified,Flat/Apartment,Rent/Lease,2-Adequate/standard,N\A,5 Ind,236
+4,1,Not specified,Flat/Apartment,Free,2-Adequate/standard,N\A,6 Ind,5
+4,1,Not specified,Flat/Apartment,Owned,2-Adequate/standard,N\A,6 Ind,1
+4,1,Not specified,Flat/Apartment,Rent/Lease,2-Adequate/standard,N\A,6 Ind,193
+4,1,Not specified,Flat/Apartment,Free,2-Adequate/standard,N\A,7 Ind,6
+4,1,Not specified,Flat/Apartment,Rent/Lease,2-Adequate/standard,N\A,7 Ind,102
+4,1,Not specified,Flat/Apartment,Free,2-Adequate/standard,N\A,8 Ind,2
+4,1,Not specified,Flat/Apartment,Rent/Lease,2-Adequate/standard,N\A,8 Ind,43
+4,1,Not specified,Flat/Apartment,Rent/Lease,2-Adequate/standard,N\A,9 Ind,17
+4,1,Not specified,Flat/Apartment,Free,3-Inadequate/sub-standard,N\A,1 Ind,110
+4,1,Not specified,Flat/Apartment,Other,3-Inadequate/sub-standard,N\A,1 Ind,3
+4,1,Not specified,Flat/Apartment,Owned,3-Inadequate/sub-standard,N\A,1 Ind,1
+4,1,Not specified,Flat/Apartment,Rent/Lease,3-Inadequate/sub-standard,N\A,1 Ind,328
+4,1,Not specified,Flat/Apartment,Rent/Lease,3-Inadequate/sub-standard,N\A,10 Ind,3
+4,1,Not specified,Flat/Apartment,Rent/Lease,3-Inadequate/sub-standard,N\A,11 Ind,2
+4,1,Not specified,Flat/Apartment,Free,3-Inadequate/sub-standard,N\A,2 Ind,20
+4,1,Not specified,Flat/Apartment,Other,3-Inadequate/sub-standard,N\A,2 Ind,1
+4,1,Not specified,Flat/Apartment,Owned,3-Inadequate/sub-standard,N\A,2 Ind,1
+4,1,Not specified,Flat/Apartment,Rent/Lease,3-Inadequate/sub-standard,N\A,2 Ind,107
+4,1,Not specified,Flat/Apartment,Free,3-Inadequate/sub-standard,N\A,3 Ind,22
+4,1,Not specified,Flat/Apartment,Other,3-Inadequate/sub-standard,N\A,3 Ind,1
+4,1,Not specified,Flat/Apartment,Rent/Lease,3-Inadequate/sub-standard,N\A,3 Ind,129
+4,1,Not specified,Flat/Apartment,Free,3-Inadequate/sub-standard,N\A,4 Ind,12
+4,1,Not specified,Flat/Apartment,Rent/Lease,3-Inadequate/sub-standard,N\A,4 Ind,205
+4,1,Not specified,Flat/Apartment,Free,3-Inadequate/sub-standard,N\A,5 Ind,13
+4,1,Not specified,Flat/Apartment,Rent/Lease,3-Inadequate/sub-standard,N\A,5 Ind,207
+4,1,Not specified,Flat/Apartment,Free,3-Inadequate/sub-standard,N\A,6 Ind,7
+4,1,Not specified,Flat/Apartment,Rent/Lease,3-Inadequate/sub-standard,N\A,6 Ind,160
+4,1,Not specified,Flat/Apartment,Free,3-Inadequate/sub-standard,N\A,7 Ind,3
+4,1,Not specified,Flat/Apartment,Rent/Lease,3-Inadequate/sub-standard,N\A,7 Ind,88
+4,1,Not specified,Flat/Apartment,Rent/Lease,3-Inadequate/sub-standard,N\A,8 Ind,35
+4,1,Not specified,Flat/Apartment,Free,3-Inadequate/sub-standard,N\A,9 Ind,1
+4,1,Not specified,Flat/Apartment,Rent/Lease,3-Inadequate/sub-standard,N\A,9 Ind,9
+4,1,Not specified,Flat/Apartment,Free,4-Emergency,N\A,1 Ind,6
+4,1,Not specified,Flat/Apartment,Rent/Lease,4-Emergency,N\A,1 Ind,8
+4,1,Not specified,Flat/Apartment,Rent/Lease,4-Emergency,N\A,2 Ind,2
+4,1,Not specified,Flat/Apartment,Free,4-Emergency,N\A,3 Ind,2
+4,1,Not specified,Flat/Apartment,Rent/Lease,4-Emergency,N\A,3 Ind,2
+4,1,Not specified,Flat/Apartment,Rent/Lease,4-Emergency,N\A,4 Ind,3
+4,1,Not specified,Flat/Apartment,Rent/Lease,4-Emergency,N\A,5 Ind,1
+4,1,Not specified,Flat/Apartment,Rent/Lease,4-Emergency,N\A,6 Ind,3
+4,1,Not specified,Flat/Apartment,Rent/Lease,4-Emergency,N\A,7 Ind,2
+4,1,Not specified,Flat/Apartment,Rent/Lease,4-Emergency,N\A,8 Ind,3
+4,1,Not specified,Flat/Apartment,Rent/Lease,5. N\A,N\A,1 Ind,1
+4,1,Not specified,Flat/Apartment,Rent/Lease,5. N\A,N\A,2 Ind,1
+4,1,Not specified,Flat/Apartment,Rent/Lease,5. N\A,N\A,6 Ind,1
+4,1,Not specified,Flat/Apartment,Rent/Lease,5. N\A,N\A,7 Ind,2
+4,1,Not specified,House,Rent/Lease,2-Adequate/standard,N\A,5 Ind,2
+4,1,Not specified,House,Rent/Lease,2-Adequate/standard,N\A,6 Ind,1
+4,1,Not specified,Improvised/Self-Made,Rent/Lease,2-Adequate/standard,N\A,6 Ind,1
+4,1,Not specified,Mud-House,Rent/Lease,3-Inadequate/sub-standard,N\A,1 Ind,2
+4,1,Not specified,Mud-House,Rent/Lease,3-Inadequate/sub-standard,N\A,4 Ind,1
+4,1,Not specified,Mud-House,Rent/Lease,3-Inadequate/sub-standard,N\A,5 Ind,1
+4,1,Not specified,Other,Free,2-Adequate/standard,N\A,1 Ind,3
+4,1,Not specified,Other,Rent/Lease,2-Adequate/standard,N\A,1 Ind,1
+4,1,Not specified,Other,Rent/Lease,2-Adequate/standard,N\A,2 Ind,2
+4,1,Not specified,Other,Free,2-Adequate/standard,N\A,5 Ind,2
+4,1,Not specified,Other,Rent/Lease,2-Adequate/standard,N\A,5 Ind,3
+4,1,Not specified,Other,Free,2-Adequate/standard,N\A,7 Ind,1
+4,1,Not specified,Other,Free,3-Inadequate/sub-standard,N\A,1 Ind,6
+4,1,Not specified,Other,Other,3-Inadequate/sub-standard,N\A,1 Ind,2
+4,1,Not specified,Other,Rent/Lease,3-Inadequate/sub-standard,N\A,1 Ind,13
+4,1,Not specified,Other,Free,3-Inadequate/sub-standard,N\A,2 Ind,1
+4,1,Not specified,Other,Rent/Lease,3-Inadequate/sub-standard,N\A,2 Ind,2
+4,1,Not specified,Other,Free,3-Inadequate/sub-standard,N\A,3 Ind,2
+4,1,Not specified,Other,Rent/Lease,3-Inadequate/sub-standard,N\A,3 Ind,6
+4,1,Not specified,Other,Free,3-Inadequate/sub-standard,N\A,4 Ind,2
+4,1,Not specified,Other,Rent/Lease,3-Inadequate/sub-standard,N\A,4 Ind,6
+4,1,Not specified,Other,Free,3-Inadequate/sub-standard,N\A,5 Ind,2
+4,1,Not specified,Other,Rent/Lease,3-Inadequate/sub-standard,N\A,5 Ind,7
+4,1,Not specified,Other,Rent/Lease,3-Inadequate/sub-standard,N\A,6 Ind,1
+4,1,Not specified,Other,Rent/Lease,3-Inadequate/sub-standard,N\A,7 Ind,1
+4,1,Not specified,Other,Other,4-Emergency,N\A,1 Ind,1
+4,1,Not specified,Other,Rent/Lease,4-Emergency,N\A,1 Ind,1
+4,1,Not specified,Other,Rent/Lease,4-Emergency,N\A,2 Ind,1
+4,1,Not specified,Other,Free,4-Emergency,N\A,5 Ind,1
+4,1,Not specified,Prefab,Free,1-Above standard,N\A,4 Ind,1
+4,1,Not specified,Prefab,Free,2-Adequate/standard,N\A,1 Ind,1
+4,1,Not specified,Prefab,Rent/Lease,2-Adequate/standard,N\A,1 Ind,3
+4,1,Not specified,Prefab,Rent/Lease,2-Adequate/standard,N\A,2 Ind,1
+4,1,Not specified,Prefab,Free,2-Adequate/standard,N\A,3 Ind,1
+4,1,Not specified,Prefab,Rent/Lease,2-Adequate/standard,N\A,3 Ind,1
+4,1,Not specified,Prefab,Free,2-Adequate/standard,N\A,4 Ind,1
+4,1,Not specified,Prefab,Rent/Lease,2-Adequate/standard,N\A,4 Ind,4
+4,1,Not specified,Prefab,Rent/Lease,2-Adequate/standard,N\A,5 Ind,1
+4,1,Not specified,Prefab,Free,3-Inadequate/sub-standard,N\A,1 Ind,1
+4,1,Not specified,Prefab,Rent/Lease,3-Inadequate/sub-standard,N\A,3 Ind,2
+4,1,Not specified,Tent,Free,3-Inadequate/sub-standard,N\A,1 Ind,2
+4,1,Not specified,Tent,Owned,3-Inadequate/sub-standard,N\A,1 Ind,5
+4,1,Not specified,Tent,Free,3-Inadequate/sub-standard,N\A,2 Ind,1
+4,1,Not specified,Tent,Owned,3-Inadequate/sub-standard,N\A,2 Ind,1
+4,1,Not specified,Tent,Owned,3-Inadequate/sub-standard,N\A,3 Ind,2
+4,1,Not specified,Tent,Free,3-Inadequate/sub-standard,N\A,4 Ind,1
+4,1,Not specified,Tent,Rent/Lease,3-Inadequate/sub-standard,N\A,4 Ind,1
+4,1,Not specified,Tent,Rent/Lease,3-Inadequate/sub-standard,N\A,5 Ind,2
+4,1,Not specified,Tent,Free,3-Inadequate/sub-standard,N\A,7 Ind,1
+4,1,Not specified,Tent,N\A,3-Inadequate/sub-standard,N\A,8 Ind,1
+4,1,Not specified,Tent,Free,3-Inadequate/sub-standard,N\A,8 Ind,2
+4,1,Not specified,Tent,Owned,3-Inadequate/sub-standard,N\A,8 Ind,1
+4,1,Not specified,Tent,Owned,3-Inadequate/sub-standard,N\A,9 Ind,2
+4,1,Not specified,Tent,Free,4-Emergency,N\A,3 Ind,2
+4,1,Not specified,Tent,Free,4-Emergency,N\A,6 Ind,1
+4,1,Not specified,Tent,Rent/Lease,4-Emergency,N\A,9 Ind,1
